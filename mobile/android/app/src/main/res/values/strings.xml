@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">learnChinese</string>
+    <string name="title_activity_main">learnChinese</string>
+    <string name="package_name">com.somnio.learnchinese</string>
+    <string name="custom_url_scheme">com.somnio.learnchinese</string>
+</resources>
