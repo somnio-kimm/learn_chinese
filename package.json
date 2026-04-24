@@ -1,0 +1,15 @@
+{
+  "name": "learnchinese-tools",
+  "private": true,
+  "type": "module",
+  "description": "Dev scripts for building vocabulary data.",
+  "scripts": {
+    "build:hsk": "node scripts/build-hsk-data.mjs",
+    "fill:measure": "node scripts/fill-measure-from-upstream.mjs",
+    "merge:augment": "node scripts/merge-augment.mjs",
+    "sync:web-data": "node scripts/sync-web-data.mjs",
+    "build:hsk:web": "npm run build:hsk && npm run merge:augment && npm run sync:web-data",
+    "mobile:sync": "npm run build:hsk:web && cd mobile && npm run sync"
+  },
+  "dependencies": {}
+}
