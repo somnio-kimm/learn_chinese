@@ -1,0 +1,20 @@
+{
+  "name": "mobile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sync": "npx cap sync",
+    "open:ios": "npx cap open ios",
+    "open:android": "npx cap open android"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@capacitor/android": "^8.3.0",
+    "@capacitor/cli": "^8.3.0",
+    "@capacitor/core": "^8.3.0",
+    "@capacitor/ios": "^8.3.0"
+  }
+}
