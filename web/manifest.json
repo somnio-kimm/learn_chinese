@@ -1,0 +1,13 @@
+{
+  "name": "중국어 학습",
+  "short_name": "중국어 학습",
+  "description": "HSK 단어·퀴즈로 중국어를 배워요",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#007aff",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%23007aff' width='100' height='100' rx='20'/><text x='50' y='68' font-size='50' text-anchor='middle' fill='white'>中</text></svg>", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

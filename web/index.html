@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="system">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="중국어 학습">
+  <meta name="theme-color" content="#007aff">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%23007aff' width='100' height='100' rx='20'/><text x='50' y='68' font-size='50' text-anchor='middle' fill='white'>中</text></svg>">
+  <title>중국어 학습</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <header id="header">
+      <button id="back-btn" hidden style="font-size:20px;background:none;border:none;color:var(--blue);padding:0 8px">‹</button>
+      <h1 id="header-title">중국어 학습</h1>
+    </header>
+    <main id="main"></main>
+    <nav id="tab-bar">
+      <button class="tab-btn active" data-tab="home"><span class="tab-icon">🏠</span><span class="tab-label">홈</span></button>
+      <button class="tab-btn" data-tab="wrong"><span class="tab-icon">📕</span><span class="tab-label">오답노트</span></button>
+      <button class="tab-btn" data-tab="settings"><span class="tab-icon">⚙️</span><span class="tab-label">설정</span></button>
+    </nav>
+  </div>
+  <script type="module">
+    function showScriptLoadFailure(err) {
+      console.error(err);
+      const main = document.getElementById('main');
+      const tabBar = document.getElementById('tab-bar');
+      if (tabBar) tabBar.hidden = false;
+      if (!main) return;
+      const msg = err && err.message ? String(err.message) : String(err);
+      main.innerHTML =
+        '<div class="card boot-error" style="margin-top:8px">' +
+        '<p class="boot-err-title">JavaScript 로딩 실패</p>' +
+        '<p class="boot-err-detail" style="word-break:break-all">' +
+        msg +
+        '</p>' +
+        '<p class="boot-err-detail" style="font-size:12px;margin-top:10px">' +
+        '새로고침하거나, web 폴더에서 로컬 서버로 여세요 (예: python3 -m http.server 8080). ' +
+        '앱(PWA)을 설치했다면 사이트 데이터를 지운 뒤 다시 시도해 보세요.' +
+        '</p></div>';
+    }
+    import('./js/app.js').catch(showScriptLoadFailure);
+  </script>
+</body>
+</html>
