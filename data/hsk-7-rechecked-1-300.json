@@ -1,0 +1,5900 @@
+[
+  {
+    "id": "hsk7_31",
+    "hskLevel": 7,
+    "hanzi": "奥秘",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "奥",
+        "base": "ao",
+        "tone": 4
+      },
+      {
+        "hanzi": "秘",
+        "base": "mi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "mystery; secret; profound truth",
+    "meaningKo": "비밀; 신비; 오묘한 이치",
+    "sentences": [
+      {
+        "hanzi": "科学家仍在探索宇宙的奥秘。",
+        "pinyin": "ke1 xue2 jia1 reng2 zai4 tan4 suo3 yu3 zhou4 de5 ao4 mi4.",
+        "meaningKo": "과학자들은 여전히 우주의 신비를 탐구하고 있다.",
+        "meaningEn": "Scientists are still exploring the mysteries of the universe."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_32",
+    "hskLevel": 7,
+    "hanzi": "八卦",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "八",
+        "base": "ba",
+        "tone": 1
+      },
+      {
+        "hanzi": "卦",
+        "base": "gua",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "the Eight Trigrams; gossip",
+    "meaningKo": "팔괘; 가십; 뒷이야기",
+    "sentences": [
+      {
+        "hanzi": "她不喜欢在办公室里聊别人八卦。",
+        "pinyin": "ta1 bu4 xi3 huan5 zai4 ban4 gong1 shi4 li3 liao2 bie2 ren2 ba1 gua4.",
+        "meaningKo": "그녀는 사무실에서 남의 뒷이야기 하는 것을 좋아하지 않는다.",
+        "meaningEn": "She does not like gossiping about other people in the office."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_33",
+    "hskLevel": 7,
+    "hanzi": "扒",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "扒",
+        "base": "ba",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to peel; to skin; to tear down; to cling to; to dig",
+    "meaningKo": "껍질을 벗기다; 가죽을 벗기다; 허물다; 매달리다; 파다",
+    "sentences": [
+      {
+        "hanzi": "妈妈正在给苹果扒皮。",
+        "pinyin": "ma1 ma1 zheng4 zai4 gei3 ping2 guo3 ba1 pi2.",
+        "meaningKo": "엄마가 지금 사과 껍질을 벗기고 있다.",
+        "meaningEn": "Mom is peeling an apple now."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_34",
+    "hskLevel": 7,
+    "hanzi": "芭蕾",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "芭",
+        "base": "ba",
+        "tone": 1
+      },
+      {
+        "hanzi": "蕾",
+        "base": "lei",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "ballet",
+    "meaningKo": "발레",
+    "sentences": [
+      {
+        "hanzi": "她从小学习芭蕾，动作非常优美。",
+        "pinyin": "ta1 cong2 xiao3 xue2 xi2 ba1 lei3, dong4 zuo4 fei1 chang2 you1 mei3.",
+        "meaningKo": "그녀는 어릴 때부터 발레를 배워서 동작이 매우 우아하다.",
+        "meaningEn": "She has studied ballet since childhood, so her movements are very graceful."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_35",
+    "hskLevel": 7,
+    "hanzi": "疤",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "疤",
+        "base": "ba",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "scar; scab",
+    "meaningKo": "흉터; 딱지",
+    "sentences": [
+      {
+        "hanzi": "他的手上留了一道浅浅的疤。",
+        "pinyin": "ta1 de5 shou3 shang4 liu2 le5 yi2 dao4 qian3 qian3 de5 ba1.",
+        "meaningKo": "그의 손에는 옅은 흉터가 하나 남아 있다.",
+        "meaningEn": "A faint scar remains on his hand."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_36",
+    "hskLevel": 7,
+    "hanzi": "拔",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "拔",
+        "base": "ba",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to pull out; to pull up; to draw; to select; to surpass",
+    "meaningKo": "뽑다; 빼내다; 끌어올리다; 선발하다; 뛰어나다",
+    "sentences": [
+      {
+        "hanzi": "医生先帮他把刺拔出来了。",
+        "pinyin": "yi1 sheng1 xian1 bang1 ta1 ba3 ci4 ba2 chu1 lai2 le5.",
+        "meaningKo": "의사는 먼저 그의 몸에 박힌 가시를 빼 주었다.",
+        "meaningEn": "The doctor first helped pull out the thorn."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_37",
+    "hskLevel": 7,
+    "hanzi": "把柄",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "把",
+        "base": "ba",
+        "tone": 3
+      },
+      {
+        "hanzi": "柄",
+        "base": "bing",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "handle; pretext or evidence that can be used against someone",
+    "meaningKo": "손잡이; 남에게 잡힐 약점",
+    "sentences": [
+      {
+        "hanzi": "说话做事要小心，别让人抓住把柄。",
+        "pinyin": "shuo1 hua4 zuo4 shi4 yao4 xiao3 xin1, bie2 rang4 ren2 zhua1 zhu4 ba3 bing3.",
+        "meaningKo": "말과 행동을 조심해서 남에게 약점을 잡히지 마라.",
+        "meaningEn": "Be careful in what you say and do, and do not let others seize on your weakness."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_38",
+    "hskLevel": 7,
+    "hanzi": "把关",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "把",
+        "base": "ba",
+        "tone": 3
+      },
+      {
+        "hanzi": "关",
+        "base": "guan",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to guard a pass; to check carefully; to exercise strict control over quality",
+    "meaningKo": "관문을 지키다; 엄격히 심사하다; 품질을 엄격히 관리하다",
+    "sentences": [
+      {
+        "hanzi": "这个环节一定要严格把关，不能出错。",
+        "pinyin": "zhe4 ge5 huan2 jie2 yi2 ding4 yao4 yan2 ge2 ba3 guan1, bu4 neng2 chu1 cuo4.",
+        "meaningKo": "이 단계는 반드시 엄격하게 관리해야 하며 실수가 있어서는 안 된다.",
+        "meaningEn": "This stage must be checked strictly, and no mistakes can be allowed."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_39",
+    "hskLevel": 7,
+    "hanzi": "把手",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "把",
+        "base": "ba",
+        "tone": 3
+      },
+      {
+        "hanzi": "手",
+        "base": "shou",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "handle; grip; knob",
+    "meaningKo": "손잡이",
+    "sentences": [
+      {
+        "hanzi": "门把手坏了，需要赶紧换一个新的。",
+        "pinyin": "men2 ba3 shou3 huai4 le5, xu1 yao4 gan3 jin3 huan4 yi2 ge4 xin1 de5.",
+        "meaningKo": "문손잡이가 고장 나서 새것으로 빨리 바꿔야 한다.",
+        "meaningEn": "The door handle is broken and needs to be replaced with a new one quickly."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_40",
+    "hskLevel": 7,
+    "hanzi": "靶子",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "靶",
+        "base": "ba",
+        "tone": 3
+      },
+      {
+        "hanzi": "子",
+        "base": "zi",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "target; target board",
+    "meaningKo": "과녁; 표적",
+    "sentences": [
+      {
+        "hanzi": "射击训练时，他一直盯着远处的靶子。",
+        "pinyin": "she4 ji1 xun4 lian4 shi2, ta1 yi4 zhi2 ding1 zhe5 yuan3 chu4 de5 ba3 zi5.",
+        "meaningKo": "사격 훈련 때 그는 멀리 있는 과녁을 계속 응시했다.",
+        "meaningEn": "During shooting practice, he kept staring at the target in the distance."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_41",
+    "hskLevel": 7,
+    "hanzi": "坝",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "坝",
+        "base": "ba",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "dam; dike; embankment",
+    "meaningKo": "댐; 제방",
+    "sentences": [
+      {
+        "hanzi": "洪水来之前，村民们加固了河边的坝。",
+        "pinyin": "hong2 shui3 lai2 zhi1 qian2, cun1 min2 men5 jia1 gu4 le5 he2 bian1 de5 ba4.",
+        "meaningKo": "홍수가 오기 전에 마을 사람들은 강가의 제방을 보강했다.",
+        "meaningEn": "Before the flood came, the villagers reinforced the embankment by the river."
+      }
+    ],
+    "measureWord": "条"
+  },
+  {
+    "id": "hsk7_42",
+    "hskLevel": 7,
+    "hanzi": "霸道",
+    "partOfSpeech": "Adjective / Verb",
+    "syllables": [
+      {
+        "hanzi": "霸",
+        "base": "ba",
+        "tone": 4
+      },
+      {
+        "hanzi": "道",
+        "base": "dao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "overbearing; domineering; tyrannical; strong and potent",
+    "meaningKo": "제멋대로인; 횡포한; 독선적인; (술·약효가) 강한",
+    "sentences": [
+      {
+        "hanzi": "他说话太霸道了，别人根本没有机会发表意见。",
+        "pinyin": "ta1 shuo1 hua4 tai4 ba4 dao4 le5, bie2 ren2 gen1 ben3 mei2 you3 ji1 hui4 fa1 biao3 yi4 jian4.",
+        "meaningKo": "그는 말을 너무 독단적으로 해서 다른 사람들이 의견을 낼 기회가 전혀 없다.",
+        "meaningEn": "He speaks in such a domineering way that others have no chance to express their opinions."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_43",
+    "hskLevel": 7,
+    "hanzi": "霸占",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "霸",
+        "base": "ba",
+        "tone": 4
+      },
+      {
+        "hanzi": "占",
+        "base": "zhan",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to seize by force; to occupy; to appropriate",
+    "meaningKo": "강제로 차지하다; 점유하다; 독차지하다",
+    "sentences": [
+      {
+        "hanzi": "任何人都没有权利霸占公共资源。",
+        "pinyin": "ren4 he2 ren2 dou1 mei2 you3 quan2 li4 ba4 zhan4 gong1 gong4 zi1 yuan2.",
+        "meaningKo": "누구도 공공 자원을 독점할 권리는 없다.",
+        "meaningEn": "No one has the right to seize public resources for themselves."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_44",
+    "hskLevel": 7,
+    "hanzi": "巴不得",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "巴",
+        "base": "ba",
+        "tone": 1
+      },
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 0
+      },
+      {
+        "hanzi": "得",
+        "base": "de",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "to long eagerly for; to cannot wait to; to wish desperately",
+    "meaningKo": "몹시 바라다; 간절히 원하다; 어서 ~했으면 하다",
+    "sentences": [
+      {
+        "hanzi": "他巴不得马上见到家人。",
+        "pinyin": "ta1 ba1 bu4 de2 ma3 shang4 jian4 dao4 jia1 ren2.",
+        "meaningKo": "그는 당장 가족을 보고 싶어 안달이 났다.",
+        "meaningEn": "He can hardly wait to see his family right away."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_45",
+    "hskLevel": 7,
+    "hanzi": "巴结",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "巴",
+        "base": "ba",
+        "tone": 1
+      },
+      {
+        "hanzi": "结",
+        "base": "jie",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "to curry favor with; to flatter; to ingratiate oneself with",
+    "meaningKo": "아첨하다; 비위를 맞추다; 환심을 사려 하다",
+    "sentences": [
+      {
+        "hanzi": "他不喜欢巴结领导，只想认真做好自己的工作。",
+        "pinyin": "ta1 bu4 xi3 huan5 ba1 jie5 ling3 dao3, zhi3 xiang3 ren4 zhen1 zuo4 hao3 zi4 ji3 de5 gong1 zuo4.",
+        "meaningKo": "그는 상사에게 아첨하는 것을 좋아하지 않고 자기 일을 성실히 하려 한다.",
+        "meaningEn": "He does not like flattering his superiors and only wants to do his own job well."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_46",
+    "hskLevel": 7,
+    "hanzi": "罢工",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "罢",
+        "base": "ba",
+        "tone": 4
+      },
+      {
+        "hanzi": "工",
+        "base": "gong",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to go on strike; strike",
+    "meaningKo": "파업하다; 파업",
+    "sentences": [
+      {
+        "hanzi": "工人决定下周开始罢工，要求提高工资。",
+        "pinyin": "gong1 ren2 jue2 ding4 xia4 zhou1 kai1 shi3 ba4 gong1, yao1 qiu2 ti2 gao1 gong1 zi1.",
+        "meaningKo": "노동자들은 임금 인상을 요구하며 다음 주부터 파업하기로 했다.",
+        "meaningEn": "The workers decided to go on strike next week to demand higher wages."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_47",
+    "hskLevel": 7,
+    "hanzi": "罢了",
+    "partOfSpeech": "Particle",
+    "syllables": [
+      {
+        "hanzi": "罢",
+        "base": "ba",
+        "tone": 4
+      },
+      {
+        "hanzi": "了",
+        "base": "le",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "that is all; nothing more; merely",
+    "meaningKo": "그뿐이다; 단지 ~일 뿐이다",
+    "sentences": [
+      {
+        "hanzi": "我只是提醒你一下，别误会，没别的意思罢了。",
+        "pinyin": "wo3 zhi3 shi4 ti2 xing3 ni3 yi2 xia4, bie2 wu4 hui4, mei2 bie2 de5 yi4 si5 ba4 le5.",
+        "meaningKo": "나는 그저 한 번 상기시켜 준 것뿐이니 오해하지 마라. 다른 뜻은 없다.",
+        "meaningEn": "I was only reminding you, so do not misunderstand. That is all."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_48",
+    "hskLevel": 7,
+    "hanzi": "罢免",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "罢",
+        "base": "ba",
+        "tone": 4
+      },
+      {
+        "hanzi": "免",
+        "base": "mian",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to dismiss from office; to remove from a post",
+    "meaningKo": "면직하다; 해임하다",
+    "sentences": [
+      {
+        "hanzi": "因严重失职，他被公司正式罢免。",
+        "pinyin": "yin1 yan2 zhong4 shi1 zhi2, ta1 bei4 gong1 si1 zheng4 shi4 ba4 mian3.",
+        "meaningKo": "중대한 직무 태만 때문에 그는 회사에서 정식으로 해임되었다.",
+        "meaningEn": "Because of serious dereliction of duty, he was formally dismissed by the company."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_49",
+    "hskLevel": 7,
+    "hanzi": "罢休",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "罢",
+        "base": "ba",
+        "tone": 4
+      },
+      {
+        "hanzi": "休",
+        "base": "xiu",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to let the matter drop; to give up; to stop",
+    "meaningKo": "그만두다; 포기하다; 더는 문제 삼지 않다",
+    "sentences": [
+      {
+        "hanzi": "这件事没弄清楚，他是不会罢休的。",
+        "pinyin": "zhe4 jian4 shi4 mei2 nong4 qing1 chu3, ta1 shi4 bu2 hui4 ba4 xiu1 de5.",
+        "meaningKo": "이 일을 분명히 밝히지 않으면 그는 절대 가만두지 않을 것이다.",
+        "meaningEn": "He will not let it go until this matter is clarified."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_50",
+    "hskLevel": 7,
+    "hanzi": "掰",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "掰",
+        "base": "bai",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to break off with the hands; to snap; to separate",
+    "meaningKo": "손으로 뜯다; 꺾다; 쪼개다",
+    "sentences": [
+      {
+        "hanzi": "他把玉米一片片掰下来，准备做晚饭。",
+        "pinyin": "ta1 ba3 yu4 mi3 yi2 pian4 pian4 bai1 xia4 lai2, zhun3 bei4 zuo4 wan3 fan4.",
+        "meaningKo": "그는 옥수수를 한 조각씩 떼어 내어 저녁 준비를 했다.",
+        "meaningEn": "He broke the corn off piece by piece to prepare dinner."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_51",
+    "hskLevel": 7,
+    "hanzi": "百分比",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "百",
+        "base": "bai",
+        "tone": 3
+      },
+      {
+        "hanzi": "分",
+        "base": "fen",
+        "tone": 1
+      },
+      {
+        "hanzi": "比",
+        "base": "bi",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "percentage",
+    "meaningKo": "백분율",
+    "sentences": [
+      {
+        "hanzi": "这项调查的支持百分比已经超过六十。",
+        "pinyin": "zhe4 xiang4 diao4 cha2 de5 zhi1 chi2 bai3 fen1 bi3 yi3 jing1 chao1 guo4 liu4 shi2.",
+        "meaningKo": "이 조사에서의 지지율은 이미 60퍼센트를 넘었다.",
+        "meaningEn": "The support percentage in this survey has already exceeded sixty percent."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_52",
+    "hskLevel": 7,
+    "hanzi": "百合",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "百",
+        "base": "bai",
+        "tone": 3
+      },
+      {
+        "hanzi": "合",
+        "base": "he",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "lily",
+    "meaningKo": "백합",
+    "sentences": [
+      {
+        "hanzi": "花瓶里的百合散发出淡淡的香味。",
+        "pinyin": "hua1 ping2 li3 de5 bai3 he2 san4 fa1 chu1 dan4 dan4 de5 xiang1 wei4.",
+        "meaningKo": "꽃병 속 백합에서 은은한 향기가 난다.",
+        "meaningEn": "The lilies in the vase give off a faint fragrance."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_53",
+    "hskLevel": 7,
+    "hanzi": "百科全书",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "百",
+        "base": "bai",
+        "tone": 3
+      },
+      {
+        "hanzi": "科",
+        "base": "ke",
+        "tone": 1
+      },
+      {
+        "hanzi": "全",
+        "base": "quan",
+        "tone": 2
+      },
+      {
+        "hanzi": "书",
+        "base": "shu",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "encyclopedia",
+    "meaningKo": "백과사전",
+    "sentences": [
+      {
+        "hanzi": "这套百科全书内容丰富，查资料很方便。",
+        "pinyin": "zhe4 tao4 bai3 ke1 quan2 shu1 nei4 rong2 feng1 fu4, cha2 zi1 liao4 hen3 fang1 bian4.",
+        "meaningKo": "이 백과사전 전집은 내용이 풍부해서 자료를 찾기 편리하다.",
+        "meaningEn": "This encyclopedia set is rich in content, so it is convenient for looking up information."
+      }
+    ],
+    "measureWord": "本"
+  },
+  {
+    "id": "hsk7_54",
+    "hskLevel": 7,
+    "hanzi": "柏树",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "柏",
+        "base": "bai",
+        "tone": 3
+      },
+      {
+        "hanzi": "树",
+        "base": "shu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "cypress; cedar",
+    "meaningKo": "측백나무; 잣나무류의 상록수",
+    "sentences": [
+      {
+        "hanzi": "院子里种着几棵高大的柏树。",
+        "pinyin": "yuan4 zi5 li3 zhong4 zhe5 ji3 ke1 gao1 da4 de5 bai3 shu4.",
+        "meaningKo": "마당에는 키 큰 측백나무 몇 그루가 심어져 있다.",
+        "meaningEn": "Several tall cypress trees are planted in the yard."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_55",
+    "hskLevel": 7,
+    "hanzi": "摆动",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "摆",
+        "base": "bai",
+        "tone": 3
+      },
+      {
+        "hanzi": "动",
+        "base": "dong",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to swing; to sway; to rock; to oscillate",
+    "meaningKo": "흔들리다; 흔들다; 앞뒤로 움직이다; 진동하다",
+    "sentences": [
+      {
+        "hanzi": "风一吹，门口的风铃就轻轻摆动。",
+        "pinyin": "feng1 yi4 chui1, men2 kou3 de5 feng1 ling2 jiu4 qing1 qing1 bai3 dong4.",
+        "meaningKo": "바람이 불자 문 앞의 풍경이 살랑살랑 흔들렸다.",
+        "meaningEn": "When the wind blew, the wind chime at the door swayed gently."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_56",
+    "hskLevel": 7,
+    "hanzi": "摆平",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "摆",
+        "base": "bai",
+        "tone": 3
+      },
+      {
+        "hanzi": "平",
+        "base": "ping",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to settle; to smooth over; to handle properly",
+    "meaningKo": "잘 해결하다; 수습하다; 정리하다",
+    "sentences": [
+      {
+        "hanzi": "这件麻烦事，他最后总算摆平了。",
+        "pinyin": "zhe4 jian4 ma2 fan2 shi4, ta1 zui4 hou4 zong3 suan4 bai3 ping2 le5.",
+        "meaningKo": "그는 그 골치 아픈 일을 결국 잘 해결했다.",
+        "meaningEn": "He finally managed to settle that troublesome matter."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_57",
+    "hskLevel": 7,
+    "hanzi": "摆设",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "摆",
+        "base": "bai",
+        "tone": 3
+      },
+      {
+        "hanzi": "设",
+        "base": "she",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "ornament; furnishing; decoration put on display",
+    "meaningKo": "장식품; 진열물; 보기 좋게 놓아둔 물건",
+    "sentences": [
+      {
+        "hanzi": "这些古董只是摆设，不能随便碰。",
+        "pinyin": "zhe4 xie1 gu3 dong3 zhi3 shi4 bai3 she4, bu4 neng2 sui2 bian4 peng4.",
+        "meaningKo": "이 골동품들은 장식용이니 함부로 만지면 안 된다.",
+        "meaningEn": "These antiques are only for display, so they must not be touched casually."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_58",
+    "hskLevel": 7,
+    "hanzi": "败坏",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "败",
+        "base": "bai",
+        "tone": 4
+      },
+      {
+        "hanzi": "坏",
+        "base": "huai",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to corrupt; to ruin; to undermine",
+    "meaningKo": "망치다; 타락시키다; 손상시키다",
+    "sentences": [
+      {
+        "hanzi": "这种行为会严重败坏公司的名声。",
+        "pinyin": "zhe4 zhong3 xing2 wei2 hui4 yan2 zhong4 bai4 huai4 gong1 si1 de5 ming2 sheng1.",
+        "meaningKo": "이런 행동은 회사의 명성을 크게 훼손할 것이다.",
+        "meaningEn": "This kind of behavior will seriously damage the company’s reputation."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_59",
+    "hskLevel": 7,
+    "hanzi": "拜会",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "拜",
+        "base": "bai",
+        "tone": 4
+      },
+      {
+        "hanzi": "会",
+        "base": "hui",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to pay a visit; to call on (formal)",
+    "meaningKo": "방문하다; 찾아뵙다",
+    "sentences": [
+      {
+        "hanzi": "代表团明天将拜会当地市长。",
+        "pinyin": "dai4 biao3 tuan2 ming2 tian1 jiang1 bai4 hui4 dang1 di4 shi4 zhang3.",
+        "meaningKo": "대표단은 내일 현지 시장을 예방할 예정이다.",
+        "meaningEn": "The delegation will pay a formal visit to the local mayor tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_60",
+    "hskLevel": 7,
+    "hanzi": "拜见",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "拜",
+        "base": "bai",
+        "tone": 4
+      },
+      {
+        "hanzi": "见",
+        "base": "jian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to pay respects in a formal visit; to call on a superior or elder",
+    "meaningKo": "찾아뵙다; 알현하다; 인사드리다",
+    "sentences": [
+      {
+        "hanzi": "学生们一进门就先向老师拜见。",
+        "pinyin": "xue2 sheng1 men5 yi2 jin4 men2 jiu4 xian1 xiang4 lao3 shi1 bai4 jian4.",
+        "meaningKo": "학생들은 문에 들어서자마자 먼저 선생님께 인사를 드렸다.",
+        "meaningEn": "As soon as they entered, the students first paid their respects to the teacher."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_61",
+    "hskLevel": 7,
+    "hanzi": "拜托",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "拜",
+        "base": "bai",
+        "tone": 4
+      },
+      {
+        "hanzi": "托",
+        "base": "tuo",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to ask a favor; to request someone's help; please",
+    "meaningKo": "부탁하다; 부탁드리다; 제발",
+    "sentences": [
+      {
+        "hanzi": "这件事就拜托你了，办完以后请及时告诉我。",
+        "pinyin": "zhe4 jian4 shi4 jiu4 bai4 tuo1 ni3 le5, ban4 wan2 yi3 hou4 qing3 ji2 shi2 gao4 su4 wo3.",
+        "meaningKo": "이 일은 너에게 부탁할게. 끝나면 제때 알려 줘.",
+        "meaningEn": "I am counting on you for this matter. Please let me know as soon as it is done."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_62",
+    "hskLevel": 7,
+    "hanzi": "扳",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "扳",
+        "base": "ban",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to pull; to turn; to reverse; to pull back",
+    "meaningKo": "잡아당기다; 돌리다; 되돌리다; 만회하다",
+    "sentences": [
+      {
+        "hanzi": "他使劲扳开瓶盖，终于把药瓶打开了。",
+        "pinyin": "ta1 shi3 jin4 ban1 kai1 ping2 gai4, zhong1 yu2 ba3 yao4 ping2 da3 kai1 le5.",
+        "meaningKo": "그는 병뚜껑을 힘껏 비틀어 열어 마침내 약병을 열었다.",
+        "meaningEn": "He twisted the cap hard and finally opened the medicine bottle."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_63",
+    "hskLevel": 7,
+    "hanzi": "颁布",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "颁",
+        "base": "ban",
+        "tone": 1
+      },
+      {
+        "hanzi": "布",
+        "base": "bu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to promulgate; to issue; to announce officially",
+    "meaningKo": "공포하다; 반포하다; 공식 발표하다",
+    "sentences": [
+      {
+        "hanzi": "政府近日颁布了新的环境保护条例。",
+        "pinyin": "zheng4 fu3 jin4 ri4 ban1 bu4 le5 xin1 de5 huan2 jing4 bao3 hu4 tiao2 li4.",
+        "meaningKo": "정부는 최근 새로운 환경보호 조례를 공포했다.",
+        "meaningEn": "The government recently promulgated new environmental protection regulations."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_64",
+    "hskLevel": 7,
+    "hanzi": "颁发",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "颁",
+        "base": "ban",
+        "tone": 1
+      },
+      {
+        "hanzi": "发",
+        "base": "fa",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to issue; to award; to grant officially",
+    "meaningKo": "발급하다; 수여하다; 수여·교부하다",
+    "sentences": [
+      {
+        "hanzi": "学校向获奖学生颁发了荣誉证书。",
+        "pinyin": "xue2 xiao4 xiang4 huo4 jiang3 xue2 sheng1 ban1 fa1 le5 rong2 yu4 zheng4 shu1.",
+        "meaningKo": "학교는 수상한 학생들에게 명예 증서를 수여했다.",
+        "meaningEn": "The school awarded certificates of honor to the prize-winning students."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_65",
+    "hskLevel": 7,
+    "hanzi": "颁奖",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "颁",
+        "base": "ban",
+        "tone": 1
+      },
+      {
+        "hanzi": "奖",
+        "base": "jiang",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to present awards; to confer prizes",
+    "meaningKo": "시상하다; 상을 수여하다",
+    "sentences": [
+      {
+        "hanzi": "典礼结束前，主办方向优秀志愿者颁奖。",
+        "pinyin": "dian3 li3 jie2 shu4 qian2, zhu3 ban4 fang1 xiang4 you1 xiu4 zhi4 yuan4 zhe3 ban1 jiang3.",
+        "meaningKo": "행사가 끝나기 전에 주최 측은 우수 자원봉사자들에게 시상했다.",
+        "meaningEn": "Before the ceremony ended, the organizers presented awards to outstanding volunteers."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_66",
+    "hskLevel": 7,
+    "hanzi": "斑点",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "斑",
+        "base": "ban",
+        "tone": 1
+      },
+      {
+        "hanzi": "点",
+        "base": "dian",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "spot; speck; blotch",
+    "meaningKo": "반점; 얼룩; 작은 점",
+    "sentences": [
+      {
+        "hanzi": "这只猫背上有几个黑色斑点，很容易认出来。",
+        "pinyin": "zhe4 zhi1 mao1 bei4 shang5 you3 ji3 ge4 hei1 se4 ban1 dian3, hen3 rong2 yi4 ren4 chu5 lai2.",
+        "meaningKo": "이 고양이는 등에 검은 반점이 몇 개 있어서 알아보기 쉽다.",
+        "meaningEn": "This cat has several black spots on its back, so it is easy to recognize."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_67",
+    "hskLevel": 7,
+    "hanzi": "搬迁",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "搬",
+        "base": "ban",
+        "tone": 1
+      },
+      {
+        "hanzi": "迁",
+        "base": "qian",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to relocate; to move; relocation",
+    "meaningKo": "이전하다; 이주하다; 이전",
+    "sentences": [
+      {
+        "hanzi": "老工厂已经搬迁到郊区，新园区下个月正式启用。",
+        "pinyin": "lao3 gong1 chang3 yi3 jing1 ban1 qian1 dao4 jiao1 qu1, xin1 yuan2 qu1 xia4 ge4 yue4 zheng4 shi4 qi3 yong4.",
+        "meaningKo": "오래된 공장은 이미 교외로 이전했고 새 단지는 다음 달에 정식 가동된다.",
+        "meaningEn": "The old factory has already been relocated to the suburbs, and the new complex will officially start operating next month."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_68",
+    "hskLevel": 7,
+    "hanzi": "板块",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "板",
+        "base": "ban",
+        "tone": 3
+      },
+      {
+        "hanzi": "块",
+        "base": "kuai",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "sector; section; plate; tectonic plate",
+    "meaningKo": "분야; 부문; 판; 지각판",
+    "sentences": [
+      {
+        "hanzi": "新能源板块今天上涨明显，带动了整个市场的气氛。",
+        "pinyin": "xin1 neng2 yuan2 ban3 kuai4 jin1 tian1 shang4 zhang3 ming2 xian3, dai4 dong4 le5 zheng3 ge4 shi4 chang3 de5 qi4 fen1.",
+        "meaningKo": "신에너지 부문은 오늘 뚜렷하게 상승해 시장 전체 분위기를 끌어올렸다.",
+        "meaningEn": "The new energy sector rose noticeably today, lifting the mood of the whole market."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_69",
+    "hskLevel": 7,
+    "hanzi": "办事处",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "办",
+        "base": "ban",
+        "tone": 4
+      },
+      {
+        "hanzi": "事",
+        "base": "shi",
+        "tone": 4
+      },
+      {
+        "hanzi": "处",
+        "base": "chu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "branch office; representative office; agency",
+    "meaningKo": "사무소; 지사; 대표처",
+    "sentences": [
+      {
+        "hanzi": "公司决定在上海设立新的办事处，方便联系华东客户。",
+        "pinyin": "gong1 si1 jue2 ding4 zai4 Shang4 hai3 she4 li4 xin1 de5 ban4 shi4 chu4, fang1 bian4 lian2 xi4 Hua2 dong1 ke4 hu4.",
+        "meaningKo": "회사는 화동 지역 고객과의 연락을 쉽게 하기 위해 상하이에 새 사무소를 세우기로 했다.",
+        "meaningEn": "The company decided to set up a new branch office in Shanghai to facilitate contact with customers in East China."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_70",
+    "hskLevel": 7,
+    "hanzi": "办学",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "办",
+        "base": "ban",
+        "tone": 4
+      },
+      {
+        "hanzi": "学",
+        "base": "xue",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to run a school; to manage an educational institution",
+    "meaningKo": "학교를 운영하다; 교육기관을 경영하다",
+    "sentences": [
+      {
+        "hanzi": "这所大学办学历史很长，在当地享有很高声誉。",
+        "pinyin": "zhe4 suo3 da4 xue2 ban4 xue2 li4 shi3 hen3 chang2, zai4 dang1 di4 xiang3 you3 hen3 gao1 sheng1 yu4.",
+        "meaningKo": "이 대학은 학교 운영 역사가 길어서 현지에서 명성이 높다.",
+        "meaningEn": "This university has a long history of running a school and enjoys a high reputation locally."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_71",
+    "hskLevel": 7,
+    "hanzi": "半边天",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "半",
+        "base": "ban",
+        "tone": 4
+      },
+      {
+        "hanzi": "边",
+        "base": "bian",
+        "tone": 1
+      },
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "half the sky; women as a major force in society",
+    "meaningKo": "하늘의 절반; 사회의 중요한 힘으로서의 여성",
+    "sentences": [
+      {
+        "hanzi": "人们常说妇女能顶半边天，这句话强调了女性的重要作用。",
+        "pinyin": "ren2 men5 chang2 shuo1 fu4 nv3 neng2 ding3 ban4 bian1 tian1, zhe4 ju4 hua4 qiang2 diao4 le5 nv3 xing4 de5 zhong4 yao4 zuo4 yong4.",
+        "meaningKo": "사람들은 흔히 여성이 하늘의 절반을 떠받친다고 말하는데, 이는 여성의 중요한 역할을 강조하는 말이다.",
+        "meaningEn": "People often say that women hold up half the sky, a phrase that emphasizes the important role of women."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_72",
+    "hskLevel": 7,
+    "hanzi": "半岛",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "半",
+        "base": "ban",
+        "tone": 4
+      },
+      {
+        "hanzi": "岛",
+        "base": "dao",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "peninsula",
+    "meaningKo": "반도",
+    "sentences": [
+      {
+        "hanzi": "这个半岛三面环海，风景非常优美。",
+        "pinyin": "zhe4 ge4 ban4 dao3 san1 mian4 huan2 hai3, feng1 jing3 fei1 chang2 you1 mei3.",
+        "meaningKo": "이 반도는 삼면이 바다로 둘러싸여 있어 경치가 매우 아름답다.",
+        "meaningEn": "This peninsula is surrounded by the sea on three sides and has very beautiful scenery."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_73",
+    "hskLevel": 7,
+    "hanzi": "半数",
+    "partOfSpeech": "Numeral",
+    "syllables": [
+      {
+        "hanzi": "半",
+        "base": "ban",
+        "tone": 4
+      },
+      {
+        "hanzi": "数",
+        "base": "shu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "half; one half of the total number",
+    "meaningKo": "반수; 절반",
+    "sentences": [
+      {
+        "hanzi": "在这项调查中，半数受访者表示愿意参与后续研究。",
+        "pinyin": "zai4 zhe4 xiang4 diao4 cha2 zhong1, ban4 shu4 shou4 fang3 zhe3 biao3 shi4 yuan4 yi4 can1 yu4 hou4 xu4 yan2 jiu1.",
+        "meaningKo": "이 조사에서 응답자의 절반이 후속 연구에 참여할 의향이 있다고 밝혔다.",
+        "meaningEn": "In this survey, half of the respondents said they were willing to participate in the follow-up study."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_74",
+    "hskLevel": 7,
+    "hanzi": "半途而废",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "半",
+        "base": "ban",
+        "tone": 4
+      },
+      {
+        "hanzi": "途",
+        "base": "tu",
+        "tone": 2
+      },
+      {
+        "hanzi": "而",
+        "base": "er",
+        "tone": 2
+      },
+      {
+        "hanzi": "废",
+        "base": "fei",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to give up halfway; to leave something unfinished",
+    "meaningKo": "중도에 포기하다; 하다 말다",
+    "sentences": [
+      {
+        "hanzi": "学外语最怕半途而废，只有坚持下去才能看到进步。",
+        "pinyin": "xue2 wai4 yu3 zui4 pa4 ban4 tu2 er2 fei4, zhi3 you3 jian1 chi2 xia4 qu4 cai2 neng2 kan4 dao4 jin4 bu4.",
+        "meaningKo": "외국어 공부에서 가장 경계해야 할 것은 중도에 포기하는 것이며, 끝까지 해야 발전을 볼 수 있다.",
+        "meaningEn": "What one must avoid most in learning a foreign language is giving up halfway; only by persisting can one see progress."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_75",
+    "hskLevel": 7,
+    "hanzi": "半信半疑",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "半",
+        "base": "ban",
+        "tone": 4
+      },
+      {
+        "hanzi": "信",
+        "base": "xin",
+        "tone": 4
+      },
+      {
+        "hanzi": "半",
+        "base": "ban",
+        "tone": 4
+      },
+      {
+        "hanzi": "疑",
+        "base": "yi",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "half-believing and half-doubting; skeptical; doubtful",
+    "meaningKo": "반신반의하다; 의심스럽다",
+    "sentences": [
+      {
+        "hanzi": "听了他的解释，我还是有些半信半疑。",
+        "pinyin": "ting1 le5 ta1 de5 jie3 shi4, wo3 hai2 shi4 you3 xie1 ban4 xin4 ban4 yi2.",
+        "meaningKo": "그의 설명을 듣고도 나는 여전히 조금 반신반의했다.",
+        "meaningEn": "Even after hearing his explanation, I was still somewhat doubtful."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_76",
+    "hskLevel": 7,
+    "hanzi": "伴",
+    "partOfSpeech": "Verb / Other",
+    "syllables": [
+      {
+        "hanzi": "伴",
+        "base": "ban",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "companion; partner; to accompany",
+    "meaningKo": "동반자; 짝; 동행하다",
+    "sentences": [
+      {
+        "hanzi": "在最困难的时候，真正的伙伴愿意一直陪伴在你身边。",
+        "pinyin": "zai4 zui4 kun4 nan2 de5 shi2 hou5, zhen1 zheng4 de5 huo3 ban4 yuan4 yi4 yi4 zhi2 pei2 ban4 zai4 ni3 shen1 bian1.",
+        "meaningKo": "가장 어려운 때에 진정한 동반자는 기꺼이 네 곁에 남아 준다.",
+        "meaningEn": "In the most difficult times, a true companion is willing to stay by your side."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_77",
+    "hskLevel": 7,
+    "hanzi": "伴侣",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "伴",
+        "base": "ban",
+        "tone": 4
+      },
+      {
+        "hanzi": "侣",
+        "base": "lü",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "companion; partner; spouse",
+    "meaningKo": "동반자; 반려자; 배우자",
+    "sentences": [
+      {
+        "hanzi": "他把妻子看作人生中最重要的伴侣。",
+        "pinyin": "ta1 ba3 qi1 zi5 kan4 zuo4 ren2 sheng1 zhong1 zui4 zhong4 yao4 de5 ban4 lv3.",
+        "meaningKo": "그는 아내를 인생에서 가장 중요한 반려자로 여긴다.",
+        "meaningEn": "He regards his wife as the most important companion in his life."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_78",
+    "hskLevel": 7,
+    "hanzi": "伴奏",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "伴",
+        "base": "ban",
+        "tone": 4
+      },
+      {
+        "hanzi": "奏",
+        "base": "zou",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to accompany musically; accompaniment",
+    "meaningKo": "반주하다; 반주",
+    "sentences": [
+      {
+        "hanzi": "钢琴家为歌手伴奏，让整首歌听起来更加丰富。",
+        "pinyin": "gang1 qin2 jia1 wei4 ge1 shou3 ban4 zou4, rang4 zheng3 shou3 ge1 ting1 qi3 lai2 geng4 jia1 feng1 fu4.",
+        "meaningKo": "피아니스트가 가수를 반주해 주어 곡 전체가 더 풍성하게 들렸다.",
+        "meaningEn": "The pianist accompanied the singer, making the whole song sound richer."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_79",
+    "hskLevel": 7,
+    "hanzi": "拌",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "拌",
+        "base": "ban",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to mix; to toss; to stir and mix",
+    "meaningKo": "버무리다; 섞다; 무치다",
+    "sentences": [
+      {
+        "hanzi": "吃面之前，先把酱和面条拌匀。",
+        "pinyin": "chi1 mian4 zhi1 qian2, xian1 ba3 jiang4 he2 mian4 tiao2 ban4 yun2.",
+        "meaningKo": "면을 먹기 전에 먼저 소스와 면을 골고루 비벼라.",
+        "meaningEn": "Before eating the noodles, first mix the sauce evenly with the noodles."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_80",
+    "hskLevel": 7,
+    "hanzi": "扮",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "扮",
+        "base": "ban",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to dress up as; to disguise oneself as; to play a role",
+    "meaningKo": "분장하다; 가장하다; 역할을 맡다",
+    "sentences": [
+      {
+        "hanzi": "为了演好这个角色，他特意把自己扮成老人。",
+        "pinyin": "wei4 le5 yan3 hao3 zhe4 ge4 jiao3 se4, ta1 te4 yi4 ba3 zi4 ji3 ban4 cheng2 lao3 ren2.",
+        "meaningKo": "그는 이 역할을 잘 해내기 위해 일부러 자신을 노인으로 분장했다.",
+        "meaningEn": "To play the role well, he deliberately dressed himself up as an old man."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_81",
+    "hskLevel": 7,
+    "hanzi": "帮手",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "帮",
+        "base": "bang",
+        "tone": 1
+      },
+      {
+        "hanzi": "手",
+        "base": "shou",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "helper; assistant; extra pair of hands",
+    "meaningKo": "조수; 도우미; 거드는 사람",
+    "sentences": [
+      {
+        "hanzi": "人手不够的时候，他总是主动来当帮手。",
+        "pinyin": "ren2 shou3 bu4 gou4 de5 shi2 hou5, ta1 zong3 shi4 zhu3 dong4 lai2 dang1 bang1 shou3.",
+        "meaningKo": "일손이 부족할 때면 그는 늘 자진해서 도우미 역할을 한다.",
+        "meaningEn": "When there are not enough hands, he always volunteers to help."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_82",
+    "hskLevel": 7,
+    "hanzi": "绑",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "绑",
+        "base": "bang",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to tie; to bind; to fasten; to kidnap",
+    "meaningKo": "묶다; 동이다; 결박하다; 납치하다",
+    "sentences": [
+      {
+        "hanzi": "请把这些旧报纸绑好，再一起拿去回收。",
+        "pinyin": "qing3 ba3 zhe4 xie1 jiu4 bao4 zhi3 bang3 hao3, zai4 yi4 qi3 na2 qu4 hui2 shou1.",
+        "meaningKo": "이 낡은 신문들을 잘 묶어서 함께 재활용하러 가져가세요.",
+        "meaningEn": "Please tie up these old newspapers and then take them together for recycling."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_83",
+    "hskLevel": 7,
+    "hanzi": "绑架",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "绑",
+        "base": "bang",
+        "tone": 3
+      },
+      {
+        "hanzi": "架",
+        "base": "jia",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to kidnap; abduction; hijacking",
+    "meaningKo": "납치하다; 납치; 유괴하다",
+    "sentences": [
+      {
+        "hanzi": "警方迅速破获了一起绑架案件，成功救出了人质。",
+        "pinyin": "jing3 fang1 xun4 su4 po4 huo4 le5 yi4 qi3 bang3 jia4 an4 jian4, cheng2 gong1 jiu4 chu1 le5 ren2 zhi4.",
+        "meaningKo": "경찰은 납치 사건 하나를 신속히 해결해 인질을 무사히 구출했다.",
+        "meaningEn": "The police quickly solved a kidnapping case and successfully rescued the hostage."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_84",
+    "hskLevel": 7,
+    "hanzi": "磅",
+    "partOfSpeech": "Classifier",
+    "syllables": [
+      {
+        "hanzi": "磅",
+        "base": "bang",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "pound; scale; weighing scale",
+    "meaningKo": "파운드; 저울; 체중계",
+    "sentences": [
+      {
+        "hanzi": "这袋面粉重五磅，用厨房秤一量就知道了。",
+        "pinyin": "zhe4 dai4 mian4 fen3 zhong4 wu3 bang4, yong4 chu2 fang2 cheng4 yi2 liang2 jiu4 zhi1 dao4 le5.",
+        "meaningKo": "이 밀가루 봉지는 5파운드인데, 주방 저울로 달아 보면 바로 알 수 있다.",
+        "meaningEn": "This bag of flour weighs five pounds; you can tell immediately by weighing it on a kitchen scale."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_85",
+    "hskLevel": 7,
+    "hanzi": "包庇",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "包",
+        "base": "bao",
+        "tone": 1
+      },
+      {
+        "hanzi": "庇",
+        "base": "bi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to shield; to cover up; to harbor",
+    "meaningKo": "감싸다; 비호하다; 감추다",
+    "sentences": [
+      {
+        "hanzi": "任何人都不应该包庇违法行为。",
+        "pinyin": "ren4 he2 ren2 dou1 bu4 ying1 gai1 bao1 bi4 wei2 fa3 xing2 wei2.",
+        "meaningKo": "누구도 불법 행위를 감싸서는 안 된다.",
+        "meaningEn": "No one should shield illegal acts."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_86",
+    "hskLevel": 7,
+    "hanzi": "包袱",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "包",
+        "base": "bao",
+        "tone": 1
+      },
+      {
+        "hanzi": "袱",
+        "base": "fu",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "burden; package wrapped in cloth; mental burden; comic punchline",
+    "meaningKo": "보퉁이; 짐; 부담; 웃음 포인트",
+    "sentences": [
+      {
+        "hanzi": "别把过去的失败当成包袱，继续往前走吧。",
+        "pinyin": "bie2 ba3 guo4 qu4 de5 shi1 bai4 dang4 cheng2 bao1 fu5, ji4 xu4 wang3 qian2 zou3 ba5.",
+        "meaningKo": "과거의 실패를 짐처럼 짊어지지 말고 계속 앞으로 나아가라.",
+        "meaningEn": "Do not treat past failures as a burden; keep moving forward."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_87",
+    "hskLevel": 7,
+    "hanzi": "包容",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "包",
+        "base": "bao",
+        "tone": 1
+      },
+      {
+        "hanzi": "容",
+        "base": "rong",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to tolerate; to be inclusive; to contain",
+    "meaningKo": "포용하다; 너그럽게 받아들이다; 포함하다",
+    "sentences": [
+      {
+        "hanzi": "一个成熟的团队应该学会包容不同的意见。",
+        "pinyin": "yi2 ge4 cheng2 shu2 de5 tuan2 dui4 ying1 gai1 xue2 hui4 bao1 rong2 bu4 tong2 de5 yi4 jian4.",
+        "meaningKo": "성숙한 팀은 서로 다른 의견을 포용하는 법을 배워야 한다.",
+        "meaningEn": "A mature team should learn to be tolerant of different opinions."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_88",
+    "hskLevel": 7,
+    "hanzi": "包围",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "包",
+        "base": "bao",
+        "tone": 1
+      },
+      {
+        "hanzi": "围",
+        "base": "wei",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to surround; to encircle; to besiege",
+    "meaningKo": "포위하다; 둘러싸다; 에워싸다",
+    "sentences": [
+      {
+        "hanzi": "警察很快包围了现场，防止嫌疑人逃跑。",
+        "pinyin": "jing3 cha2 hen3 kuai4 bao1 wei2 le5 xian4 chang3, fang2 zhi3 xian2 yi2 ren2 tao2 pao3.",
+        "meaningKo": "경찰은 용의자가 도망가지 못하도록 곧바로 현장을 포위했다.",
+        "meaningEn": "The police quickly surrounded the scene to prevent the suspect from escaping."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_89",
+    "hskLevel": 7,
+    "hanzi": "包扎",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "包",
+        "base": "bao",
+        "tone": 1
+      },
+      {
+        "hanzi": "扎",
+        "base": "za",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to bandage; to wrap up a wound",
+    "meaningKo": "붕대를 감다; 상처를 싸매다",
+    "sentences": [
+      {
+        "hanzi": "护士先给他的伤口消毒，然后认真包扎。",
+        "pinyin": "hu4 shi4 xian1 gei3 ta1 de5 shang1 kou3 xiao1 du2, ran2 hou4 ren4 zhen1 bao1 za1.",
+        "meaningKo": "간호사는 먼저 그의 상처를 소독한 뒤 정성껏 붕대를 감았다.",
+        "meaningEn": "The nurse first disinfected his wound and then carefully bandaged it."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_90",
+    "hskLevel": 7,
+    "hanzi": "煲",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "煲",
+        "base": "bao",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to stew; to simmer slowly; pot for stewing",
+    "meaningKo": "약한 불로 오래 끓이다; 푹 삶다; 찜솥",
+    "sentences": [
+      {
+        "hanzi": "这锅汤要小火慢慢煲两个小时，味道才会更浓。",
+        "pinyin": "zhe4 guo1 tang1 yao4 xiao3 huo3 man4 man4 bao1 liang3 ge4 xiao3 shi2, wei4 dao4 cai2 hui4 geng4 nong2.",
+        "meaningKo": "이 국은 약한 불에서 두 시간 정도 천천히 끓여야 맛이 더 진해진다.",
+        "meaningEn": "This soup needs to simmer slowly over low heat for two hours before the flavor becomes richer."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_121",
+    "hskLevel": 7,
+    "hanzi": "悲哀",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "悲",
+        "base": "bei",
+        "tone": 1
+      },
+      {
+        "hanzi": "哀",
+        "base": "ai",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "sad; sorrowful; grief-stricken",
+    "meaningKo": "슬프다; 비통하다; 슬픔에 잠기다",
+    "sentences": [
+      {
+        "hanzi": "听到这个消息后，她的神情十分悲哀，久久说不出话来。",
+        "pinyin": "ting1 dao4 zhe4 ge4 xiao1 xi5 hou4, ta1 de5 shen2 qing2 shi2 fen1 bei1 ai1, jiu3 jiu3 shuo1 bu5 chu1 hua4 lai2.",
+        "meaningKo": "그 소식을 들은 뒤 그녀의 표정은 매우 슬퍼서 한동안 말을 잇지 못했다.",
+        "meaningEn": "After hearing the news, she looked deeply sorrowful and could not speak for a long time."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_122",
+    "hskLevel": 7,
+    "hanzi": "悲惨",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "悲",
+        "base": "bei",
+        "tone": 1
+      },
+      {
+        "hanzi": "惨",
+        "base": "can",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "miserable; tragic; disastrous",
+    "meaningKo": "비참하다; 참혹하다; 비극적이다",
+    "sentences": [
+      {
+        "hanzi": "战争给当地居民带来了悲惨的生活，他们很多人失去了家园。",
+        "pinyin": "zhan4 zheng1 gei3 dang1 di4 ju1 min2 dai4 lai2 le5 bei1 can3 de5 sheng1 huo2, ta1 men5 hen3 duo1 ren2 shi1 qu4 le5 jia1 yuan2.",
+        "meaningKo": "전쟁은 현지 주민들에게 비참한 삶을 안겨 주었고, 많은 사람이 집을 잃었다.",
+        "meaningEn": "The war brought the local residents a miserable life, and many of them lost their homes."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_123",
+    "hskLevel": 7,
+    "hanzi": "悲欢离合",
+    "partOfSpeech": "Phrase",
+    "syllables": [
+      {
+        "hanzi": "悲",
+        "base": "bei",
+        "tone": 1
+      },
+      {
+        "hanzi": "欢",
+        "base": "huan",
+        "tone": 1
+      },
+      {
+        "hanzi": "离",
+        "base": "li",
+        "tone": 2
+      },
+      {
+        "hanzi": "合",
+        "base": "he",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "joys and sorrows; partings and reunions; ups and downs of life",
+    "meaningKo": "희로애락; 이별과 재회; 인생의 굴곡",
+    "sentences": [
+      {
+        "hanzi": "小说通过几个家庭的经历，写尽了人生的悲欢离合。",
+        "pinyin": "xiao3 shuo1 tong1 guo4 ji3 ge4 jia1 ting2 de5 jing1 li4, xie3 jin4 le5 ren2 sheng1 de5 bei1 huan1 li2 he2.",
+        "meaningKo": "그 소설은 몇몇 가족의 경험을 통해 인생의 희로애락을 생생하게 그려 냈다.",
+        "meaningEn": "Through the experiences of several families, the novel vividly depicts the joys and sorrows of life."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_124",
+    "hskLevel": 7,
+    "hanzi": "悲痛",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "悲",
+        "base": "bei",
+        "tone": 1
+      },
+      {
+        "hanzi": "痛",
+        "base": "tong",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "grieved; deeply sorrowful; mournful",
+    "meaningKo": "비통하다; 몹시 슬프다; 애통하다",
+    "sentences": [
+      {
+        "hanzi": "得知老友去世的消息后，他心里非常悲痛。",
+        "pinyin": "de2 zhi1 lao3 you3 qu4 shi4 de5 xiao1 xi5 hou4, ta1 xin1 li3 fei1 chang2 bei1 tong4.",
+        "meaningKo": "오랜 친구의 사망 소식을 들은 뒤 그는 마음속으로 매우 비통해했다.",
+        "meaningEn": "After learning of his old friend's death, he felt deeply grieved."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_125",
+    "hskLevel": 7,
+    "hanzi": "碑",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "碑",
+        "base": "bei",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "monument; stele; stone tablet",
+    "meaningKo": "비석; 기념비; 석비",
+    "sentences": [
+      {
+        "hanzi": "公园门口立着一块纪念碑，记录着这座城市的历史。",
+        "pinyin": "gong1 yuan2 men2 kou3 li4 zhe5 yi2 kuai4 ji4 nian4 bei1, ji4 lu4 zhe5 zhe4 zuo4 cheng2 shi4 de5 li4 shi3.",
+        "meaningKo": "공원 입구에는 이 도시의 역사를 기록한 기념비가 서 있다.",
+        "meaningEn": "At the entrance of the park stands a monument recording the history of the city."
+      }
+    ],
+    "measureWord": "块"
+  },
+  {
+    "id": "hsk7_126",
+    "hskLevel": 7,
+    "hanzi": "贝壳",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "贝",
+        "base": "bei",
+        "tone": 4
+      },
+      {
+        "hanzi": "壳",
+        "base": "ke",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "shell; seashell; conch; cowrie",
+    "meaningKo": "조개껍데기; 조개; 소라; 조개화폐",
+    "sentences": [
+      {
+        "hanzi": "孩子在海边捡了很多漂亮的贝壳，带回家做装饰。",
+        "pinyin": "hai2 zi5 zai4 hai3 bian1 jian3 le5 hen3 duo1 piao4 liang5 de5 bei4 ke2, dai4 hui2 jia1 zuo4 zhuang1 shi4.",
+        "meaningKo": "아이는 해변에서 예쁜 조개껍데기를 많이 주워 집에 가져가 장식으로 썼다.",
+        "meaningEn": "The child picked up many beautiful shells on the beach and took them home as decorations."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_127",
+    "hskLevel": 7,
+    "hanzi": "备份",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "备",
+        "base": "bei",
+        "tone": 4
+      },
+      {
+        "hanzi": "份",
+        "base": "fen",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "backup; backup copy",
+    "meaningKo": "백업; 예비 복사본",
+    "sentences": [
+      {
+        "hanzi": "重要文件最好及时做备份，以免电脑出故障时丢失数据。",
+        "pinyin": "zhong4 yao4 wen2 jian4 zui4 hao3 ji2 shi2 zuo4 bei4 fen4, yi3 mian3 dian4 nao3 chu1 gu4 zhang4 shi2 diu1 shi1 shu4 ju4.",
+        "meaningKo": "중요한 파일은 컴퓨터에 문제가 생겼을 때 데이터를 잃지 않도록 제때 백업해 두는 것이 좋다.",
+        "meaningEn": "It is best to back up important files promptly so that data will not be lost if the computer malfunctions."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_128",
+    "hskLevel": 7,
+    "hanzi": "备课",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "备",
+        "base": "bei",
+        "tone": 4
+      },
+      {
+        "hanzi": "课",
+        "base": "ke",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "(of a teacher) to prepare lessons",
+    "meaningKo": "(교사가) 수업을 준비하다",
+    "sentences": [
+      {
+        "hanzi": "老师每天晚上都认真备课，希望第二天把内容讲得更清楚。",
+        "pinyin": "lao3 shi1 mei3 tian1 wan3 shang5 dou1 ren4 zhen1 bei4 ke4, xi1 wang4 di4 er4 tian1 ba3 nei4 rong2 jiang3 de5 geng4 qing1 chu5.",
+        "meaningKo": "선생님은 매일 밤 성실하게 수업을 준비해 다음 날 내용을 더 분명하게 설명하려고 한다.",
+        "meaningEn": "Every evening the teacher carefully prepares lessons, hoping to explain the material more clearly the next day."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_129",
+    "hskLevel": 7,
+    "hanzi": "备忘录",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "备",
+        "base": "bei",
+        "tone": 4
+      },
+      {
+        "hanzi": "忘",
+        "base": "wang",
+        "tone": 4
+      },
+      {
+        "hanzi": "录",
+        "base": "lu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "memorandum; memo; aide-memoire",
+    "meaningKo": "메모; 비망록; 메모장",
+    "sentences": [
+      {
+        "hanzi": "他把会议要点记在备忘录里，免得过后忘记。",
+        "pinyin": "ta1 ba3 hui4 yi4 yao4 dian3 ji4 zai4 bei4 wang4 lu4 li3, mian3 de5 guo4 hou4 wang4 ji4.",
+        "meaningKo": "그는 회의의 핵심 내용을 나중에 잊지 않도록 메모에 적어 두었다.",
+        "meaningEn": "He wrote the main points of the meeting in a memo so that he would not forget them later."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_130",
+    "hskLevel": 7,
+    "hanzi": "背面",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "背",
+        "base": "bei",
+        "tone": 4
+      },
+      {
+        "hanzi": "面",
+        "base": "mian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "back; reverse side; backside",
+    "meaningKo": "뒷면; 뒤쪽; 반대쪽",
+    "sentences": [
+      {
+        "hanzi": "请在照片背面写上名字和日期，然后交给老师。",
+        "pinyin": "qing3 zai4 zhao4 pian4 bei4 mian4 xie3 shang4 ming2 zi5 he2 ri4 qi1, ran2 hou4 jiao1 gei3 lao3 shi1.",
+        "meaningKo": "사진 뒷면에 이름과 날짜를 적은 뒤 선생님께 제출하세요.",
+        "meaningEn": "Please write your name and the date on the back of the photo, then hand it to the teacher."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_131",
+    "hskLevel": 7,
+    "hanzi": "背叛",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "背",
+        "base": "bei",
+        "tone": 4
+      },
+      {
+        "hanzi": "叛",
+        "base": "pan",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to betray; to turn one's back on",
+    "meaningKo": "배반하다; 배신하다",
+    "sentences": [
+      {
+        "hanzi": "他为了个人利益背叛了朋友，因此大家都不再信任他。",
+        "pinyin": "ta1 wei4 le5 ge4 ren2 li4 yi4 bei4 pan4 le5 peng2 you3, yin1 ci3 da4 jia1 dou1 bu4 zai4 xin4 ren4 ta1.",
+        "meaningKo": "그는 개인적인 이익을 위해 친구를 배신했기 때문에 모두가 더 이상 그를 믿지 않게 되었다.",
+        "meaningEn": "He betrayed his friend for personal gain, so no one trusted him anymore."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_132",
+    "hskLevel": 7,
+    "hanzi": "背诵",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "背",
+        "base": "bei",
+        "tone": 4
+      },
+      {
+        "hanzi": "诵",
+        "base": "song",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to recite from memory; to learn by heart",
+    "meaningKo": "암송하다; 외우다",
+    "sentences": [
+      {
+        "hanzi": "为了参加比赛，她每天早上都会背诵那篇文章。",
+        "pinyin": "wei4 le5 can1 jia1 bi3 sai4, ta1 mei3 tian1 zao3 shang5 dou1 hui4 bei4 song4 na4 pian1 wen2 zhang1.",
+        "meaningKo": "대회에 참가하기 위해 그녀는 매일 아침 그 글을 암송했다.",
+        "meaningEn": "To take part in the competition, she recited that passage every morning."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_133",
+    "hskLevel": 7,
+    "hanzi": "被告",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "被",
+        "base": "bei",
+        "tone": 4
+      },
+      {
+        "hanzi": "告",
+        "base": "gao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "defendant; accused person",
+    "meaningKo": "피고; 피고인",
+    "sentences": [
+      {
+        "hanzi": "法官要求被告如实回答问题，不得隐瞒事实。",
+        "pinyin": "fa3 guan1 yao1 qiu2 bei4 gao4 ru2 shi2 hui2 da2 wen4 ti2, bu4 de2 yin3 man2 shi4 shi2.",
+        "meaningKo": "판사는 피고인에게 사실대로 질문에 답하고 사실을 숨기지 말라고 요구했다.",
+        "meaningEn": "The judge required the defendant to answer truthfully and not conceal the facts."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_134",
+    "hskLevel": 7,
+    "hanzi": "奔",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "奔",
+        "base": "ben",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to hurry; to rush; to run quickly; to head for",
+    "meaningKo": "서두르다; 급히 가다; 달려가다; 향하다",
+    "sentences": [
+      {
+        "hanzi": "听到孩子的哭声后，她立刻奔过去查看情况。",
+        "pinyin": "ting1 dao4 hai2 zi5 de5 ku1 sheng1 hou4, ta1 li4 ke4 ben1 guo4 qu4 cha2 kan4 qing2 kuang4.",
+        "meaningKo": "아이의 울음소리를 듣자 그녀는 즉시 달려가 상황을 살폈다.",
+        "meaningEn": "After hearing the child cry, she immediately rushed over to see what was wrong."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_135",
+    "hskLevel": 7,
+    "hanzi": "奔波",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "奔",
+        "base": "ben",
+        "tone": 1
+      },
+      {
+        "hanzi": "波",
+        "base": "bo",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to rush about; to run around busily",
+    "meaningKo": "분주히 뛰어다니다; 동분서주하다",
+    "sentences": [
+      {
+        "hanzi": "为了筹备这次活动，大家连着几天都在外面奔波。",
+        "pinyin": "wei4 le5 chou2 bei4 zhe4 ci4 huo2 dong4, da4 jia1 lian2 zhe5 ji3 tian1 dou1 zai4 wai4 mian4 ben1 bo1.",
+        "meaningKo": "이번 행사를 준비하기 위해 모두가 며칠 동안 밖에서 분주히 뛰어다녔다.",
+        "meaningEn": "To prepare for this event, everyone had been rushing around outside for several days."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_136",
+    "hskLevel": 7,
+    "hanzi": "奔驰",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "奔",
+        "base": "ben",
+        "tone": 1
+      },
+      {
+        "hanzi": "驰",
+        "base": "chi",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "Mercedes-Benz; Benz",
+    "meaningKo": "메르세데스-벤츠; 벤츠",
+    "sentences": [
+      {
+        "hanzi": "他一直想买一辆奔驰，不过现在的预算还不够。",
+        "pinyin": "ta1 yi4 zhi2 xiang3 mai3 yi2 liang4 ben1 chi2, bu4 guo4 xian4 zai4 de5 yu4 suan4 hai2 bu4 gou4.",
+        "meaningKo": "그는 늘 벤츠 한 대를 사고 싶어 했지만 지금 예산으로는 아직 부족하다.",
+        "meaningEn": "He has always wanted to buy a Mercedes-Benz, but his current budget is still not enough."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_137",
+    "hskLevel": 7,
+    "hanzi": "奔赴",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "奔",
+        "base": "ben",
+        "tone": 1
+      },
+      {
+        "hanzi": "赴",
+        "base": "fu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to rush to; to hurry toward",
+    "meaningKo": "급히 달려가다; 서둘러 향하다",
+    "sentences": [
+      {
+        "hanzi": "得知前方发生事故后，医护人员立即奔赴现场。",
+        "pinyin": "de2 zhi1 qian2 fang1 fa1 sheng1 shi4 gu4 hou4, yi1 hu4 ren2 yuan2 li4 ji2 ben1 fu4 xian4 chang3.",
+        "meaningKo": "앞에서 사고가 났다는 소식을 듣고 의료진은 즉시 현장으로 달려갔다.",
+        "meaningEn": "After learning that an accident had occurred ahead, the medical staff immediately rushed to the scene."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_138",
+    "hskLevel": 7,
+    "hanzi": "本分",
+    "partOfSpeech": "Noun / Adjective",
+    "syllables": [
+      {
+        "hanzi": "本",
+        "base": "ben",
+        "tone": 3
+      },
+      {
+        "hanzi": "分",
+        "base": "fen",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "one's duty; one's proper role; bounds; dutiful",
+    "meaningKo": "본분; 제 역할; 마땅한 도리; 분수",
+    "sentences": [
+      {
+        "hanzi": "无论职位高低，都应该尽好自己的本分。",
+        "pinyin": "wu2 lun4 zhi2 wei4 gao1 di1, dou1 ying1 gai1 jin4 hao3 zi4 ji3 de5 ben3 fen4.",
+        "meaningKo": "직위가 높든 낮든 누구나 자기 본분을 다해야 한다.",
+        "meaningEn": "No matter how high or low one's position is, everyone should fulfill their proper duty."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_139",
+    "hskLevel": 7,
+    "hanzi": "本钱",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "本",
+        "base": "ben",
+        "tone": 3
+      },
+      {
+        "hanzi": "钱",
+        "base": "qian",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "capital; funds; assets; means to make a living",
+    "meaningKo": "밑천; 자본; 자산; 밥벌이 수단",
+    "sentences": [
+      {
+        "hanzi": "创业初期没有多少本钱，他只能先从小生意做起。",
+        "pinyin": "chuang4 ye4 chu1 qi1 mei2 you3 duo1 shao3 ben3 qian2, ta1 zhi3 neng2 xian1 cong2 xiao3 sheng1 yi4 zuo4 qi3.",
+        "meaningKo": "창업 초기에는 밑천이 많지 않아 그는 작은 장사부터 시작할 수밖에 없었다.",
+        "meaningEn": "At the beginning of his business venture, he did not have much capital, so he had to start with a small business."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_140",
+    "hskLevel": 7,
+    "hanzi": "本色",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "本",
+        "base": "ben",
+        "tone": 3
+      },
+      {
+        "hanzi": "色",
+        "base": "se",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "natural qualities; true character; inherent color/quality",
+    "meaningKo": "본색; 본래의 모습; 타고난 성질",
+    "sentences": [
+      {
+        "hanzi": "时间一长，一个人的本色往往就会慢慢显露出来。",
+        "pinyin": "shi2 jian1 yi4 chang2, yi2 ge4 ren2 de5 ben3 se4 wang3 wang3 jiu4 hui4 man4 man4 xian3 lu4 chu1 lai2.",
+        "meaningKo": "시간이 지나면 한 사람의 본래 모습이 서서히 드러나는 경우가 많다.",
+        "meaningEn": "Given enough time, a person's true character often gradually reveals itself."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_141",
+    "hskLevel": 7,
+    "hanzi": "本事",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "本",
+        "base": "ben",
+        "tone": 3
+      },
+      {
+        "hanzi": "事",
+        "base": "shi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "source material; original story",
+    "meaningKo": "원자료; 원전 이야기; 바탕이 된 이야기",
+    "sentences": [
+      {
+        "hanzi": "这部纪录片的本事其实来自当地老人日记与口述史。",
+        "pinyin": "zhe4 bu4 ji4 lu4 pian4 de5 ben3 shi4 qi2 shi2 lai2 zi4 dang1 di4 lao3 ren2 ri4 ji4 yu3 kou3 shu4 shi3.",
+        "meaningKo": "이 다큐멘터리의 원자료는 사실 현지 노인들의 일기와 구술사에서 왔다.",
+        "meaningEn": "The source material for this documentary actually comes from the diaries and oral histories of local elders."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_142",
+    "hskLevel": 7,
+    "hanzi": "本性",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "本",
+        "base": "ben",
+        "tone": 3
+      },
+      {
+        "hanzi": "性",
+        "base": "xing",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "nature; natural instinct; innate character",
+    "meaningKo": "본성; 천성; 타고난 성질",
+    "sentences": [
+      {
+        "hanzi": "善良是他的本性，无论遇到谁他都愿意帮助。",
+        "pinyin": "shan4 liang2 shi4 ta1 de5 ben3 xing4, wu2 lun4 yu4 dao4 shei2 ta1 dou1 yuan4 yi4 bang1 zhu4.",
+        "meaningKo": "착함은 그의 본성이어서 누구를 만나든 기꺼이 도와주려 한다.",
+        "meaningEn": "Kindness is his nature, so he is willing to help no matter whom he meets."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_143",
+    "hskLevel": 7,
+    "hanzi": "本意",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "本",
+        "base": "ben",
+        "tone": 3
+      },
+      {
+        "hanzi": "意",
+        "base": "yi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "original intention; true intention",
+    "meaningKo": "본의; 본래 의도; 진의",
+    "sentences": [
+      {
+        "hanzi": "你误会了我的本意，我并不是想批评你。",
+        "pinyin": "ni3 wu4 hui4 le5 wo3 de5 ben3 yi4, wo3 bing4 bu4 shi4 xiang3 pi1 ping2 ni3.",
+        "meaningKo": "너는 내 본래 의도를 오해했다. 나는 너를 비판하려던 것이 아니었다.",
+        "meaningEn": "You misunderstood my original intention; I was not trying to criticize you."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_144",
+    "hskLevel": 7,
+    "hanzi": "本着",
+    "partOfSpeech": "Preposition",
+    "syllables": [
+      {
+        "hanzi": "本",
+        "base": "ben",
+        "tone": 3
+      },
+      {
+        "hanzi": "着",
+        "base": "zhe",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "on the basis of; in accordance with; guided by",
+    "meaningKo": "~에 입각하여; ~을 바탕으로; ~을 원칙으로 하여",
+    "sentences": [
+      {
+        "hanzi": "本着认真负责的态度，他把每一项工作都检查了一遍。",
+        "pinyin": "ben3 zhe5 ren4 zhen1 fu4 ze2 de5 tai4 du4, ta1 ba3 mei3 yi2 xiang4 gong1 zuo4 dou1 jian3 cha2 le5 yi2 bian4.",
+        "meaningKo": "그는 성실하고 책임감 있는 태도를 바탕으로 모든 업무를 한 번씩 점검했다.",
+        "meaningEn": "Guided by a serious and responsible attitude, he checked every task once."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_145",
+    "hskLevel": 7,
+    "hanzi": "笨蛋",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "笨",
+        "base": "ben",
+        "tone": 4
+      },
+      {
+        "hanzi": "蛋",
+        "base": "dan",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "fool; idiot; blockhead",
+    "meaningKo": "바보; 멍청이",
+    "sentences": [
+      {
+        "hanzi": "别叫自己笨蛋，谁都会有做错事的时候。",
+        "pinyin": "bie2 jiao4 zi4 ji3 ben4 dan4, shei2 dou1 hui4 you3 zuo4 cuo4 shi4 de5 shi2 hou4.",
+        "meaningKo": "스스로를 바보라고 부르지 마라. 누구나 실수할 때가 있다.",
+        "meaningEn": "Do not call yourself an idiot; everyone makes mistakes sometimes."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_146",
+    "hskLevel": 7,
+    "hanzi": "笨重",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "笨",
+        "base": "ben",
+        "tone": 4
+      },
+      {
+        "hanzi": "重",
+        "base": "zhong",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "heavy and cumbersome; bulky; unwieldy",
+    "meaningKo": "둔중하다; 무겁고 다루기 불편하다",
+    "sentences": [
+      {
+        "hanzi": "这台机器太笨重了，一个人根本搬不动。",
+        "pinyin": "zhe4 tai2 ji1 qi4 tai4 ben4 zhong4 le5, yi2 ge4 ren2 gen1 ben3 ban1 bu5 dong4.",
+        "meaningKo": "이 기계는 너무 둔중해서 혼자서는 전혀 옮길 수 없다.",
+        "meaningEn": "This machine is too heavy and cumbersome for one person to move."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_147",
+    "hskLevel": 7,
+    "hanzi": "笨拙",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "笨",
+        "base": "ben",
+        "tone": 4
+      },
+      {
+        "hanzi": "拙",
+        "base": "zhuo",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "clumsy; awkward; awkwardly done",
+    "meaningKo": "서투르다; 어색하다; 둔하다",
+    "sentences": [
+      {
+        "hanzi": "他第一次上台演讲，动作显得有些笨拙。",
+        "pinyin": "ta1 di4 yi2 ci4 shang4 tai2 yan3 jiang3, dong4 zuo4 xian3 de5 you3 xie1 ben4 zhuo1.",
+        "meaningKo": "그는 처음 무대에 올라 연설해서 동작이 다소 어색해 보였다.",
+        "meaningEn": "Because it was his first time speaking on stage, his movements seemed somewhat awkward."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_148",
+    "hskLevel": 7,
+    "hanzi": "崩溃",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "崩",
+        "base": "beng",
+        "tone": 1
+      },
+      {
+        "hanzi": "溃",
+        "base": "kui",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to collapse; to break down; to fall apart",
+    "meaningKo": "무너지다; 붕괴하다; (정신적으로) 무너지다",
+    "sentences": [
+      {
+        "hanzi": "连续的压力让他几乎崩溃，不得不停下来休息。",
+        "pinyin": "lian2 xu4 de5 ya1 li4 rang4 ta1 ji1 hu1 beng1 kui4, bu4 de2 bu4 ting2 xia4 lai2 xiu1 xi5.",
+        "meaningKo": "계속된 압박 때문에 그는 거의 무너질 지경이어서 어쩔 수 없이 쉬어야 했다.",
+        "meaningEn": "The constant pressure nearly made him break down, so he had no choice but to stop and rest."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_149",
+    "hskLevel": 7,
+    "hanzi": "绷",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "绷",
+        "base": "beng",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to stretch tight; to draw tight; to force a smile / keep a tense face",
+    "meaningKo": "팽팽하게 당기다; 바싹 조이다; 억지로 (표정을) 유지하다",
+    "sentences": [
+      {
+        "hanzi": "他绷着脸坐在那里，一句话也不说。",
+        "pinyin": "ta1 beng3 zhe5 lian3 zuo4 zai4 na4 li5, yi2 ju4 hua4 ye3 bu4 shuo1.",
+        "meaningKo": "그는 굳은 표정으로 거기 앉아 한마디도 하지 않았다.",
+        "meaningEn": "He sat there with a tense face and did not say a single word."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_150",
+    "hskLevel": 7,
+    "hanzi": "绷带",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "绷",
+        "base": "beng",
+        "tone": 1
+      },
+      {
+        "hanzi": "带",
+        "base": "dai",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "bandage",
+    "meaningKo": "붕대",
+    "sentences": [
+      {
+        "hanzi": "医生先给伤口消毒，然后用绷带包扎好。",
+        "pinyin": "yi1 sheng1 xian1 gei3 shang1 kou3 xiao1 du2, ran2 hou4 yong4 beng1 dai4 bao1 za1 hao3.",
+        "meaningKo": "의사는 먼저 상처를 소독한 다음 붕대로 잘 감아 주었다.",
+        "meaningEn": "The doctor first disinfected the wound and then wrapped it properly with a bandage."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_181",
+    "hskLevel": 7,
+    "hanzi": "鞭炮",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "鞭",
+        "base": "bian",
+        "tone": 1
+      },
+      {
+        "hanzi": "炮",
+        "base": "pao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "firecrackers; a string of small firecrackers",
+    "meaningKo": "폭죽; 줄폭죽",
+    "sentences": [
+      {
+        "hanzi": "过年的时候，孩子们最喜欢听鞭炮声。",
+        "pinyin": "guo4 nian2 de5 shi2 hou4, hai2 zi5 men5 zui4 xi3 huan1 ting1 bian1 pao4 sheng1.",
+        "meaningKo": "설이 되면 아이들은 폭죽 소리를 가장 좋아한다.",
+        "meaningEn": "During the New Year, children like the sound of firecrackers most."
+      }
+    ],
+    "measureWord": "挂"
+  },
+  {
+    "id": "hsk7_182",
+    "hskLevel": 7,
+    "hanzi": "贬低",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "贬",
+        "base": "bian",
+        "tone": 3
+      },
+      {
+        "hanzi": "低",
+        "base": "di",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to belittle; to disparage; to demean",
+    "meaningKo": "얕보다; 깎아내리다; 폄하하다",
+    "sentences": [
+      {
+        "hanzi": "我们不能因为一次失败就贬低一个人的全部努力。",
+        "pinyin": "wo3 men5 bu4 neng2 yin1 wei4 yi2 ci4 shi1 bai4 jiu4 bian3 di1 yi2 ge4 ren2 de5 quan2 bu4 nu3 li4.",
+        "meaningKo": "한 번의 실패 때문에 한 사람의 모든 노력을 깎아내려서는 안 된다.",
+        "meaningEn": "We must not belittle all of a person's efforts just because of one failure."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_183",
+    "hskLevel": 7,
+    "hanzi": "贬值",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "贬",
+        "base": "bian",
+        "tone": 3
+      },
+      {
+        "hanzi": "值",
+        "base": "zhi",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to depreciate; to lose value; devaluation",
+    "meaningKo": "가치가 떨어지다; 평가절하되다; 절하되다",
+    "sentences": [
+      {
+        "hanzi": "如果通货膨胀持续加剧，这种货币可能会进一步贬值。",
+        "pinyin": "ru2 guo3 tong1 huo4 peng2 zhang4 chi2 xu4 jia1 ju4, zhe4 zhong3 huo4 bi4 ke3 neng2 hui4 jin4 yi2 bu4 bian3 zhi2.",
+        "meaningKo": "인플레이션이 계속 심해지면 이 통화는 더 절하될 가능성이 있다.",
+        "meaningEn": "If inflation continues to intensify, this currency may depreciate further."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_184",
+    "hskLevel": 7,
+    "hanzi": "扁",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "扁",
+        "base": "bian",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "flat; flattened; squashed",
+    "meaningKo": "납작하다; 평평하다; 찌그러지다",
+    "sentences": [
+      {
+        "hanzi": "这个盒子被压得有点儿扁了，不过里面的东西没有坏。",
+        "pinyin": "zhe4 ge5 he2 zi5 bei4 ya1 de5 you3 dian3 er5 bian3 le5, bu4 guo4 li3 mian4 de5 dong1 xi5 mei2 you3 huai4.",
+        "meaningKo": "이 상자는 눌려서 좀 납작해졌지만 안의 물건은 망가지지 않았다.",
+        "meaningEn": "This box was squashed a little flat, but the things inside were not damaged."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_185",
+    "hskLevel": 7,
+    "hanzi": "便",
+    "partOfSpeech": "Adverb / Verb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "便",
+        "base": "bian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "then; in that case; convenient; simple and easy",
+    "meaningKo": "곧; 그러면; 편리하다; 간편하다",
+    "sentences": [
+      {
+        "hanzi": "如果你现在有空，我们便可以马上开始讨论。",
+        "pinyin": "ru2 guo3 ni3 xian4 zai4 you3 kong4, wo3 men5 bian4 ke3 yi3 ma3 shang4 kai1 shi3 tao3 lun4.",
+        "meaningKo": "네가 지금 시간이 있으면 우리는 곧바로 토론을 시작할 수 있다.",
+        "meaningEn": "If you are free now, then we can start the discussion right away."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_186",
+    "hskLevel": 7,
+    "hanzi": "便利店",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "便",
+        "base": "bian",
+        "tone": 4
+      },
+      {
+        "hanzi": "利",
+        "base": "li",
+        "tone": 4
+      },
+      {
+        "hanzi": "店",
+        "base": "dian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "convenience store",
+    "meaningKo": "편의점",
+    "sentences": [
+      {
+        "hanzi": "楼下新开了一家便利店，买东西方便多了。",
+        "pinyin": "lou2 xia4 xin1 kai1 le5 yi4 jia1 bian4 li4 dian4, mai3 dong1 xi5 fang1 bian4 duo1 le5.",
+        "meaningKo": "아래층에 새로 편의점이 생겨서 물건 사기가 훨씬 편해졌다.",
+        "meaningEn": "A new convenience store has opened downstairs, making shopping much easier."
+      }
+    ],
+    "measureWord": "家"
+  },
+  {
+    "id": "hsk7_187",
+    "hskLevel": 7,
+    "hanzi": "变化莫测",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "变",
+        "base": "bian",
+        "tone": 4
+      },
+      {
+        "hanzi": "化",
+        "base": "hua",
+        "tone": 4
+      },
+      {
+        "hanzi": "莫",
+        "base": "mo",
+        "tone": 4
+      },
+      {
+        "hanzi": "测",
+        "base": "ce",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "unpredictable; erratic; changeable",
+    "meaningKo": "변화가 예측하기 어렵다; 변화무쌍하다",
+    "sentences": [
+      {
+        "hanzi": "山里的天气变化莫测，出门前最好多带一件外套。",
+        "pinyin": "shan1 li3 de5 tian1 qi4 bian4 hua4 mo4 ce4, chu1 men2 qian2 zui4 hao3 duo1 dai4 yi2 jian4 wai4 tao4.",
+        "meaningKo": "산속 날씨는 변화무쌍하니 외출 전에 겉옷을 하나 더 챙기는 게 좋다.",
+        "meaningEn": "The weather in the mountains is unpredictable, so it is best to bring an extra coat before going out."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_188",
+    "hskLevel": 7,
+    "hanzi": "变换",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "变",
+        "base": "bian",
+        "tone": 4
+      },
+      {
+        "hanzi": "换",
+        "base": "huan",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to change; to transform; to alternate; transformation",
+    "meaningKo": "바꾸다; 변환하다; 교대로 바뀌다; 변화",
+    "sentences": [
+      {
+        "hanzi": "舞台上的灯光不断变换，营造出不同的气氛。",
+        "pinyin": "wu3 tai2 shang4 de5 deng1 guang1 bu4 duan4 bian4 huan4, ying2 zao4 chu1 bu4 tong2 de5 qi4 fen1.",
+        "meaningKo": "무대 위의 조명이 끊임없이 바뀌어 서로 다른 분위기를 만들어 냈다.",
+        "meaningEn": "The lights on the stage kept changing, creating different atmospheres."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_189",
+    "hskLevel": 7,
+    "hanzi": "变迁",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "变",
+        "base": "bian",
+        "tone": 4
+      },
+      {
+        "hanzi": "迁",
+        "base": "qian",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "changes over time; vicissitudes; evolution",
+    "meaningKo": "변천; 시대의 변화",
+    "sentences": [
+      {
+        "hanzi": "通过这些老照片，我们能清楚地看到这座城市的变迁。",
+        "pinyin": "tong1 guo4 zhe4 xie1 lao3 zhao4 pian4, wo3 men5 neng2 qing1 chu3 de5 kan4 dao4 zhe4 zuo4 cheng2 shi4 de5 bian4 qian1.",
+        "meaningKo": "이 오래된 사진들을 통해 우리는 이 도시의 변천 과정을 분명히 볼 수 있다.",
+        "meaningEn": "Through these old photographs, we can clearly see the changes this city has gone through."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_190",
+    "hskLevel": 7,
+    "hanzi": "变形",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "变",
+        "base": "bian",
+        "tone": 4
+      },
+      {
+        "hanzi": "形",
+        "base": "xing",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to deform; to change shape; deformation",
+    "meaningKo": "변형되다; 형태가 바뀌다; 변형",
+    "sentences": [
+      {
+        "hanzi": "这种材料受热后容易变形，所以不适合高温环境。",
+        "pinyin": "zhe4 zhong3 cai2 liao4 shou4 re4 hou4 rong2 yi4 bian4 xing2, suo3 yi3 bu4 shi4 he2 gao1 wen1 huan2 jing4.",
+        "meaningKo": "이 재료는 열을 받으면 쉽게 변형되기 때문에 고온 환경에는 적합하지 않다.",
+        "meaningEn": "This material deforms easily when heated, so it is not suitable for high-temperature environments."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_191",
+    "hskLevel": 7,
+    "hanzi": "变异",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "变",
+        "base": "bian",
+        "tone": 4
+      },
+      {
+        "hanzi": "异",
+        "base": "yi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "variation; mutation; to mutate",
+    "meaningKo": "변이; 돌연변이; 변이하다",
+    "sentences": [
+      {
+        "hanzi": "科学家正在研究这种病毒的变异情况。",
+        "pinyin": "ke1 xue2 jia1 zheng4 zai4 yan2 jiu1 zhe4 zhong3 bing4 du2 de5 bian4 yi4 qing2 kuang4.",
+        "meaningKo": "과학자들은 이 바이러스의 변이 상황을 연구하고 있다.",
+        "meaningEn": "Scientists are studying the mutation patterns of this virus."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_192",
+    "hskLevel": 7,
+    "hanzi": "便饭",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "便",
+        "base": "bian",
+        "tone": 4
+      },
+      {
+        "hanzi": "饭",
+        "base": "fan",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "an ordinary meal; simple home cooking",
+    "meaningKo": "소박한 식사; 간단한 집밥",
+    "sentences": [
+      {
+        "hanzi": "今天没什么特别准备，只是几样家常便饭。",
+        "pinyin": "jin1 tian1 mei2 shen2 me5 te4 bie2 zhun3 bei4, zhi3 shi4 ji3 yang4 jia1 chang2 bian4 fan4.",
+        "meaningKo": "오늘은 특별히 준비한 것은 없고 그냥 몇 가지 소박한 집밥일 뿐이다.",
+        "meaningEn": "There was nothing specially prepared today, just a few simple home-style dishes."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_193",
+    "hskLevel": 7,
+    "hanzi": "遍布",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "遍",
+        "base": "bian",
+        "tone": 4
+      },
+      {
+        "hanzi": "布",
+        "base": "bu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to spread all over; to be found everywhere",
+    "meaningKo": "곳곳에 퍼져 있다; 널리 분포하다",
+    "sentences": [
+      {
+        "hanzi": "春天一到，山坡上就遍布各种颜色的野花。",
+        "pinyin": "chun1 tian1 yi2 dao4, shan1 po1 shang4 jiu4 bian4 bu4 ge4 zhong3 yan2 se4 de5 ye3 hua1.",
+        "meaningKo": "봄이 오면 산비탈에는 여러 색깔의 들꽃이 가득 퍼진다.",
+        "meaningEn": "As soon as spring arrives, the hillsides are covered with wildflowers of many colors."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_194",
+    "hskLevel": 7,
+    "hanzi": "编辑",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "编",
+        "base": "bian",
+        "tone": 1
+      },
+      {
+        "hanzi": "辑",
+        "base": "ji",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to edit; editor",
+    "meaningKo": "편집하다; 편집자",
+    "sentences": [
+      {
+        "hanzi": "她大学毕业后进入出版社工作，后来成了一名编辑。",
+        "pinyin": "ta1 da4 xue2 bi4 ye4 hou4 jin4 ru4 chu1 ban3 she4 gong1 zuo4, hou4 lai2 cheng2 le5 yi4 ming2 bian1 ji2.",
+        "meaningKo": "그녀는 대학 졸업 후 출판사에 들어가 일했고, 나중에는 편집자가 되었다.",
+        "meaningEn": "After graduating from university, she entered a publishing house and later became an editor."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_195",
+    "hskLevel": 7,
+    "hanzi": "编织",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "编",
+        "base": "bian",
+        "tone": 1
+      },
+      {
+        "hanzi": "织",
+        "base": "zhi",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to weave; to knit; to braid",
+    "meaningKo": "짜다; 엮다; 뜨개질하다",
+    "sentences": [
+      {
+        "hanzi": "奶奶年轻时很会编织，家里的很多毛衣都是她亲手做的。",
+        "pinyin": "nai3 nai5 nian2 qing1 shi2 hen3 hui4 bian1 zhi1, jia1 li3 de5 hen3 duo1 mao2 yi1 dou1 shi4 ta1 qin1 shou3 zuo4 de5.",
+        "meaningKo": "할머니는 젊었을 때 뜨개질을 매우 잘해서 집에 있는 많은 스웨터를 손수 만드셨다.",
+        "meaningEn": "When she was young, Grandma was very good at knitting, and many of the sweaters at home were made by her by hand."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_196",
+    "hskLevel": 7,
+    "hanzi": "编制",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "编",
+        "base": "bian",
+        "tone": 1
+      },
+      {
+        "hanzi": "制",
+        "base": "zhi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to draw up; to establish; staffing quota; staffing structure",
+    "meaningKo": "편성하다; 작성하다; 정원; 인원 편제",
+    "sentences": [
+      {
+        "hanzi": "公司正在编制明年的预算方案，同时调整各部门的人员编制。",
+        "pinyin": "gong1 si1 zheng4 zai4 bian1 zhi4 ming2 nian2 de5 yu4 suan4 fang1 an4, tong2 shi2 tiao2 zheng3 ge4 bu4 men2 de5 ren2 yuan2 bian1 zhi4.",
+        "meaningKo": "회사는 내년도 예산안을 편성하는 한편 각 부서의 인원 편제도 조정하고 있다.",
+        "meaningEn": "The company is drawing up next year's budget plan while also adjusting the staffing structure of each department."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_197",
+    "hskLevel": 7,
+    "hanzi": "贬义",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "贬",
+        "base": "bian",
+        "tone": 3
+      },
+      {
+        "hanzi": "义",
+        "base": "yi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "derogatory sense; negative connotation",
+    "meaningKo": "폄의; 부정적인 의미",
+    "sentences": [
+      {
+        "hanzi": "这个词在不同语境里可能带有明显的贬义。",
+        "pinyin": "zhe4 ge5 ci2 zai4 bu4 tong2 yu3 jing4 li3 ke3 neng2 dai4 you3 ming2 xian3 de5 bian3 yi4.",
+        "meaningKo": "이 단어는 문맥에 따라 뚜렷한 부정적 의미를 띨 수 있다.",
+        "meaningEn": "This word may carry an obvious negative connotation in different contexts."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_198",
+    "hskLevel": 7,
+    "hanzi": "辨别",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "辨",
+        "base": "bian",
+        "tone": 4
+      },
+      {
+        "hanzi": "别",
+        "base": "bie",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to distinguish; to differentiate; to identify",
+    "meaningKo": "분별하다; 구별하다; 식별하다",
+    "sentences": [
+      {
+        "hanzi": "面对复杂的信息，我们要学会辨别真伪。",
+        "pinyin": "mian4 dui4 fu4 za2 de5 xin4 xi1, wo3 men5 yao4 xue2 hui4 bian4 bie2 zhen1 wei3.",
+        "meaningKo": "복잡한 정보 앞에서 우리는 진위를 가려내는 법을 배워야 한다.",
+        "meaningEn": "When facing complex information, we must learn to distinguish truth from falsehood."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_199",
+    "hskLevel": 7,
+    "hanzi": "辩解",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "辩",
+        "base": "bian",
+        "tone": 4
+      },
+      {
+        "hanzi": "解",
+        "base": "jie",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to explain oneself; to justify; to offer an excuse",
+    "meaningKo": "변명하다; 해명하다",
+    "sentences": [
+      {
+        "hanzi": "出了问题以后，他没有一味辩解，而是先主动承担责任。",
+        "pinyin": "chu1 le5 wen4 ti2 yi3 hou4, ta1 mei2 you3 yi2 wei4 bian4 jie3, er2 shi4 xian1 zhu3 dong4 cheng2 dan1 ze2 ren4.",
+        "meaningKo": "문제가 생긴 뒤 그는 한사코 변명만 하지 않고 먼저 책임을 지려 했다.",
+        "meaningEn": "After the problem occurred, he did not just make excuses, but first took responsibility proactively."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_200",
+    "hskLevel": 7,
+    "hanzi": "辩证",
+    "partOfSpeech": "Adjective / Verb",
+    "syllables": [
+      {
+        "hanzi": "辩",
+        "base": "bian",
+        "tone": 4
+      },
+      {
+        "hanzi": "证",
+        "base": "zheng",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "dialectical; to analyze dialectically",
+    "meaningKo": "변증법적인; 변증법적으로 분석하다",
+    "sentences": [
+      {
+        "hanzi": "看待这个问题不能太片面，要学会辩证地分析。",
+        "pinyin": "kan4 dai4 zhe4 ge5 wen4 ti2 bu4 neng2 tai4 pian4 mian4, yao4 xue2 hui4 bian4 zheng4 de5 fen1 xi1.",
+        "meaningKo": "이 문제를 너무 한쪽으로만 봐서는 안 되고 변증법적으로 분석하는 법을 배워야 한다.",
+        "meaningEn": "We should not look at this issue too one-sidedly; we must learn to analyze it dialectically."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_201",
+    "hskLevel": 7,
+    "hanzi": "辫子",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "辫",
+        "base": "bian",
+        "tone": 4
+      },
+      {
+        "hanzi": "子",
+        "base": "zi",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "braid; pigtail; plait",
+    "meaningKo": "땋은 머리; 변발",
+    "sentences": [
+      {
+        "hanzi": "她把头发编成两条辫子，看起来特别精神。",
+        "pinyin": "ta1 ba3 tou2 fa5 bian1 cheng2 liang3 tiao2 bian4 zi5, kan4 qi3 lai2 te4 bie2 jing1 shen5.",
+        "meaningKo": "그녀는 머리를 두 갈래로 땋아 훨씬 더 생기 있어 보였다.",
+        "meaningEn": "She braided her hair into two pigtails, which made her look especially lively."
+      }
+    ],
+    "measureWord": "条"
+  },
+  {
+    "id": "hsk7_202",
+    "hskLevel": 7,
+    "hanzi": "标本",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "标",
+        "base": "biao",
+        "tone": 1
+      },
+      {
+        "hanzi": "本",
+        "base": "ben",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "specimen; sample; example",
+    "meaningKo": "표본; 견본; 본보기",
+    "sentences": [
+      {
+        "hanzi": "病理科医生会在手术后采集标本，进一步确认诊断结果。",
+        "pinyin": "bing4 li3 ke1 yi1 sheng1 hui4 zai4 shou3 shu4 hou4 cai3 ji2 biao1 ben3, jin4 yi2 bu4 que4 ren4 zhen3 duan4 jie2 guo3.",
+        "meaningKo": "병리과 의사는 수술 후 표본을 채취해 진단 결과를 더 확인한다.",
+        "meaningEn": "A pathologist collects a specimen after surgery to further confirm the diagnosis."
+      }
+    ],
+    "measureWord": "份"
+  },
+  {
+    "id": "hsk7_203",
+    "hskLevel": 7,
+    "hanzi": "标点",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "标",
+        "base": "biao",
+        "tone": 1
+      },
+      {
+        "hanzi": "点",
+        "base": "dian",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "punctuation; punctuation mark; to punctuate",
+    "meaningKo": "문장 부호; 구두점; 구두점을 찍다",
+    "sentences": [
+      {
+        "hanzi": "写完文章以后，别忘了检查标点是否正确。",
+        "pinyin": "xie3 wan2 wen2 zhang1 yi3 hou4, bie2 wang4 le5 jian3 cha2 biao1 dian3 shi4 fou3 zheng4 que4.",
+        "meaningKo": "글을 다 쓴 뒤에는 문장 부호가 정확한지 꼭 확인해야 한다.",
+        "meaningEn": "After finishing the article, do not forget to check whether the punctuation is correct."
+      }
+    ],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk7_204",
+    "hskLevel": 7,
+    "hanzi": "标记",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "标",
+        "base": "biao",
+        "tone": 1
+      },
+      {
+        "hanzi": "记",
+        "base": "ji",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "mark; sign; label; to mark",
+    "meaningKo": "표시; 표기; 표시하다; 표기하다",
+    "sentences": [
+      {
+        "hanzi": "请把重要的地方用红笔标记出来，方便以后查找。",
+        "pinyin": "qing3 ba3 zhong4 yao4 de5 di4 fang5 yong4 hong2 bi3 biao1 ji4 chu1 lai2, fang1 bian4 yi3 hou4 cha2 zhao3.",
+        "meaningKo": "중요한 부분은 나중에 찾기 쉽도록 빨간 펜으로 표시해 두세요.",
+        "meaningEn": "Please mark the important parts with a red pen so they will be easier to find later."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_205",
+    "hskLevel": 7,
+    "hanzi": "标签",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "标",
+        "base": "biao",
+        "tone": 1
+      },
+      {
+        "hanzi": "签",
+        "base": "qian",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "label; tag",
+    "meaningKo": "라벨; 꼬리표; 태그",
+    "sentences": [
+      {
+        "hanzi": "每个文件夹上都贴着标签，这样整理起来更清楚。",
+        "pinyin": "mei3 ge4 wen2 jian4 jia2 shang4 dou1 tie1 zhe5 biao1 qian1, zhe4 yang4 zheng3 li3 qi3 lai2 geng4 qing1 chu3.",
+        "meaningKo": "각 폴더에는 라벨이 붙어 있어서 정리할 때 훨씬 더 분명하다.",
+        "meaningEn": "Each folder has a label on it, which makes organizing much clearer."
+      }
+    ],
+    "measureWord": "张"
+  },
+  {
+    "id": "hsk7_206",
+    "hskLevel": 7,
+    "hanzi": "标示",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "标",
+        "base": "biao",
+        "tone": 1
+      },
+      {
+        "hanzi": "示",
+        "base": "shi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to indicate; to mark out; to show clearly",
+    "meaningKo": "표시하다; 나타내다; 분명히 보이다",
+    "sentences": [
+      {
+        "hanzi": "地图上用不同颜色标示出了各个区域的范围。",
+        "pinyin": "di4 tu2 shang4 yong4 bu4 tong2 yan2 se4 biao1 shi4 chu1 le5 ge4 ge4 qu1 yu4 de5 fan4 wei2.",
+        "meaningKo": "지도에는 서로 다른 색으로 각 구역의 범위가 표시되어 있다.",
+        "meaningEn": "The map uses different colors to indicate the boundaries of each area."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_207",
+    "hskLevel": 7,
+    "hanzi": "标语",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "标",
+        "base": "biao",
+        "tone": 1
+      },
+      {
+        "hanzi": "语",
+        "base": "yu",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "slogan; poster slogan",
+    "meaningKo": "표어; 슬로건",
+    "sentences": [
+      {
+        "hanzi": "校园里挂着很多环保标语，提醒大家节约资源。",
+        "pinyin": "xiao4 yuan2 li3 gua4 zhe5 hen3 duo1 huan2 bao3 biao1 yu3, ti2 xing3 da4 jia1 jie2 yue1 zi1 yuan2.",
+        "meaningKo": "학교 안에는 환경 보호 표어가 많이 걸려 있어 모두에게 자원 절약을 일깨워 준다.",
+        "meaningEn": "There are many environmental slogans hanging around the campus, reminding everyone to conserve resources."
+      }
+    ],
+    "measureWord": "条"
+  },
+  {
+    "id": "hsk7_208",
+    "hskLevel": 7,
+    "hanzi": "憋",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "憋",
+        "base": "bie",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to hold back; to suppress; to stifle",
+    "meaningKo": "참다; 억누르다; 억지로 누르다",
+    "sentences": [
+      {
+        "hanzi": "有话就直说，别老憋在心里。",
+        "pinyin": "you3 hua4 jiu4 zhi2 shuo1, bie2 lao3 bie1 zai4 xin1 li3.",
+        "meaningKo": "할 말이 있으면 바로 말하고 자꾸 마음속에만 담아 두지 마.",
+        "meaningEn": "If you have something to say, just say it; do not keep bottling it up inside."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_209",
+    "hskLevel": 7,
+    "hanzi": "别墅",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "别",
+        "base": "bie",
+        "tone": 2
+      },
+      {
+        "hanzi": "墅",
+        "base": "shu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "villa; detached house",
+    "meaningKo": "별장; 단독주택",
+    "sentences": [
+      {
+        "hanzi": "他们退休以后搬到郊外的一栋小别墅里生活。",
+        "pinyin": "ta1 men5 tui4 xiu1 yi3 hou4 ban1 dao4 jiao1 wai4 de5 yi2 dong4 xiao3 bie2 shu4 li3 sheng1 huo2.",
+        "meaningKo": "그들은 은퇴 후 교외의 작은 별장으로 이사해 살고 있다.",
+        "meaningEn": "After retiring, they moved to a small villa in the suburbs to live."
+      }
+    ],
+    "measureWord": "栋"
+  },
+  {
+    "id": "hsk7_210",
+    "hskLevel": 7,
+    "hanzi": "濒临",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "濒",
+        "base": "bin",
+        "tone": 1
+      },
+      {
+        "hanzi": "临",
+        "base": "lin",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to be on the verge of; to be close to",
+    "meaningKo": "직면하다; 막 다다르다; ~의 위기에 놓이다",
+    "sentences": [
+      {
+        "hanzi": "由于环境恶化，这种动物正濒临灭绝。",
+        "pinyin": "you2 yu2 huan2 jing4 e4 hua4, zhe4 zhong3 dong4 wu4 zheng4 bin1 lin2 mie4 jue2.",
+        "meaningKo": "환경 악화 때문에 이 동물은 멸종 위기에 놓여 있다.",
+        "meaningEn": "Because of environmental deterioration, this animal is on the verge of extinction."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_211",
+    "hskLevel": 7,
+    "hanzi": "并列",
+    "partOfSpeech": "Verb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "并",
+        "base": "bing",
+        "tone": 4
+      },
+      {
+        "hanzi": "列",
+        "base": "lie",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to place side by side; to list together; parallel; coordinate",
+    "meaningKo": "나란히 두다; 병렬로 놓다; 병렬의; 대등한",
+    "sentences": [
+      {
+        "hanzi": "在这个句子里，两个短语是并列关系。",
+        "pinyin": "zai4 zhe4 ge5 ju4 zi5 li3, liang3 ge4 duan3 yu3 shi4 bing4 lie4 guan1 xi4.",
+        "meaningKo": "이 문장에서는 두 구가 병렬 관계에 있다.",
+        "meaningEn": "In this sentence, the two phrases are in a coordinate relationship."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_212",
+    "hskLevel": 7,
+    "hanzi": "病毒",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "病",
+        "base": "bing",
+        "tone": 4
+      },
+      {
+        "hanzi": "毒",
+        "base": "du",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "virus",
+    "meaningKo": "바이러스",
+    "sentences": [
+      {
+        "hanzi": "这种病毒传播速度很快，所以大家都很重视防护。",
+        "pinyin": "zhe4 zhong3 bing4 du2 chuan2 bo1 su4 du4 hen3 kuai4, suo3 yi3 da4 jia1 dou1 hen3 zhong4 shi4 fang2 hu4.",
+        "meaningKo": "이 바이러스는 전파 속도가 매우 빨라서 모두가 방역을 중요하게 여긴다.",
+        "meaningEn": "This virus spreads very quickly, so everyone takes protection seriously."
+      }
+    ],
+    "measureWord": "种"
+  },
+  {
+    "id": "hsk7_213",
+    "hskLevel": 7,
+    "hanzi": "玻璃",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "玻",
+        "base": "bo",
+        "tone": 1
+      },
+      {
+        "hanzi": "璃",
+        "base": "li",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "glass",
+    "meaningKo": "유리",
+    "sentences": [
+      {
+        "hanzi": "小心一点，这块玻璃很薄，容易碎。",
+        "pinyin": "xiao3 xin1 yi4 dian3, zhe4 kuai4 bo1 li5 hen3 bao2, rong2 yi4 sui4.",
+        "meaningKo": "조심해, 이 유리는 매우 얇아서 깨지기 쉽다.",
+        "meaningEn": "Be careful, this piece of glass is very thin and breaks easily."
+      }
+    ],
+    "measureWord": "块"
+  },
+  {
+    "id": "hsk7_214",
+    "hskLevel": 7,
+    "hanzi": "剥削",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "剥",
+        "base": "bo",
+        "tone": 1
+      },
+      {
+        "hanzi": "削",
+        "base": "xue",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to exploit; exploitation",
+    "meaningKo": "착취하다; 착취",
+    "sentences": [
+      {
+        "hanzi": "法律不允许任何单位以低工资剥削劳动者。",
+        "pinyin": "fa3 lv4 bu4 yun3 xu3 ren4 he2 dan1 wei4 yi3 di1 gong1 zi1 bo1 xue1 lao2 dong4 zhe3.",
+        "meaningKo": "법은 어떤 기관도 낮은 임금으로 노동자를 착취하는 것을 허용하지 않는다.",
+        "meaningEn": "The law does not allow any organization to exploit workers with low wages."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_215",
+    "hskLevel": 7,
+    "hanzi": "波动",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "波",
+        "base": "bo",
+        "tone": 1
+      },
+      {
+        "hanzi": "动",
+        "base": "dong",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to fluctuate; fluctuation",
+    "meaningKo": "변동하다; 출렁이다; 변동",
+    "sentences": [
+      {
+        "hanzi": "最近市场价格波动很大，投资前要特别谨慎。",
+        "pinyin": "zui4 jin4 shi4 chang3 jia4 ge2 bo1 dong4 hen3 da4, tou2 zi1 qian2 yao4 te4 bie2 jin3 shen4.",
+        "meaningKo": "최근 시장 가격 변동이 커서 투자 전에 특히 신중해야 한다.",
+        "meaningEn": "Recently market prices have fluctuated greatly, so one must be especially cautious before investing."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_216",
+    "hskLevel": 7,
+    "hanzi": "波浪",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "波",
+        "base": "bo",
+        "tone": 1
+      },
+      {
+        "hanzi": "浪",
+        "base": "lang",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "wave; billow",
+    "meaningKo": "파도; 물결",
+    "sentences": [
+      {
+        "hanzi": "海面上的波浪越来越大，渔船只好提前回港。",
+        "pinyin": "hai3 mian4 shang4 de5 bo1 lang4 yue4 lai2 yue4 da4, yu2 chuan2 zhi3 hao3 ti2 qian2 hui2 gang3.",
+        "meaningKo": "바다 위 파도가 점점 거세져서 어선은 어쩔 수 없이 일찍 항구로 돌아갔다.",
+        "meaningEn": "The waves on the sea grew larger and larger, so the fishing boat had to return to port early."
+      }
+    ],
+    "measureWord": "阵"
+  },
+  {
+    "id": "hsk7_217",
+    "hskLevel": 7,
+    "hanzi": "拨打",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "拨",
+        "base": "bo",
+        "tone": 1
+      },
+      {
+        "hanzi": "打",
+        "base": "da",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to dial (a telephone number)",
+    "meaningKo": "전화를 걸다; 번호를 누르다",
+    "sentences": [
+      {
+        "hanzi": "如遇紧急情况，请立即拨打求助电话。",
+        "pinyin": "ru2 yu4 jin3 ji2 qing2 kuang4, qing3 li4 ji2 bo1 da3 qiu2 zhu4 dian4 hua4.",
+        "meaningKo": "긴급 상황이 발생하면 즉시 도움 요청 전화를 걸어 주세요.",
+        "meaningEn": "If an emergency occurs, please dial the help number immediately."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_218",
+    "hskLevel": 7,
+    "hanzi": "伯母",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "伯",
+        "base": "bo",
+        "tone": 2
+      },
+      {
+        "hanzi": "母",
+        "base": "mu",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "wife of one's father's elder brother; aunt",
+    "meaningKo": "큰어머니; 백모",
+    "sentences": [
+      {
+        "hanzi": "小时候我常去伯母家吃饭，她对我一直很好。",
+        "pinyin": "xiao3 shi2 hou4 wo3 chang2 qu4 bo2 mu3 jia1 chi1 fan4, ta1 dui4 wo3 yi1 zhi2 hen3 hao3.",
+        "meaningKo": "어릴 때 나는 큰어머니 댁에 자주 가서 밥을 먹었고, 큰어머니는 늘 내게 잘해 주셨다.",
+        "meaningEn": "When I was little, I often went to my aunt's house for meals, and she was always very kind to me."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_219",
+    "hskLevel": 7,
+    "hanzi": "伯父",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "伯",
+        "base": "bo",
+        "tone": 2
+      },
+      {
+        "hanzi": "父",
+        "base": "fu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "father's elder brother; uncle",
+    "meaningKo": "큰아버지; 백부",
+    "sentences": [
+      {
+        "hanzi": "伯父年轻时在外地工作，后来才回到家乡定居。",
+        "pinyin": "bo2 fu4 nian2 qing1 shi2 zai4 wai4 di4 gong1 zuo4, hou4 lai2 cai2 hui2 dao4 jia1 xiang1 ding4 ju1.",
+        "meaningKo": "큰아버지는 젊었을 때 타지에서 일하시다가 나중에야 고향으로 돌아와 정착하셨다.",
+        "meaningEn": "My uncle worked away from home when he was young and only later returned to settle in his hometown."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_220",
+    "hskLevel": 7,
+    "hanzi": "驳斥",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "驳",
+        "base": "bo",
+        "tone": 2
+      },
+      {
+        "hanzi": "斥",
+        "base": "chi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to refute; to rebuke",
+    "meaningKo": "반박하다; 논박하다",
+    "sentences": [
+      {
+        "hanzi": "面对不实指责，他拿出证据当场予以驳斥。",
+        "pinyin": "mian4 dui4 bu4 shi2 zhi3 ze2, ta1 na2 chu1 zheng4 ju4 dang1 chang3 yu3 yi3 bo2 chi4.",
+        "meaningKo": "그는 사실과 다른 비난에 맞서 증거를 내놓고 현장에서 즉시 반박했다.",
+        "meaningEn": "Facing false accusations, he produced evidence and refuted them on the spot."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_221",
+    "hskLevel": 7,
+    "hanzi": "博大",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "博",
+        "base": "bo",
+        "tone": 2
+      },
+      {
+        "hanzi": "大",
+        "base": "da",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "broad and deep; extensive",
+    "meaningKo": "넓고 심오하다; 박대하다",
+    "sentences": [
+      {
+        "hanzi": "中华文化博大精深，值得我们长期学习和研究。",
+        "pinyin": "zhong1 hua2 wen2 hua4 bo2 da4 jing1 shen1, zhi2 de5 wo3 men5 chang2 qi1 xue2 xi2 he2 yan2 jiu1.",
+        "meaningKo": "중화 문화는 넓고도 깊어서 우리가 오래도록 배우고 연구할 가치가 있다.",
+        "meaningEn": "Chinese culture is broad and profound, and is worth studying and researching over the long term."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_222",
+    "hskLevel": 7,
+    "hanzi": "博览会",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "博",
+        "base": "bo",
+        "tone": 2
+      },
+      {
+        "hanzi": "览",
+        "base": "lan",
+        "tone": 3
+      },
+      {
+        "hanzi": "会",
+        "base": "hui",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "exposition; fair; exhibition",
+    "meaningKo": "박람회",
+    "sentences": [
+      {
+        "hanzi": "今年的国际博览会吸引了很多来自国外的参展商。",
+        "pinyin": "jin1 nian2 de5 guo2 ji4 bo2 lan3 hui4 xi1 yin3 le5 hen3 duo1 lai2 zi4 guo2 wai4 de5 can1 zhan3 shang1.",
+        "meaningKo": "올해 국제 박람회에는 해외에서 온 많은 참가 업체가 몰렸다.",
+        "meaningEn": "This year's international exposition attracted many exhibitors from abroad."
+      }
+    ],
+    "measureWord": "届"
+  },
+  {
+    "id": "hsk7_223",
+    "hskLevel": 7,
+    "hanzi": "剥夺",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "剥",
+        "base": "bo",
+        "tone": 1
+      },
+      {
+        "hanzi": "夺",
+        "base": "duo",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to deprive; to strip away; deprivation",
+    "meaningKo": "박탈하다; 빼앗다",
+    "sentences": [
+      {
+        "hanzi": "任何人都无权剥夺别人受教育的机会。",
+        "pinyin": "ren4 he2 ren2 dou1 wu2 quan2 bo1 duo2 bie2 ren2 shou4 jiao4 yu4 de5 ji1 hui4.",
+        "meaningKo": "누구도 다른 사람의 교육받을 기회를 박탈할 권리는 없다.",
+        "meaningEn": "No one has the right to deprive others of the opportunity to receive an education."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_224",
+    "hskLevel": 7,
+    "hanzi": "搏斗",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "搏",
+        "base": "bo",
+        "tone": 2
+      },
+      {
+        "hanzi": "斗",
+        "base": "dou",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to struggle; to fight; struggle; fight",
+    "meaningKo": "싸우다; 사투를 벌이다; 투쟁",
+    "sentences": [
+      {
+        "hanzi": "消防员冒着危险与大火搏斗了整整一夜。",
+        "pinyin": "xiao1 fang2 yuan2 mao4 zhe5 wei1 xian3 yu3 da4 huo3 bo2 dou4 le5 zheng3 zheng3 yi2 ye4.",
+        "meaningKo": "소방관들은 위험을 무릅쓰고 큰불과 밤새 사투를 벌였다.",
+        "meaningEn": "The firefighters risked danger and battled the blaze all night long."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_225",
+    "hskLevel": 7,
+    "hanzi": "薄弱",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "薄",
+        "base": "bo",
+        "tone": 2
+      },
+      {
+        "hanzi": "弱",
+        "base": "ruo",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "weak; feeble; fragile",
+    "meaningKo": "약하다; 취약하다; 미약하다",
+    "sentences": [
+      {
+        "hanzi": "这个地区的医疗条件还比较薄弱，需要更多支持。",
+        "pinyin": "zhe4 ge5 di4 qu1 de5 yi1 liao2 tiao2 jian4 hai2 bi3 jiao4 bo2 ruo4, xu1 yao4 geng4 duo1 zhi1 chi2.",
+        "meaningKo": "이 지역의 의료 여건은 아직 비교적 취약해서 더 많은 지원이 필요하다.",
+        "meaningEn": "Medical conditions in this area are still relatively weak and require more support."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_226",
+    "hskLevel": 7,
+    "hanzi": "补偿",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "补",
+        "base": "bu",
+        "tone": 3
+      },
+      {
+        "hanzi": "偿",
+        "base": "chang",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to compensate; compensation",
+    "meaningKo": "보상하다; 보상",
+    "sentences": [
+      {
+        "hanzi": "公司答应对受影响的客户给予合理补偿。",
+        "pinyin": "gong1 si1 da2 ying4 dui4 shou4 ying3 xiang3 de5 ke4 hu4 gei3 yu3 he2 li3 bu3 chang2.",
+        "meaningKo": "회사는 영향을 받은 고객들에게 합리적인 보상을 하겠다고 약속했다.",
+        "meaningEn": "The company promised to provide reasonable compensation to the affected customers."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_227",
+    "hskLevel": 7,
+    "hanzi": "补救",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "补",
+        "base": "bu",
+        "tone": 3
+      },
+      {
+        "hanzi": "救",
+        "base": "jiu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to remedy; to salvage; to make up for",
+    "meaningKo": "만회하다; 바로잡다; 수습하다",
+    "sentences": [
+      {
+        "hanzi": "虽然出了差错，但现在补救还来得及。",
+        "pinyin": "sui1 ran2 chu1 le5 cha1 cuo4, dan4 xian4 zai4 bu3 jiu4 hai2 lai2 de5 ji2.",
+        "meaningKo": "비록 실수가 있었지만 지금이라면 만회할 시간이 아직 있다.",
+        "meaningEn": "Although a mistake was made, it is still not too late to remedy it now."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_228",
+    "hskLevel": 7,
+    "hanzi": "捕捉",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "捕",
+        "base": "bu",
+        "tone": 3
+      },
+      {
+        "hanzi": "捉",
+        "base": "zhuo",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to catch; to seize; to capture",
+    "meaningKo": "붙잡다; 포착하다; 포획하다",
+    "sentences": [
+      {
+        "hanzi": "摄影师成功捕捉到了运动员冲线的一瞬间。",
+        "pinyin": "she4 ying3 shi1 cheng2 gong1 bu3 zhuo1 dao4 le5 yun4 dong4 yuan2 chong1 xian4 de5 yi2 shun4 jian1.",
+        "meaningKo": "사진작가는 선수가 결승선을 통과하는 순간을 성공적으로 포착했다.",
+        "meaningEn": "The photographer successfully captured the moment when the athlete crossed the finish line."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_229",
+    "hskLevel": 7,
+    "hanzi": "不得已",
+    "partOfSpeech": "Adjective / Adverb",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "得",
+        "base": "de",
+        "tone": 2
+      },
+      {
+        "hanzi": "已",
+        "base": "yi",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to have no alternative; under compulsion; unavoidable",
+    "meaningKo": "부득이하다; 어쩔 수 없다; 마지못해",
+    "sentences": [
+      {
+        "hanzi": "因为天气原因，我们不得已取消了原定的活动。",
+        "pinyin": "yin1 wei4 tian1 qi4 yuan2 yin1, wo3 men5 bu4 de2 yi3 qu3 xiao1 le5 yuan2 ding4 de5 huo2 dong4.",
+        "meaningKo": "날씨 때문에 우리는 부득이하게 예정된 행사를 취소했다.",
+        "meaningEn": "Because of the weather, we had no choice but to cancel the planned event."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_230",
+    "hskLevel": 7,
+    "hanzi": "步伐",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "步",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "伐",
+        "base": "fa",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "pace; step; stride",
+    "meaningKo": "걸음; 보폭; 걸음걸이; 행보",
+    "sentences": [
+      {
+        "hanzi": "为了跟上大家的步伐，他这段时间一直在努力学习。",
+        "pinyin": "wei4 le5 gen1 shang4 da4 jia1 de5 bu4 fa2, ta1 zhe4 duan4 shi2 jian1 yi1 zhi2 zai4 nu3 li4 xue2 xi2.",
+        "meaningKo": "그는 모두의 걸음에 맞추기 위해 이 기간 내내 열심히 공부하고 있다.",
+        "meaningEn": "In order to keep pace with everyone, he has been studying hard during this period."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_231",
+    "hskLevel": 7,
+    "hanzi": "部署",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "部",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "署",
+        "base": "shu",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to deploy; to arrange; deployment; arrangement",
+    "meaningKo": "배치하다; 배치; 배치 계획을 세우다",
+    "sentences": [
+      {
+        "hanzi": "领导已经部署好了下一阶段的重点工作。",
+        "pinyin": "ling3 dao3 yi3 jing1 bu4 shu3 hao3 le5 xia4 yi2 jie1 duan4 de5 zhong4 dian3 gong1 zuo4.",
+        "meaningKo": "지도부는 이미 다음 단계의 중점 업무를 모두 배치해 두었다.",
+        "meaningEn": "The leadership has already arranged the key tasks for the next stage."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_232",
+    "hskLevel": 7,
+    "hanzi": "不顾",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 2
+      },
+      {
+        "hanzi": "顾",
+        "base": "gu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to disregard; regardless of; despite",
+    "meaningKo": "돌보지 않다; 아랑곳하지 않다; 무릅쓰다",
+    "sentences": [
+      {
+        "hanzi": "他不顾个人安危，冲进火场救人。",
+        "pinyin": "ta1 bu4 gu4 ge4 ren2 an1 wei1, chong1 jin4 huo3 chang3 jiu4 ren2.",
+        "meaningKo": "그는 개인의 안전을 돌보지 않고 불길 속으로 뛰어들어 사람을 구했다.",
+        "meaningEn": "He disregarded his own safety and rushed into the fire to save people."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_233",
+    "hskLevel": 7,
+    "hanzi": "不禁",
+    "partOfSpeech": "Adverb",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "禁",
+        "base": "jin",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "cannot help; can't refrain from",
+    "meaningKo": "저도 모르게; 금하지 못하고; 참지 못하고",
+    "sentences": [
+      {
+        "hanzi": "看到多年未见的朋友，他不禁笑了起来。",
+        "pinyin": "kan4 dao4 duo1 nian2 wei4 jian4 de5 peng2 you3, ta1 bu4 jin1 xiao4 le5 qi3 lai2.",
+        "meaningKo": "오랫동안 보지 못했던 친구를 보자 그는 저도 모르게 웃음이 나왔다.",
+        "meaningEn": "When he saw a friend he had not met for many years, he could not help but smile."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_234",
+    "hskLevel": 7,
+    "hanzi": "不堪",
+    "partOfSpeech": "Adjective / Verb",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "堪",
+        "base": "kan",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "cannot bear; unbearable; extremely bad",
+    "meaningKo": "견딜 수 없다; 참을 수 없다; 형편없다",
+    "sentences": [
+      {
+        "hanzi": "回想起那段不堪的往事，他沉默了很久。",
+        "pinyin": "hui2 xiang3 qi3 na4 duan4 bu4 kan1 de5 wang3 shi4, ta1 chen2 mo4 le5 hen3 jiu3.",
+        "meaningKo": "그는 견디기 힘든 지난 일을 떠올리며 한참 동안 침묵했다.",
+        "meaningEn": "Thinking back on that unbearable past, he remained silent for a long time."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_235",
+    "hskLevel": 7,
+    "hanzi": "不可避免",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "可",
+        "base": "ke",
+        "tone": 3
+      },
+      {
+        "hanzi": "避",
+        "base": "bi",
+        "tone": 4
+      },
+      {
+        "hanzi": "免",
+        "base": "mian",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "unavoidable; inevitable",
+    "meaningKo": "피할 수 없다; 불가피하다",
+    "sentences": [
+      {
+        "hanzi": "在成长过程中遇到一些挫折是不可避免的。",
+        "pinyin": "zai4 cheng2 zhang3 guo4 cheng2 zhong1 yu4 dao4 yi4 xie1 cuo4 zhe2 shi4 bu4 ke3 bi4 mian3 de5.",
+        "meaningKo": "성장 과정에서 몇몇 좌절을 겪는 것은 피할 수 없는 일이다.",
+        "meaningEn": "Encountering some setbacks in the process of growing up is unavoidable."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_236",
+    "hskLevel": 7,
+    "hanzi": "不时",
+    "partOfSpeech": "Adverb",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "时",
+        "base": "shi",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "from time to time; now and then; frequently",
+    "meaningKo": "이따금; 때때로; 수시로",
+    "sentences": [
+      {
+        "hanzi": "窗外不时传来鸟叫声，让人觉得很安静。",
+        "pinyin": "chuang1 wai4 bu4 shi2 chuan2 lai2 niao3 jiao4 sheng1, rang4 ren2 jue2 de5 hen3 an1 jing4.",
+        "meaningKo": "창밖에서는 이따금 새소리가 들려와 오히려 더 고요한 느낌이 들었다.",
+        "meaningEn": "Birdsong came from outside the window from time to time, making the atmosphere feel even more peaceful."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_237",
+    "hskLevel": 7,
+    "hanzi": "不惜",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "惜",
+        "base": "xi",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "not to hesitate to; to spare no ...",
+    "meaningKo": "아끼지 않다; 서슴지 않다; 기꺼이 ~하다",
+    "sentences": [
+      {
+        "hanzi": "为了实现目标，他不惜花费大量时间和精力。",
+        "pinyin": "wei4 le5 shi2 xian4 mu4 biao1, ta1 bu4 xi1 hua1 fei4 da4 liang4 shi2 jian1 he2 jing1 li4.",
+        "meaningKo": "목표를 이루기 위해 그는 많은 시간과 노력을 아끼지 않았다.",
+        "meaningEn": "In order to achieve his goal, he did not hesitate to spend a great deal of time and energy."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_238",
+    "hskLevel": 7,
+    "hanzi": "布告",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "布",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "告",
+        "base": "gao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "announcement; notice; to announce publicly",
+    "meaningKo": "공고; 게시문; 공고하다",
+    "sentences": [
+      {
+        "hanzi": "学校门口张贴了一张布告，通知大家明天停课。",
+        "pinyin": "xue2 xiao4 men2 kou3 zhang1 tie1 le5 yi4 zhang1 bu4 gao4, tong1 zhi1 da4 jia1 ming2 tian1 ting2 ke4.",
+        "meaningKo": "학교 정문에 공고문 한 장이 붙어 있었는데 내일 휴강이라는 내용이었다.",
+        "meaningEn": "A notice was posted at the school gate informing everyone that classes would be suspended tomorrow."
+      }
+    ],
+    "measureWord": "张"
+  },
+  {
+    "id": "hsk7_239",
+    "hskLevel": 7,
+    "hanzi": "布局",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "布",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "局",
+        "base": "ju",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "layout; arrangement; to lay out; to plan strategically",
+    "meaningKo": "배치; 구도; 배치하다; 판을 짜다",
+    "sentences": [
+      {
+        "hanzi": "这个房间的布局很合理，使用起来非常方便。",
+        "pinyin": "zhe4 ge5 fang2 jian1 de5 bu4 ju2 hen3 he2 li3, shi3 yong4 qi3 lai2 fei1 chang2 fang1 bian4.",
+        "meaningKo": "이 방의 배치는 매우 합리적이어서 사용하기가 아주 편리하다.",
+        "meaningEn": "The layout of this room is very reasonable, making it very convenient to use."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_240",
+    "hskLevel": 7,
+    "hanzi": "步入",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "步",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "入",
+        "base": "ru",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to step into; to enter; to move into",
+    "meaningKo": "발을 들여놓다; 들어서다; 접어들다",
+    "sentences": [
+      {
+        "hanzi": "这座城市正在步入快速发展的新阶段。",
+        "pinyin": "zhe4 zuo4 cheng2 shi4 zheng4 zai4 bu4 ru4 kuai4 su4 fa1 zhan3 de5 xin1 jie1 duan4.",
+        "meaningKo": "이 도시는 빠르게 발전하는 새로운 단계에 접어들고 있다.",
+        "meaningEn": "This city is entering a new stage of rapid development."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_241",
+    "hskLevel": 7,
+    "hanzi": "部门",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "部",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "门",
+        "base": "men",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "department; branch; section",
+    "meaningKo": "부서; 부문",
+    "sentences": [
+      {
+        "hanzi": "这个部门主要负责处理客户的投诉和建议。",
+        "pinyin": "zhe4 ge5 bu4 men2 zhu3 yao4 fu4 ze2 chu3 li3 ke4 hu4 de5 tou2 su4 he2 jian4 yi4.",
+        "meaningKo": "이 부서는 주로 고객의 불만과 건의를 처리하는 일을 담당한다.",
+        "meaningEn": "This department is mainly responsible for handling customer complaints and suggestions."
+      }
+    ],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk7_242",
+    "hskLevel": 7,
+    "hanzi": "埠",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "埠",
+        "base": "bu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "port; dock; wharf; trading port",
+    "meaningKo": "부두; 항구; 무역항",
+    "sentences": [
+      {
+        "hanzi": "这座城市因靠近重要商埠而发展得很快。",
+        "pinyin": "zhe4 zuo4 cheng2 shi4 yin1 kao4 jin4 zhong4 yao4 shang1 bu4 er2 fa1 zhan3 de5 hen3 kuai4.",
+        "meaningKo": "이 도시는 중요한 무역항과 가까워서 빠르게 발전했다.",
+        "meaningEn": "This city developed rapidly because it was close to an important trading port."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_243",
+    "hskLevel": 7,
+    "hanzi": "捕捞",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "捕",
+        "base": "bu",
+        "tone": 3
+      },
+      {
+        "hanzi": "捞",
+        "base": "lao",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to catch and gather; to fish",
+    "meaningKo": "어획하다; 잡아 올리다; 물고기를 잡다",
+    "sentences": [
+      {
+        "hanzi": "为了保护海洋资源，这一带已经禁止过度捕捞。",
+        "pinyin": "wei4 le5 bao3 hu4 hai3 yang2 zi1 yuan2, zhe4 yi2 dai4 yi3 jing1 jin4 zhi3 guo4 du4 bu3 lao1.",
+        "meaningKo": "해양 자원을 보호하기 위해 이 일대에서는 과도한 어획이 이미 금지되었다.",
+        "meaningEn": "In order to protect marine resources, overfishing has already been prohibited in this area."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_244",
+    "hskLevel": 7,
+    "hanzi": "不顾一切",
+    "partOfSpeech": "Phrase",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 2
+      },
+      {
+        "hanzi": "顾",
+        "base": "gu",
+        "tone": 4
+      },
+      {
+        "hanzi": "一",
+        "base": "yi",
+        "tone": 2
+      },
+      {
+        "hanzi": "切",
+        "base": "qie",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "regardless of everything; at all costs; recklessly",
+    "meaningKo": "모든 것을 돌보지 않고; 무조건; 무릅쓰고",
+    "sentences": [
+      {
+        "hanzi": "为了救孩子，他不顾一切地跳进了河里。",
+        "pinyin": "wei4 le5 jiu4 hai2 zi5, ta1 bu4 gu4 yi2 qie4 di4 tiao4 jin4 le5 he2 li3.",
+        "meaningKo": "아이를 구하기 위해 그는 모든 것을 무릅쓰고 강물 속으로 뛰어들었다.",
+        "meaningEn": "In order to save the child, he jumped into the river regardless of everything."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_245",
+    "hskLevel": 7,
+    "hanzi": "不愧",
+    "partOfSpeech": "Verb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 2
+      },
+      {
+        "hanzi": "愧",
+        "base": "kui",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to be worthy of; to prove oneself deserving of",
+    "meaningKo": "과연 ~답다; ~에 손색이 없다",
+    "sentences": [
+      {
+        "hanzi": "他不愧是经验丰富的老师，几句话就把问题讲清楚了。",
+        "pinyin": "ta1 bu4 kui4 shi4 jing1 yan4 feng1 fu4 de5 lao3 shi1, ji3 ju4 hua4 jiu4 ba3 wen4 ti2 jiang3 qing1 chu3 le5.",
+        "meaningKo": "그는 과연 경험 많은 선생님답게 몇 마디 말로 문제를 분명히 설명했다.",
+        "meaningEn": "He truly lived up to being an experienced teacher, explaining the problem clearly in just a few sentences."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_246",
+    "hskLevel": 7,
+    "hanzi": "不料",
+    "partOfSpeech": "Conjunction / Verb",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "料",
+        "base": "liao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "unexpectedly; to one's surprise",
+    "meaningKo": "뜻밖에도; 예상과 달리",
+    "sentences": [
+      {
+        "hanzi": "我原以为事情会很顺利，不料中途突然出了问题。",
+        "pinyin": "wo3 yuan2 yi3 wei2 shi4 qing2 hui4 hen3 shun4 li4, bu4 liao4 zhong1 tu2 tu1 ran2 chu1 le5 wen4 ti2.",
+        "meaningKo": "나는 일이 순조로울 줄 알았는데 뜻밖에도 중간에 갑자기 문제가 생겼다.",
+        "meaningEn": "I had thought things would go smoothly, but unexpectedly a problem suddenly arose halfway through."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_247",
+    "hskLevel": 7,
+    "hanzi": "不像话",
+    "partOfSpeech": "Adjective / Phrase",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 2
+      },
+      {
+        "hanzi": "像",
+        "base": "xiang",
+        "tone": 4
+      },
+      {
+        "hanzi": "话",
+        "base": "hua",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "outrageous; unreasonable; shocking",
+    "meaningKo": "말도 안 되다; 너무 심하다; 터무니없다",
+    "sentences": [
+      {
+        "hanzi": "他居然把责任全推给别人，真是太不像话了。",
+        "pinyin": "ta1 ju1 ran2 ba3 ze2 ren4 quan2 tui1 gei3 bie2 ren2, zhen1 shi4 tai4 bu2 xiang4 hua4 le5.",
+        "meaningKo": "그가 책임을 전부 남에게 떠넘기다니 정말 너무 심하다.",
+        "meaningEn": "He actually pushed all the responsibility onto others; that is really outrageous."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_248",
+    "hskLevel": 7,
+    "hanzi": "不由得",
+    "partOfSpeech": "Verb / Adverb",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "由",
+        "base": "you",
+        "tone": 2
+      },
+      {
+        "hanzi": "得",
+        "base": "de",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "cannot help; involuntarily",
+    "meaningKo": "저절로; 자기도 모르게; 참지 못하고",
+    "sentences": [
+      {
+        "hanzi": "听到这个好消息，她不由得笑了起来。",
+        "pinyin": "ting1 dao4 zhe4 ge5 hao3 xiao1 xi5, ta1 bu4 you2 de5 xiao4 le5 qi3 lai2.",
+        "meaningKo": "그 좋은 소식을 듣고 그녀는 자기도 모르게 웃음을 터뜨렸다.",
+        "meaningEn": "Hearing the good news, she could not help smiling."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_249",
+    "hskLevel": 7,
+    "hanzi": "不足",
+    "partOfSpeech": "Adjective / Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "足",
+        "base": "zu",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "insufficient; shortage; deficiency; not enough",
+    "meaningKo": "부족하다; 부족; 결점",
+    "sentences": [
+      {
+        "hanzi": "虽然方案有一些不足，但总体方向还是正确的。",
+        "pinyin": "sui1 ran2 fang1 an4 you3 yi4 xie1 bu4 zu2, dan4 zong3 ti3 fang1 xiang4 hai2 shi4 zheng4 que4 de5.",
+        "meaningKo": "이 방안에는 다소 부족한 점이 있지만 전체적인 방향은 여전히 옳다.",
+        "meaningEn": "Although this plan has some shortcomings, its overall direction is still correct."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_250",
+    "hskLevel": 7,
+    "hanzi": "布置",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "布",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "置",
+        "base": "zhi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to arrange; to decorate; to assign; arrangement",
+    "meaningKo": "배치하다; 꾸미다; 안배하다; 과제를 내다",
+    "sentences": [
+      {
+        "hanzi": "老师布置的作业不多，我们很快就做完了。",
+        "pinyin": "lao3 shi1 bu4 zhi4 de5 zuo4 ye4 bu4 duo1, wo3 men5 hen3 kuai4 jiu4 zuo4 wan2 le5.",
+        "meaningKo": "선생님이 내준 숙제가 많지 않아서 우리는 금방 끝냈다.",
+        "meaningEn": "The homework assigned by the teacher was not much, so we finished it quickly."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_251",
+    "hskLevel": 7,
+    "hanzi": "步调",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "步",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "调",
+        "base": "diao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "pace; step; tempo; coordinated pace",
+    "meaningKo": "보조; 걸음걸이; 속도; 보조를 맞춤",
+    "sentences": [
+      {
+        "hanzi": "大家要统一步调，才能按时完成这项任务。",
+        "pinyin": "da4 jia1 yao4 tong3 yi1 bu4 diao4, cai2 neng2 an4 shi2 wan2 cheng2 zhe4 xiang4 ren4 wu4.",
+        "meaningKo": "모두가 보조를 맞춰야만 이 임무를 제시간에 끝낼 수 있다.",
+        "meaningEn": "Everyone must keep the same pace in order to complete this task on time."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_252",
+    "hskLevel": 7,
+    "hanzi": "财产",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "财",
+        "base": "cai",
+        "tone": 2
+      },
+      {
+        "hanzi": "产",
+        "base": "chan",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "property; possessions; assets",
+    "meaningKo": "재산; 자산; 소유물",
+    "sentences": [
+      {
+        "hanzi": "发生火灾以后，最重要的是先保护人员安全，再考虑财产损失。",
+        "pinyin": "fa1 sheng1 huo3 zai1 yi3 hou4, zui4 zhong4 yao4 de5 shi4 xian1 bao3 hu4 ren2 yuan2 an1 quan2, zai4 kao3 lv4 cai2 chan3 sun3 shi1.",
+        "meaningKo": "화재가 발생하면 가장 중요한 것은 먼저 사람의 안전을 지키고 그다음 재산 피해를 고려하는 것이다.",
+        "meaningEn": "After a fire breaks out, the most important thing is first to protect people's safety, and then consider property losses."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_253",
+    "hskLevel": 7,
+    "hanzi": "裁缝",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "裁",
+        "base": "cai",
+        "tone": 2
+      },
+      {
+        "hanzi": "缝",
+        "base": "feng",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "tailor; dressmaker",
+    "meaningKo": "재단사; 양복점 주인; 바느질하는 사람",
+    "sentences": [
+      {
+        "hanzi": "这位裁缝手艺很好，很多人都专门来找他做衣服。",
+        "pinyin": "zhe4 wei4 cai2 feng2 shou3 yi4 hen3 hao3, hen3 duo1 ren2 dou1 zhuan1 men2 lai2 zhao3 ta1 zuo4 yi1 fu5.",
+        "meaningKo": "이 재단사는 솜씨가 아주 좋아서 많은 사람이 일부러 그를 찾아와 옷을 맞춘다.",
+        "meaningEn": "This tailor is very skilled, and many people come specifically to have clothes made by him."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_254",
+    "hskLevel": 7,
+    "hanzi": "踩",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "踩",
+        "base": "cai",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to step on; to tread on; to stamp on",
+    "meaningKo": "밟다; 디디다; 짓밟다",
+    "sentences": [
+      {
+        "hanzi": "下雨天路很滑，走路时别踩到积水。",
+        "pinyin": "xia4 yu3 tian1 lu4 hen3 hua2, zou3 lu4 shi2 bie2 cai3 dao4 ji1 shui3.",
+        "meaningKo": "비 오는 날에는 길이 미끄러우니 걸을 때 고인 물을 밟지 마라.",
+        "meaningEn": "On rainy days the road is slippery, so do not step into puddles while walking."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_255",
+    "hskLevel": 7,
+    "hanzi": "采访",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "采",
+        "base": "cai",
+        "tone": 3
+      },
+      {
+        "hanzi": "访",
+        "base": "fang",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to interview; interview; to gather news",
+    "meaningKo": "인터뷰하다; 취재하다; 인터뷰; 취재",
+    "sentences": [
+      {
+        "hanzi": "记者正在现场采访目击者，了解事故经过。",
+        "pinyin": "ji4 zhe3 zheng4 zai4 xian4 chang3 cai3 fang3 mu4 ji1 zhe3, liao3 jie3 shi4 gu4 jing1 guo4.",
+        "meaningKo": "기자는 현장에서 목격자를 인터뷰하며 사고 경위를 파악하고 있다.",
+        "meaningEn": "The reporter is interviewing witnesses at the scene to understand what happened in the accident."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_256",
+    "hskLevel": 7,
+    "hanzi": "采购",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "采",
+        "base": "cai",
+        "tone": 3
+      },
+      {
+        "hanzi": "购",
+        "base": "gou",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to purchase; to procure; purchasing; procurement",
+    "meaningKo": "구매하다; 조달하다; 구매; 조달",
+    "sentences": [
+      {
+        "hanzi": "公司计划下个月集中采购一批新设备。",
+        "pinyin": "gong1 si1 ji4 hua4 xia4 ge4 yue4 ji2 zhong1 cai3 gou4 yi4 pi1 xin1 she4 bei4.",
+        "meaningKo": "회사는 다음 달에 새로운 설비 한 묶음을 집중 구매할 계획이다.",
+        "meaningEn": "The company plans to centrally procure a batch of new equipment next month."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_257",
+    "hskLevel": 7,
+    "hanzi": "财政",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "财",
+        "base": "cai",
+        "tone": 2
+      },
+      {
+        "hanzi": "政",
+        "base": "zheng",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "public finance; fiscal affairs",
+    "meaningKo": "재정; 재정 업무",
+    "sentences": [
+      {
+        "hanzi": "政府正在研究新的财政政策，以促进经济恢复。",
+        "pinyin": "zheng4 fu3 zheng4 zai4 yan2 jiu1 xin1 de5 cai2 zheng4 zheng4 ce4, yi3 cu4 jin4 jing1 ji4 hui1 fu4.",
+        "meaningKo": "정부는 경제 회복을 촉진하기 위해 새로운 재정 정책을 연구하고 있다.",
+        "meaningEn": "The government is studying new fiscal policies in order to promote economic recovery."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_258",
+    "hskLevel": 7,
+    "hanzi": "菜单",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "菜",
+        "base": "cai",
+        "tone": 4
+      },
+      {
+        "hanzi": "单",
+        "base": "dan",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "menu",
+    "meaningKo": "메뉴; 차림표",
+    "sentences": [
+      {
+        "hanzi": "请先看看菜单，再决定要点什么菜。",
+        "pinyin": "qing3 xian1 kan4 kan5 cai4 dan1, zai4 jue2 ding4 yao4 dian3 shen2 me5 cai4.",
+        "meaningKo": "먼저 메뉴를 보고 나서 무엇을 주문할지 결정하세요.",
+        "meaningEn": "Please look at the menu first, and then decide what dishes to order."
+      }
+    ],
+    "measureWord": "份"
+  },
+  {
+    "id": "hsk7_259",
+    "hskLevel": 7,
+    "hanzi": "参谋",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "参",
+        "base": "can",
+        "tone": 1
+      },
+      {
+        "hanzi": "谋",
+        "base": "mou",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to advise; adviser; staff officer",
+    "meaningKo": "조언하다; 참모; 고문",
+    "sentences": [
+      {
+        "hanzi": "这件事太复杂了，还是请有经验的人帮我们参谋一下吧。",
+        "pinyin": "zhe4 jian4 shi4 tai4 fu4 za2 le5, hai2 shi4 qing3 you3 jing1 yan4 de5 ren2 bang1 wo3 men5 can1 mou2 yi2 xia4 ba5.",
+        "meaningKo": "이 일은 너무 복잡하니 경험 있는 사람에게 조언을 좀 구하는 것이 낫겠다.",
+        "meaningEn": "This matter is too complicated, so it would be better to ask an experienced person to advise us."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_260",
+    "hskLevel": 7,
+    "hanzi": "残酷",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "残",
+        "base": "can",
+        "tone": 2
+      },
+      {
+        "hanzi": "酷",
+        "base": "ku",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "cruel; brutal; ruthless",
+    "meaningKo": "잔혹하다; 냉혹하다; 가혹하다",
+    "sentences": [
+      {
+        "hanzi": "战争给普通人带来的后果往往是非常残酷的。",
+        "pinyin": "zhan4 zheng1 gei3 pu3 tong1 ren2 dai4 lai2 de5 hou4 guo3 wang3 wang3 shi4 fei1 chang2 can2 ku4 de5.",
+        "meaningKo": "전쟁이 평범한 사람들에게 가져오는 결과는 흔히 매우 잔혹하다.",
+        "meaningEn": "The consequences that war brings to ordinary people are often extremely cruel."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_261",
+    "hskLevel": 7,
+    "hanzi": "灿烂",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "灿",
+        "base": "can",
+        "tone": 4
+      },
+      {
+        "hanzi": "烂",
+        "base": "lan",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "bright; splendid; brilliant; radiant",
+    "meaningKo": "찬란하다; 눈부시다; 밝게 빛나다",
+    "sentences": [
+      {
+        "hanzi": "她脸上露出了灿烂的笑容，让大家都轻松了许多。",
+        "pinyin": "ta1 lian3 shang4 lu4 chu1 le5 can4 lan4 de5 xiao4 rong2, rang4 da4 jia1 dou1 qing1 song1 le5 xu3 duo1.",
+        "meaningKo": "그녀의 얼굴에 찬란한 미소가 번져 모두의 마음이 한결 가벼워졌다.",
+        "meaningEn": "A radiant smile appeared on her face, making everyone feel much more relaxed."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_262",
+    "hskLevel": 7,
+    "hanzi": "仓促",
+    "partOfSpeech": "Adjective / Adverb",
+    "syllables": [
+      {
+        "hanzi": "仓",
+        "base": "cang",
+        "tone": 1
+      },
+      {
+        "hanzi": "促",
+        "base": "cu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "hurried; hasty; rushed",
+    "meaningKo": "급하다; 황급하다; 서두르다",
+    "sentences": [
+      {
+        "hanzi": "由于时间太紧，这次准备显得有些仓促。",
+        "pinyin": "you2 yu2 shi2 jian1 tai4 jin3, zhe4 ci4 zhun3 bei4 xian3 de5 you3 xie1 cang1 cu4.",
+        "meaningKo": "시간이 너무 촉박해서 이번 준비는 다소 급하게 이루어졌다.",
+        "meaningEn": "Because time was too tight, the preparations this time seemed somewhat rushed."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_263",
+    "hskLevel": 7,
+    "hanzi": "舱",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "舱",
+        "base": "cang",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "cabin; compartment; hold",
+    "meaningKo": "선실; 객실; 화물칸",
+    "sentences": [
+      {
+        "hanzi": "飞机起飞前，请确认行李已经放进上方的行李舱。",
+        "pinyin": "fei1 ji1 qi3 fei1 qian2, qing3 que4 ren4 xing2 li5 yi3 jing1 fang4 jin4 shang4 fang1 de5 xing2 li5 cang1.",
+        "meaningKo": "비행기가 이륙하기 전에 짐이 위쪽 수하물 칸에 들어갔는지 확인하세요.",
+        "meaningEn": "Before the plane takes off, please make sure your luggage has been placed in the overhead compartment."
+      }
+    ],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk7_264",
+    "hskLevel": 7,
+    "hanzi": "苍白",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "苍",
+        "base": "cang",
+        "tone": 1
+      },
+      {
+        "hanzi": "白",
+        "base": "bai",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "pale; wan; weak and unconvincing",
+    "meaningKo": "창백하다; 핏기가 없다; 설득력이 약하다",
+    "sentences": [
+      {
+        "hanzi": "他听到噩耗后脸色变得苍白，半天说不出话来。",
+        "pinyin": "ta1 ting1 dao4 e4 hao4 hou4 lian3 se4 bian4 de5 cang1 bai2, ban4 tian1 shuo1 bu4 chu1 hua4 lai2.",
+        "meaningKo": "그는 비보를 듣고 얼굴이 창백해져 한참 동안 말을 잇지 못했다.",
+        "meaningEn": "After hearing the bad news, his face turned pale and he could not speak for a long time."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_265",
+    "hskLevel": 7,
+    "hanzi": "操劳",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "操",
+        "base": "cao",
+        "tone": 1
+      },
+      {
+        "hanzi": "劳",
+        "base": "lao",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to work hard; to toil; to worry and labor",
+    "meaningKo": "애써 일하다; 고생하다; 애쓰며 돌보다",
+    "sentences": [
+      {
+        "hanzi": "父母为这个家操劳了大半辈子，我们应该更加体谅他们。",
+        "pinyin": "fu4 mu3 wei4 zhe4 ge5 jia1 cao1 lao2 le5 da4 ban4 bei4 zi5, wo3 men5 ying1 gai1 geng4 jia1 ti3 liang4 ta1 men5.",
+        "meaningKo": "부모님은 이 가정을 위해 반평생을 애써 오셨으니 우리가 더 잘 헤아려야 한다.",
+        "meaningEn": "Our parents have toiled for this family for most of their lives, so we should be more understanding toward them."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_266",
+    "hskLevel": 7,
+    "hanzi": "草案",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "草",
+        "base": "cao",
+        "tone": 3
+      },
+      {
+        "hanzi": "案",
+        "base": "an",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "draft; preliminary plan; bill in draft form",
+    "meaningKo": "초안; 초고; 법안 초안",
+    "sentences": [
+      {
+        "hanzi": "这是初步草案，具体内容还需要大家继续讨论。",
+        "pinyin": "zhe4 shi4 chu1 bu4 cao3 an4, ju4 ti3 nei4 rong2 hai2 xu1 yao4 da4 jia1 ji4 xu4 tao3 lun4.",
+        "meaningKo": "이것은 초기 초안이므로 구체적인 내용은 모두가 계속 논의해야 한다.",
+        "meaningEn": "This is only a preliminary draft, so the specific content still needs to be discussed further by everyone."
+      }
+    ],
+    "measureWord": "份"
+  },
+  {
+    "id": "hsk7_267",
+    "hskLevel": 7,
+    "hanzi": "侧面",
+    "partOfSpeech": "Noun / Adverb",
+    "syllables": [
+      {
+        "hanzi": "侧",
+        "base": "ce",
+        "tone": 4
+      },
+      {
+        "hanzi": "面",
+        "base": "mian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "side; lateral side; from the side; indirectly",
+    "meaningKo": "측면; 옆면; 측면에서; 간접적으로",
+    "sentences": [
+      {
+        "hanzi": "从侧面看，这栋建筑的线条更加明显。",
+        "pinyin": "cong2 ce4 mian4 kan4, zhe4 dong4 jian4 zhu4 de5 xian4 tiao2 geng4 jia1 ming2 xian3.",
+        "meaningKo": "측면에서 보면 이 건물의 선이 더 뚜렷하게 보인다.",
+        "meaningEn": "Seen from the side, the lines of this building are more distinct."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_268",
+    "hskLevel": 7,
+    "hanzi": "测量",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "测",
+        "base": "ce",
+        "tone": 4
+      },
+      {
+        "hanzi": "量",
+        "base": "liang",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to measure; to survey; measurement; survey",
+    "meaningKo": "측정하다; 측량하다; 측정; 측량",
+    "sentences": [
+      {
+        "hanzi": "工程开始之前，工作人员先对地形进行了详细测量。",
+        "pinyin": "gong1 cheng2 kai1 shi3 zhi1 qian2, gong1 zuo4 ren2 yuan2 xian1 dui4 di4 xing2 jin4 xing2 le5 xiang2 xi4 ce4 liang2.",
+        "meaningKo": "공사가 시작되기 전에 작업자들은 먼저 지형을 자세히 측량했다.",
+        "meaningEn": "Before the project began, the workers first carried out a detailed survey of the terrain."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_269",
+    "hskLevel": 7,
+    "hanzi": "层出不穷",
+    "partOfSpeech": "Adjective / Phrase",
+    "syllables": [
+      {
+        "hanzi": "层",
+        "base": "ceng",
+        "tone": 2
+      },
+      {
+        "hanzi": "出",
+        "base": "chu",
+        "tone": 1
+      },
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "穷",
+        "base": "qiong",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to emerge one after another; to appear in endless succession",
+    "meaningKo": "끊임없이 생겨나다; 잇따라 나타나다",
+    "sentences": [
+      {
+        "hanzi": "网络上新的流行词层出不穷，让人几乎跟不上变化。",
+        "pinyin": "wang3 luo4 shang4 xin1 de5 liu2 xing2 ci2 ceng2 chu1 bu4 qiong2, rang4 ren2 ji1 hu1 gen1 bu4 shang4 bian4 hua4.",
+        "meaningKo": "인터넷에서는 새로운 유행어가 끊임없이 생겨나서 변화를 따라가기조차 어렵다.",
+        "meaningEn": "New buzzwords keep emerging on the internet, making it hard to keep up with the changes."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_270",
+    "hskLevel": 7,
+    "hanzi": "插手",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "插",
+        "base": "cha",
+        "tone": 1
+      },
+      {
+        "hanzi": "手",
+        "base": "shou",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to get involved in; to interfere; to meddle",
+    "meaningKo": "간섭하다; 개입하다; 끼어들다",
+    "sentences": [
+      {
+        "hanzi": "这是他们两个人之间的事，你最好不要轻易插手。",
+        "pinyin": "zhe4 shi4 ta1 men5 liang3 ge4 ren2 zhi1 jian1 de5 shi4, ni3 zui4 hao3 bu4 yao4 qing1 yi4 cha1 shou3.",
+        "meaningKo": "이것은 그들 두 사람 사이의 일이니 네가 쉽게 끼어들지 않는 것이 좋다.",
+        "meaningEn": "This is a matter between the two of them, so you had better not interfere lightly."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_271",
+    "hskLevel": 7,
+    "hanzi": "察觉",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "察",
+        "base": "cha",
+        "tone": 2
+      },
+      {
+        "hanzi": "觉",
+        "base": "jue",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to detect; to notice; to become aware of",
+    "meaningKo": "알아차리다; 눈치채다; 감지하다",
+    "sentences": [
+      {
+        "hanzi": "她很快察觉到气氛有些不对，于是主动停止了话题。",
+        "pinyin": "ta1 hen3 kuai4 cha2 jue2 dao4 qi4 fen1 you3 xie1 bu4 dui4, yu2 shi4 zhu3 dong4 ting2 zhi3 le5 hua4 ti2.",
+        "meaningKo": "그녀는 분위기가 조금 이상하다는 것을 곧 알아차리고 먼저 화제를 멈추었다.",
+        "meaningEn": "She quickly noticed that something was wrong with the atmosphere, so she took the initiative to stop the topic."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_272",
+    "hskLevel": 7,
+    "hanzi": "岔",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "岔",
+        "base": "cha",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "fork in the road; branch; to diverge; to interrupt",
+    "meaningKo": "갈림길; 갈래; 갈라지다; 말을 끊다",
+    "sentences": [
+      {
+        "hanzi": "到了前面的路口，你在右边那个岔口拐进去就行。",
+        "pinyin": "dao4 le5 qian2 mian4 de5 lu4 kou3, ni3 zai4 you4 bian1 na4 ge5 cha4 kou3 guai3 jin4 qu4 jiu4 xing2.",
+        "meaningKo": "앞쪽 교차로에 도착하면 오른쪽 갈림길로 들어가면 된다.",
+        "meaningEn": "When you get to the intersection ahead, just turn into the fork on the right."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_273",
+    "hskLevel": 7,
+    "hanzi": "差别",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "差",
+        "base": "cha",
+        "tone": 1
+      },
+      {
+        "hanzi": "别",
+        "base": "bie",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "difference; distinction; disparity",
+    "meaningKo": "차이; 구별; 격차",
+    "sentences": [
+      {
+        "hanzi": "这两种方案表面上差不多，其实还是有明显差别的。",
+        "pinyin": "zhe4 liang3 zhong3 fang1 an4 biao3 mian4 shang4 cha4 bu5 duo1, qi2 shi2 hai2 shi4 you3 ming2 xian3 cha1 bie2 de5.",
+        "meaningKo": "이 두 방안은 겉으로 보기에는 비슷하지만 사실은 뚜렷한 차이가 있다.",
+        "meaningEn": "These two plans look similar on the surface, but in fact there are obvious differences."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_274",
+    "hskLevel": 7,
+    "hanzi": "拆",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "拆",
+        "base": "chai",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to dismantle; to tear down; to take apart",
+    "meaningKo": "해체하다; 철거하다; 뜯어내다",
+    "sentences": [
+      {
+        "hanzi": "这座旧楼下个月就要拆了，所以很多人特地来拍照留念。",
+        "pinyin": "zhe4 zuo4 jiu4 lou2 xia4 ge4 yue4 jiu4 yao4 chai1 le5, suo3 yi3 hen3 duo1 ren2 te4 di4 lai2 pai1 zhao4 liu2 nian4.",
+        "meaningKo": "이 낡은 건물은 다음 달에 철거될 예정이라 많은 사람이 일부러 사진을 찍으러 왔다.",
+        "meaningEn": "This old building will be demolished next month, so many people came specially to take commemorative photos."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_275",
+    "hskLevel": 7,
+    "hanzi": "柴油",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "柴",
+        "base": "chai",
+        "tone": 2
+      },
+      {
+        "hanzi": "油",
+        "base": "you",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "diesel fuel",
+    "meaningKo": "디젤유; 경유",
+    "sentences": [
+      {
+        "hanzi": "这种大型卡车主要使用柴油作为燃料。",
+        "pinyin": "zhe4 zhong3 da4 xing2 ka3 che1 zhu3 yao4 shi3 yong4 chai2 you2 zuo4 wei2 ran2 liao4.",
+        "meaningKo": "이 대형 트럭은 주로 경유를 연료로 사용한다.",
+        "meaningEn": "This type of large truck mainly uses diesel as fuel."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_276",
+    "hskLevel": 7,
+    "hanzi": "搀",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "搀",
+        "base": "chan",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to support with the arm; to help someone walk",
+    "meaningKo": "부축하다; 곁에서 붙들어 주다",
+    "sentences": [
+      {
+        "hanzi": "看到老人走路不稳，他赶紧上前去搀了一把。",
+        "pinyin": "kan4 dao4 lao3 ren2 zou3 lu4 bu4 wen3, ta1 gan3 jin3 shang4 qian2 qu4 chan1 le5 yi4 ba3.",
+        "meaningKo": "노인이 걸음이 불안정한 것을 보고 그는 얼른 다가가 한 번 부축해 드렸다.",
+        "meaningEn": "Seeing that the elderly person was walking unsteadily, he hurried over to give support."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_277",
+    "hskLevel": 7,
+    "hanzi": "馋",
+    "partOfSpeech": "Adjective / Verb",
+    "syllables": [
+      {
+        "hanzi": "馋",
+        "base": "chan",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "greedy for food; craving; to be gluttonous",
+    "meaningKo": "먹고 싶어 안달이 나다; 군침이 돌다; 식탐이 있다",
+    "sentences": [
+      {
+        "hanzi": "一闻到厨房里的香味，孩子们就馋得直咽口水。",
+        "pinyin": "yi4 wen2 dao4 chu2 fang2 li3 de5 xiang1 wei4, hai2 zi5 men5 jiu4 chan2 de5 zhi2 yan4 kou3 shui3.",
+        "meaningKo": "부엌에서 나는 향을 맡자 아이들은 먹고 싶어 침을 꿀꺽 삼켰다.",
+        "meaningEn": "As soon as they smelled the aroma from the kitchen, the children craved it so much that they kept swallowing their saliva."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_278",
+    "hskLevel": 7,
+    "hanzi": "缠绕",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "缠",
+        "base": "chan",
+        "tone": 2
+      },
+      {
+        "hanzi": "绕",
+        "base": "rao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to twine; to coil around; to wind around",
+    "meaningKo": "휘감다; 감아 돌다; 얽히다",
+    "sentences": [
+      {
+        "hanzi": "藤蔓缠绕在栏杆上，远远看去像一面绿色的墙。",
+        "pinyin": "teng2 man4 chan2 rao4 zai4 lan2 gan1 shang4, yuan3 yuan3 kan4 qu4 xiang4 yi2 mian4 lv4 se4 de5 qiang2.",
+        "meaningKo": "덩굴이 난간을 휘감고 있어서 멀리서 보면 초록색 벽처럼 보인다.",
+        "meaningEn": "The vines were twining around the railing, looking like a green wall from a distance."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_279",
+    "hskLevel": 7,
+    "hanzi": "产业",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "产",
+        "base": "chan",
+        "tone": 3
+      },
+      {
+        "hanzi": "业",
+        "base": "ye",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "industry; industrial sector",
+    "meaningKo": "산업; 업종",
+    "sentences": [
+      {
+        "hanzi": "当地政府希望通过发展高科技产业带动就业。",
+        "pinyin": "dang1 di4 zheng4 fu3 xi1 wang4 tong1 guo4 fa1 zhan3 gao1 ke1 ji4 chan3 ye4 dai4 dong4 jiu4 ye4.",
+        "meaningKo": "지방 정부는 첨단 산업을 발전시켜 고용을 이끌어 내기를 바라고 있다.",
+        "meaningEn": "The local government hopes to drive employment by developing high-tech industries."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_280",
+    "hskLevel": 7,
+    "hanzi": "阐述",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "阐",
+        "base": "chan",
+        "tone": 3
+      },
+      {
+        "hanzi": "述",
+        "base": "shu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to expound; to elaborate; to explain in detail",
+    "meaningKo": "논술하다; 상세히 설명하다; 서술하다",
+    "sentences": [
+      {
+        "hanzi": "他在报告中详细阐述了这项政策的背景和意义。",
+        "pinyin": "ta1 zai4 bao4 gao4 zhong1 xiang2 xi4 chan3 shu4 le5 zhe4 xiang4 zheng4 ce4 de5 bei4 jing3 he2 yi4 yi4.",
+        "meaningKo": "그는 보고서에서 이 정책의 배경과 의미를 자세히 설명했다.",
+        "meaningEn": "In the report, he elaborated in detail on the background and significance of this policy."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_281",
+    "hskLevel": 7,
+    "hanzi": "颤抖",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "颤",
+        "base": "chan",
+        "tone": 4
+      },
+      {
+        "hanzi": "抖",
+        "base": "dou",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to tremble; to shiver; trembling",
+    "meaningKo": "떨다; 떨리다; 떨림",
+    "sentences": [
+      {
+        "hanzi": "他冷得不停颤抖，连话都说不清楚。",
+        "pinyin": "ta1 leng3 de5 bu4 ting2 chan4 dou3, lian2 hua4 dou1 shuo1 bu4 qing1 chu3.",
+        "meaningKo": "그는 추워서 계속 떨었고 말조차 제대로 하지 못했다.",
+        "meaningEn": "He was shivering continuously from the cold and could not even speak clearly."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_282",
+    "hskLevel": 7,
+    "hanzi": "昌盛",
+    "partOfSpeech": "Adjective / Verb",
+    "syllables": [
+      {
+        "hanzi": "昌",
+        "base": "chang",
+        "tone": 1
+      },
+      {
+        "hanzi": "盛",
+        "base": "sheng",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "prosperous; flourishing; to prosper",
+    "meaningKo": "번성하다; 창성하다; 번영하다",
+    "sentences": [
+      {
+        "hanzi": "那个时期商业非常昌盛，城市里到处都很热闹。",
+        "pinyin": "na4 ge5 shi2 qi1 shang1 ye4 fei1 chang2 chang1 sheng4, cheng2 shi4 li3 dao4 chu4 dou1 hen3 re4 nao4.",
+        "meaningKo": "그 시기에는 상업이 매우 번성해서 도시 곳곳이 활기로 가득했다.",
+        "meaningEn": "During that period, commerce was very prosperous and the whole city was lively."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_283",
+    "hskLevel": 7,
+    "hanzi": "常识",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "常",
+        "base": "chang",
+        "tone": 2
+      },
+      {
+        "hanzi": "识",
+        "base": "shi",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "common sense; general knowledge",
+    "meaningKo": "상식; 일반적인 지식",
+    "sentences": [
+      {
+        "hanzi": "这些安全常识每个人都应该知道。",
+        "pinyin": "zhe4 xie1 an1 quan2 chang2 shi2 mei3 ge4 ren2 dou1 ying1 gai1 zhi1 dao4.",
+        "meaningKo": "이런 안전 상식은 누구나 알아 두어야 한다.",
+        "meaningEn": "Everyone should know these basic safety facts."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_284",
+    "hskLevel": 7,
+    "hanzi": "场合",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "场",
+        "base": "chang",
+        "tone": 3
+      },
+      {
+        "hanzi": "合",
+        "base": "he",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "occasion; situation; setting",
+    "meaningKo": "장소; 경우; 상황; 자리",
+    "sentences": [
+      {
+        "hanzi": "在正式场合说话要注意分寸和礼貌。",
+        "pinyin": "zai4 zheng4 shi4 chang3 he2 shuo1 hua4 yao4 zhu4 yi4 fen1 cun4 he2 li3 mao4.",
+        "meaningKo": "공식적인 자리에서 말할 때는 정도와 예의를 지켜야 한다.",
+        "meaningEn": "When speaking on formal occasions, you need to pay attention to propriety and politeness."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_285",
+    "hskLevel": 7,
+    "hanzi": "敞开",
+    "partOfSpeech": "Verb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "敞",
+        "base": "chang",
+        "tone": 3
+      },
+      {
+        "hanzi": "开",
+        "base": "kai",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to open wide; to throw open; wide open",
+    "meaningKo": "활짝 열다; 넓게 열려 있다",
+    "sentences": [
+      {
+        "hanzi": "天气很好，大家把窗户都敞开了。",
+        "pinyin": "tian1 qi4 hen3 hao3, da4 jia1 ba3 chuang1 hu5 dou1 chang3 kai1 le5.",
+        "meaningKo": "날씨가 좋아서 모두가 창문을 활짝 열어 두었다.",
+        "meaningEn": "The weather was nice, so everyone threw the windows wide open."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_286",
+    "hskLevel": 7,
+    "hanzi": "倡导",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "倡",
+        "base": "chang",
+        "tone": 4
+      },
+      {
+        "hanzi": "导",
+        "base": "dao",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to advocate; to promote; to call for",
+    "meaningKo": "주창하다; 제창하다; 장려하다",
+    "sentences": [
+      {
+        "hanzi": "学校一直倡导绿色出行，希望大家少开车。",
+        "pinyin": "xue2 xiao4 yi1 zhi2 chang4 dao3 lv4 se4 chu1 xing2, xi1 wang4 da4 jia1 shao3 kai1 che1.",
+        "meaningKo": "학교는 줄곧 친환경 이동을 장려하며 모두가 차를 덜 타기를 바라고 있다.",
+        "meaningEn": "The school has consistently advocated green travel, hoping that everyone will drive less."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_287",
+    "hskLevel": 7,
+    "hanzi": "畅通",
+    "partOfSpeech": "Adjective / Verb",
+    "syllables": [
+      {
+        "hanzi": "畅",
+        "base": "chang",
+        "tone": 4
+      },
+      {
+        "hanzi": "通",
+        "base": "tong",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "unimpeded; unobstructed; smooth; to make smooth",
+    "meaningKo": "막힘없다; 원활하다; 소통되다",
+    "sentences": [
+      {
+        "hanzi": "修路结束后，这条主干道的交通终于恢复畅通。",
+        "pinyin": "xiu1 lu4 jie2 shu4 hou4, zhe4 tiao2 zhu3 gan4 dao4 de5 jiao1 tong1 zhong1 yu2 hui1 fu4 chang4 tong1.",
+        "meaningKo": "도로 공사가 끝난 뒤 이 간선도로의 교통은 마침내 원활하게 회복되었다.",
+        "meaningEn": "After the roadwork ended, traffic on this main road finally returned to normal and became smooth again."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_288",
+    "hskLevel": 7,
+    "hanzi": "抄",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "抄",
+        "base": "chao",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to copy; to transcribe; to plagiarize",
+    "meaningKo": "베끼다; 필사하다; 표절하다",
+    "sentences": [
+      {
+        "hanzi": "老师要求我们把这段课文抄一遍，加深印象。",
+        "pinyin": "lao3 shi1 yao1 qiu2 wo3 men5 ba3 zhe4 duan4 ke4 wen2 chao1 yi2 bian4, jia1 shen1 yin4 xiang4.",
+        "meaningKo": "선생님은 우리가 이 본문을 한 번 베껴 써서 인상을 더 깊게 하라고 하셨다.",
+        "meaningEn": "The teacher asked us to copy this text once to deepen our impression."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_289",
+    "hskLevel": 7,
+    "hanzi": "钞票",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "钞",
+        "base": "chao",
+        "tone": 1
+      },
+      {
+        "hanzi": "票",
+        "base": "piao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "paper money; banknote; bill",
+    "meaningKo": "지폐; 돈",
+    "sentences": [
+      {
+        "hanzi": "现在很多人出门已经很少带钞票了。",
+        "pinyin": "xian4 zai4 hen3 duo1 ren2 chu1 men2 yi3 jing1 hen3 shao3 dai4 chao1 piao4 le5.",
+        "meaningKo": "요즘은 외출할 때 지폐를 거의 가지고 다니지 않는 사람이 많다.",
+        "meaningEn": "Nowadays many people rarely carry cash when they go out."
+      }
+    ],
+    "measureWord": "张"
+  },
+  {
+    "id": "hsk7_290",
+    "hskLevel": 7,
+    "hanzi": "嘲笑",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "嘲",
+        "base": "chao",
+        "tone": 2
+      },
+      {
+        "hanzi": "笑",
+        "base": "xiao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to laugh at; to mock; ridicule",
+    "meaningKo": "비웃다; 조롱하다; 비웃음",
+    "sentences": [
+      {
+        "hanzi": "我们不应该因为别人的错误而去嘲笑他。",
+        "pinyin": "wo3 men5 bu4 ying1 gai1 yin1 wei4 bie2 ren2 de5 cuo4 wu4 er2 qu4 chao2 xiao4 ta1.",
+        "meaningKo": "우리는 다른 사람의 실수 때문에 그를 비웃어서는 안 된다.",
+        "meaningEn": "We should not mock someone because of their mistakes."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_291",
+    "hskLevel": 7,
+    "hanzi": "朝代",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "朝",
+        "base": "chao",
+        "tone": 2
+      },
+      {
+        "hanzi": "代",
+        "base": "dai",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "dynasty",
+    "meaningKo": "왕조; 시대",
+    "sentences": [
+      {
+        "hanzi": "这部电视剧讲的是唐朝那个朝代的故事。",
+        "pinyin": "zhe4 bu4 dian4 shi4 ju4 jiang3 de5 shi4 Tang2 chao2 na4 ge5 chao2 dai4 de5 gu4 shi4.",
+        "meaningKo": "이 드라마는 당나라라는 왕조 시대의 이야기를 다루고 있다.",
+        "meaningEn": "This TV drama tells stories from the Tang dynasty."
+      }
+    ],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk7_292",
+    "hskLevel": 7,
+    "hanzi": "潮流",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "潮",
+        "base": "chao",
+        "tone": 2
+      },
+      {
+        "hanzi": "流",
+        "base": "liu",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "trend; current; tide",
+    "meaningKo": "흐름; 추세; 조류",
+    "sentences": [
+      {
+        "hanzi": "年轻人通常更敏感地注意到最新的时尚潮流。",
+        "pinyin": "nian2 qing1 ren2 tong1 chang2 geng4 min3 gan3 di4 zhu4 yi4 dao4 zui4 xin1 de5 shi2 shang4 chao2 liu2.",
+        "meaningKo": "젊은 사람들은 보통 최신 패션 흐름에 더 민감하게 주목한다.",
+        "meaningEn": "Young people usually notice the latest fashion trends more sensitively."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_293",
+    "hskLevel": 7,
+    "hanzi": "撤退",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "撤",
+        "base": "che",
+        "tone": 4
+      },
+      {
+        "hanzi": "退",
+        "base": "tui",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to withdraw; to retreat; withdrawal; retreat",
+    "meaningKo": "철수하다; 후퇴하다; 철수; 후퇴",
+    "sentences": [
+      {
+        "hanzi": "情况太危险了，指挥员下令所有人员立即撤退。",
+        "pinyin": "qing2 kuang4 tai4 wei1 xian3 le5, zhi3 hui1 yuan2 xia4 ling4 suo3 you3 ren2 yuan2 li4 ji2 che4 tui4.",
+        "meaningKo": "상황이 너무 위험해서 지휘관은 모든 인원에게 즉시 철수하라고 명령했다.",
+        "meaningEn": "The situation was too dangerous, so the commander ordered all personnel to withdraw immediately."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_294",
+    "hskLevel": 7,
+    "hanzi": "沉淀",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "沉",
+        "base": "chen",
+        "tone": 2
+      },
+      {
+        "hanzi": "淀",
+        "base": "dian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to settle; to precipitate; sediment; accumulation",
+    "meaningKo": "가라앉다; 침전되다; 침전물; 축적",
+    "sentences": [
+      {
+        "hanzi": "让这杯水先静一会儿，杂质就会慢慢沉淀下来。",
+        "pinyin": "rang4 zhe4 bei1 shui3 xian1 jing4 yi2 hui4 er5, za2 zhi4 jiu4 hui4 man4 man4 chen2 dian4 xia4 lai2.",
+        "meaningKo": "이 물컵을 잠시 가만히 두면 불순물이 천천히 가라앉는다.",
+        "meaningEn": "Let this glass of water sit for a while, and the impurities will gradually settle to the bottom."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_295",
+    "hskLevel": 7,
+    "hanzi": "陈列",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "陈",
+        "base": "chen",
+        "tone": 2
+      },
+      {
+        "hanzi": "列",
+        "base": "lie",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to display; to exhibit; display",
+    "meaningKo": "진열하다; 전시하다; 진열",
+    "sentences": [
+      {
+        "hanzi": "博物馆里陈列着许多珍贵的历史文物。",
+        "pinyin": "bo2 wu4 guan3 li3 chen2 lie4 zhe5 xu3 duo1 zhen1 gui4 de5 li4 shi3 wen2 wu4.",
+        "meaningKo": "박물관에는 많은 귀중한 역사 유물이 진열되어 있다.",
+        "meaningEn": "Many precious historical relics are displayed in the museum."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_296",
+    "hskLevel": 7,
+    "hanzi": "趁",
+    "partOfSpeech": "Preposition / Verb",
+    "syllables": [
+      {
+        "hanzi": "趁",
+        "base": "chen",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to take advantage of; while; before",
+    "meaningKo": "~을 틈타; ~하는 김에; 기회를 타서",
+    "sentences": [
+      {
+        "hanzi": "趁现在人少，我们赶紧把事情办完吧。",
+        "pinyin": "chen4 xian4 zai4 ren2 shao3, wo3 men5 gan3 jin3 ba3 shi4 qing2 ban4 wan2 ba5.",
+        "meaningKo": "지금 사람이 적을 때 얼른 일을 끝내자.",
+        "meaningEn": "While there are few people now, let's quickly finish the task."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_297",
+    "hskLevel": 7,
+    "hanzi": "衬衫",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "衬",
+        "base": "chen",
+        "tone": 4
+      },
+      {
+        "hanzi": "衫",
+        "base": "shan",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "shirt",
+    "meaningKo": "셔츠; 와이셔츠",
+    "sentences": [
+      {
+        "hanzi": "他今天穿了一件白衬衫，看起来特别正式。",
+        "pinyin": "ta1 jin1 tian1 chuan1 le5 yi2 jian4 bai2 chen4 shan1, kan4 qi3 lai2 te4 bie2 zheng4 shi4.",
+        "meaningKo": "그는 오늘 흰 셔츠를 입어서 무척 단정하고 격식 있어 보였다.",
+        "meaningEn": "He wore a white shirt today, which made him look especially formal."
+      }
+    ],
+    "measureWord": "件"
+  },
+  {
+    "id": "hsk7_298",
+    "hskLevel": 7,
+    "hanzi": "称号",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "称",
+        "base": "cheng",
+        "tone": 1
+      },
+      {
+        "hanzi": "号",
+        "base": "hao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "title; designation; appellation",
+    "meaningKo": "칭호; 호칭; 명칭",
+    "sentences": [
+      {
+        "hanzi": "他因为多年无私奉献而获得了“优秀教师”的称号。",
+        "pinyin": "ta1 yin1 wei4 duo1 nian2 wu2 si1 feng4 xian4 er2 huo4 de2 le5 you1 xiu4 jiao4 shi1 de5 cheng1 hao4.",
+        "meaningKo": "그는 오랜 세월 헌신한 공로로 ‘우수 교사’라는 칭호를 받았다.",
+        "meaningEn": "Because of many years of selfless dedication, he received the title of 'Outstanding Teacher.'"
+      }
+    ]
+  },
+  {
+    "id": "hsk7_299",
+    "hskLevel": 7,
+    "hanzi": "成本",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "成",
+        "base": "cheng",
+        "tone": 2
+      },
+      {
+        "hanzi": "本",
+        "base": "ben",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "cost; production cost",
+    "meaningKo": "원가; 비용; 생산비",
+    "sentences": [
+      {
+        "hanzi": "如果原材料价格继续上涨，生产成本也会跟着增加。",
+        "pinyin": "ru2 guo3 yuan2 cai2 liao4 jia4 ge2 ji4 xu4 shang4 zhang3, sheng1 chan3 cheng2 ben3 ye3 hui4 gen1 zhe5 zeng1 jia1.",
+        "meaningKo": "원자재 가격이 계속 오르면 생산 원가도 함께 올라갈 것이다.",
+        "meaningEn": "If raw material prices continue to rise, production costs will also increase."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_300",
+    "hskLevel": 7,
+    "hanzi": "成交",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "成",
+        "base": "cheng",
+        "tone": 2
+      },
+      {
+        "hanzi": "交",
+        "base": "jiao",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to conclude a deal; transaction; deal concluded",
+    "meaningKo": "거래가 성사되다; 체결하다; 성사된 거래",
+    "sentences": [
+      {
+        "hanzi": "经过几轮谈判，双方终于顺利成交了。",
+        "pinyin": "jing1 guo4 ji3 lun2 tan2 pan4, shuang1 fang1 zhong1 yu2 shun4 li4 cheng2 jiao1 le5.",
+        "meaningKo": "여러 차례 협상 끝에 양측은 마침내 순조롭게 거래를 성사시켰다.",
+        "meaningEn": "After several rounds of negotiation, the two sides finally concluded the deal smoothly."
+      }
+    ]
+  }
+]

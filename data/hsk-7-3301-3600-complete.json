@@ -1,0 +1,7760 @@
+[
+  {
+    "id": "hsk7_3301",
+    "hskLevel": 7,
+    "hanzi": "霜",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "霜",
+        "base": "shuang",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "frost；white powder or cream spread over a surface；frosting；(skin) cream",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3302",
+    "hskLevel": 7,
+    "hanzi": "爽",
+    "partOfSpeech": "Other",
+    "syllables": [
+      {
+        "hanzi": "爽",
+        "base": "shuang",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "bright；clear；crisp；open；frank；straightforward；to feel well；fine；pleasurable；invigorating；to deviate",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3303",
+    "hskLevel": 7,
+    "hanzi": "爽快",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "爽",
+        "base": "shuang",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "快",
+        "base": "kuai",
+        "tone": 0,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "refreshed；rejuvenated；frank and straightforward",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3304",
+    "hskLevel": 7,
+    "hanzi": "水晶",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "水",
+        "base": "shui",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "晶",
+        "base": "jing",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "crystal",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3305",
+    "hskLevel": 7,
+    "hanzi": "水利",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "水",
+        "base": "shui",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "利",
+        "base": "li",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "water conservancy；irrigation works",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3306",
+    "hskLevel": 7,
+    "hanzi": "水龙头",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "水",
+        "base": "shui",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "龙",
+        "base": "long",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "头",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "faucet；tap",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3307",
+    "hskLevel": 7,
+    "hanzi": "水落石出",
+    "partOfSpeech": "Phrase",
+    "syllables": [
+      {
+        "hanzi": "水",
+        "base": "shui",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "落",
+        "base": "luo",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "石",
+        "base": "shi",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "出",
+        "base": "chu",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "as the water recedes, the rocks appear (idiom)；the truth comes to light",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3308",
+    "hskLevel": 7,
+    "hanzi": "水域",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "水",
+        "base": "shui",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "域",
+        "base": "yu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "waters；body of water",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3309",
+    "hskLevel": 7,
+    "hanzi": "水源",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "水",
+        "base": "shui",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "源",
+        "base": "yuan",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "water source；water supply；headwaters of a river",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3310",
+    "hskLevel": 7,
+    "hanzi": "水涨船高",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "水",
+        "base": "shui",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "涨",
+        "base": "zhang",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "船",
+        "base": "chuan",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "高",
+        "base": "gao",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "the tide rises, the boat floats (idiom); fig. to change with the overall trend；to develop according to the situation",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3311",
+    "hskLevel": 7,
+    "hanzi": "水准",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "水",
+        "base": "shui",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "准",
+        "base": "zhun",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "level (of achievement etc)；standard；level (surveying)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3312",
+    "hskLevel": 7,
+    "hanzi": "税收",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "税",
+        "base": "shui",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "收",
+        "base": "shou",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "taxation",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3313",
+    "hskLevel": 7,
+    "hanzi": "税务",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "税",
+        "base": "shui",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "务",
+        "base": "wu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "taxation services；state revenue service",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3314",
+    "hskLevel": 7,
+    "hanzi": "睡袋",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "睡",
+        "base": "shui",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "袋",
+        "base": "dai",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "sleeping bag",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3315",
+    "hskLevel": 7,
+    "hanzi": "顺差",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "顺",
+        "base": "shun",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "差",
+        "base": "cha",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "(trade or budget) surplus",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3316",
+    "hskLevel": 7,
+    "hanzi": "顺畅",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "顺",
+        "base": "shun",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "畅",
+        "base": "chang",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "smooth and unhindered；fluent",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3317",
+    "hskLevel": 7,
+    "hanzi": "顺从",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "顺",
+        "base": "shun",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "从",
+        "base": "cong",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "obedient；to comply；to submit；to defer",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3318",
+    "hskLevel": 7,
+    "hanzi": "顺理成章",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "顺",
+        "base": "shun",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "理",
+        "base": "li",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "成",
+        "base": "cheng",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "章",
+        "base": "zhang",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "logical；only to be expected；rational and clearly structured (of text)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3319",
+    "hskLevel": 7,
+    "hanzi": "顺路",
+    "partOfSpeech": "Adverb / Verb",
+    "syllables": [
+      {
+        "hanzi": "顺",
+        "base": "shun",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "路",
+        "base": "lu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "by the way；while out doing sth else；conveniently",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3320",
+    "hskLevel": 7,
+    "hanzi": "顺其自然",
+    "partOfSpeech": "Other",
+    "syllables": [
+      {
+        "hanzi": "顺",
+        "base": "shun",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "其",
+        "base": "qi",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "自",
+        "base": "zi",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "然",
+        "base": "ran",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to let nature take its course (idiom)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3321",
+    "hskLevel": 7,
+    "hanzi": "顺势",
+    "partOfSpeech": "Adverb",
+    "syllables": [
+      {
+        "hanzi": "顺",
+        "base": "shun",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "势",
+        "base": "shi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to take advantage；to seize an opportunity；in passing；without taking extra trouble；conveniently",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3322",
+    "hskLevel": 7,
+    "hanzi": "顺手",
+    "partOfSpeech": "Adverb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "顺",
+        "base": "shun",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "手",
+        "base": "shou",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "easily；without trouble；while one is at it；in passing；handy",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3323",
+    "hskLevel": 7,
+    "hanzi": "顺心",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "顺",
+        "base": "shun",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "心",
+        "base": "xin",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "happy；satisfactory",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3324",
+    "hskLevel": 7,
+    "hanzi": "顺应",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "顺",
+        "base": "shun",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "应",
+        "base": "ying",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to comply; to conform to; in tune with; adapting to; to adjust to",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3325",
+    "hskLevel": 7,
+    "hanzi": "说不上",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "说",
+        "base": "shuo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 0,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "上",
+        "base": "shang",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to be unable to say or tell；to not be worth mentioning",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3326",
+    "hskLevel": 7,
+    "hanzi": "说谎",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "说",
+        "base": "shuo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "谎",
+        "base": "huang",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to lie；to tell an untruth",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3327",
+    "hskLevel": 7,
+    "hanzi": "说情",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "说",
+        "base": "shuo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "情",
+        "base": "qing",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to intercede；to plead for sb else",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3328",
+    "hskLevel": 7,
+    "hanzi": "硕果",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "硕",
+        "base": "shuo",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "果",
+        "base": "guo",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "major achievement；great work；triumphant success",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3329",
+    "hskLevel": 7,
+    "hanzi": "丝",
+    "partOfSpeech": "Noun / Classifier",
+    "syllables": [
+      {
+        "hanzi": "丝",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "silk；thread；trace；(cuisine) shreds or julienne strips；classifier: a thread (of cloud, smoke etc), a bit, an iota, a hint (of sth) etc",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "条"
+  },
+  {
+    "id": "hsk7_3330",
+    "hskLevel": 7,
+    "hanzi": "丝绸",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "丝",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "绸",
+        "base": "chou",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "silk cloth；silk",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3331",
+    "hskLevel": 7,
+    "hanzi": "丝毫",
+    "partOfSpeech": "Numeral / Adjective / Noun",
+    "syllables": [
+      {
+        "hanzi": "丝",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "毫",
+        "base": "hao",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "the slightest amount or degree；a bit",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3332",
+    "hskLevel": 7,
+    "hanzi": "司法",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "司",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "法",
+        "base": "fa",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "judicial；(administration of) justice",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3333",
+    "hskLevel": 7,
+    "hanzi": "司空见惯",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "司",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "空",
+        "base": "kong",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "见",
+        "base": "jian",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "惯",
+        "base": "guan",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "a common occurrence (idiom)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3334",
+    "hskLevel": 7,
+    "hanzi": "司令",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "司",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "令",
+        "base": "ling",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "commanding officer",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3335",
+    "hskLevel": 7,
+    "hanzi": "私家车",
+    "partOfSpeech": "Other",
+    "syllables": [
+      {
+        "hanzi": "私",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "家",
+        "base": "jia",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "车",
+        "base": "che",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "private car",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3336",
+    "hskLevel": 7,
+    "hanzi": "私立",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "私",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "立",
+        "base": "li",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "private (company, school etc)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3337",
+    "hskLevel": 7,
+    "hanzi": "私事",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "私",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "事",
+        "base": "shi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "personal matters",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3338",
+    "hskLevel": 7,
+    "hanzi": "私下",
+    "partOfSpeech": "Adverb",
+    "syllables": [
+      {
+        "hanzi": "私",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "下",
+        "base": "xia",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "in private",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3339",
+    "hskLevel": 7,
+    "hanzi": "私营",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "私",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "营",
+        "base": "ying",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "privately-owned；private",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3340",
+    "hskLevel": 7,
+    "hanzi": "私有",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "私",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "有",
+        "base": "you",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "private；privately-owned",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3341",
+    "hskLevel": 7,
+    "hanzi": "私自",
+    "partOfSpeech": "Adverb",
+    "syllables": [
+      {
+        "hanzi": "私",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "自",
+        "base": "zi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "private; personal；secretly; without explicit approval",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3342",
+    "hskLevel": 7,
+    "hanzi": "思前想后",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "思",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "前",
+        "base": "qian",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "想",
+        "base": "xiang",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "后",
+        "base": "hou",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to consider past cause and future effect (idiom); to think over the past and future；to ponder over reasons and connection",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3343",
+    "hskLevel": 7,
+    "hanzi": "思索",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "思",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "索",
+        "base": "suo",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to think deeply；to ponder",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3344",
+    "hskLevel": 7,
+    "hanzi": "思绪",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "思",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "绪",
+        "base": "xu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "train of thought；emotional state；mood；feeling",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3345",
+    "hskLevel": 7,
+    "hanzi": "撕",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "撕",
+        "base": "si",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to tear",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3346",
+    "hskLevel": 7,
+    "hanzi": "死心",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "死",
+        "base": "si",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "心",
+        "base": "xin",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to give up；to admit failure；to drop the matter；to reconcile oneself to loss；to have no more illusions about",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3347",
+    "hskLevel": 7,
+    "hanzi": "四面八方",
+    "partOfSpeech": "Phrase",
+    "syllables": [
+      {
+        "hanzi": "四",
+        "base": "si",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "面",
+        "base": "mian",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "八",
+        "base": "ba",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "方",
+        "base": "fang",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "in all directions；all around；far and near",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3348",
+    "hskLevel": 7,
+    "hanzi": "四肢",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "四",
+        "base": "si",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "肢",
+        "base": "zhi",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "the four limbs of the body",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3349",
+    "hskLevel": 7,
+    "hanzi": "寺",
+    "partOfSpeech": "Other",
+    "syllables": [
+      {
+        "hanzi": "寺",
+        "base": "si",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "Buddhist temple；mosque；government office (old)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3350",
+    "hskLevel": 7,
+    "hanzi": "寺庙",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "寺",
+        "base": "si",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "庙",
+        "base": "miao",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "temple；monastery；shrine",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3351",
+    "hskLevel": 7,
+    "hanzi": "饲料",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "饲",
+        "base": "si",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "料",
+        "base": "liao",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "feed；fodder",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3352",
+    "hskLevel": 7,
+    "hanzi": "饲养",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "饲",
+        "base": "si",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "养",
+        "base": "yang",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to raise；to rear",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3353",
+    "hskLevel": 7,
+    "hanzi": "肆无忌惮",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "肆",
+        "base": "si",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "无",
+        "base": "wu",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "忌",
+        "base": "ji",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "惮",
+        "base": "dan",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "absolutely unrestrained；unbridled；without the slightest scruple",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3354",
+    "hskLevel": 7,
+    "hanzi": "松弛",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "松",
+        "base": "song",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "弛",
+        "base": "chi",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to relax；relaxed；limp；lax",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3355",
+    "hskLevel": 7,
+    "hanzi": "松树",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "松",
+        "base": "song",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "树",
+        "base": "shu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "pine；pine tree",
+    "meaningKo": "소나무",
+    "sentences": [
+      {
+        "hanzi": "公园里有一棵松树和一群孩子在树荫下读书散步。",
+        "pinyin": "gong1 yuan2 li3 you3 yi1 ke1 song1 shu4 he2 yi1 qun2 hai2 zi3 zai4 shu4 yin4 xia4 du2 shu1 san4 bu4",
+        "meaningKo": "공원에 소나무 한 그루가 있고 아이들이 그늘 아래에서 책을 읽고 산책한다.",
+        "meaningEn": "In the park, there is a pine tree and a group of children reading in the shade and taking a walk."
+      }
+    ],
+    "measureWord": "棵"
+  },
+  {
+    "id": "hsk7_3356",
+    "hskLevel": 7,
+    "hanzi": "耸",
+    "partOfSpeech": "Other",
+    "syllables": [
+      {
+        "hanzi": "耸",
+        "base": "song",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to excite；to raise up；to shrug；high；lofty；towering",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3357",
+    "hskLevel": 7,
+    "hanzi": "耸立",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "耸",
+        "base": "song",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "立",
+        "base": "li",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to stand tall；to tower aloft",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3358",
+    "hskLevel": 7,
+    "hanzi": "送别",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "送",
+        "base": "song",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "别",
+        "base": "bie",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to farewell",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3359",
+    "hskLevel": 7,
+    "hanzi": "送行",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "送",
+        "base": "song",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "行",
+        "base": "xing",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to see someone off；to throw someone a send-off party",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3360",
+    "hskLevel": 7,
+    "hanzi": "搜查",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "搜",
+        "base": "sou",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "查",
+        "base": "cha",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to search",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3361",
+    "hskLevel": 7,
+    "hanzi": "搜救",
+    "partOfSpeech": "Other",
+    "syllables": [
+      {
+        "hanzi": "搜",
+        "base": "sou",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "救",
+        "base": "jiu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "search and rescue",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3362",
+    "hskLevel": 7,
+    "hanzi": "搜寻",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "搜",
+        "base": "sou",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "寻",
+        "base": "xun",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to search；to look for",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3363",
+    "hskLevel": 7,
+    "hanzi": "苏醒",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "苏",
+        "base": "su",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "醒",
+        "base": "xing",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to come to；to awaken；to regain consciousness",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3364",
+    "hskLevel": 7,
+    "hanzi": "酥",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "酥",
+        "base": "su",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "flaky pastry；crunchy；limp；soft；silky",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3365",
+    "hskLevel": 7,
+    "hanzi": "俗",
+    "partOfSpeech": "Adjective / Adverb / Other",
+    "syllables": [
+      {
+        "hanzi": "俗",
+        "base": "su",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "custom；convention；popular；common；coarse；vulgar；secular",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3366",
+    "hskLevel": 7,
+    "hanzi": "俗话",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "俗",
+        "base": "su",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "话",
+        "base": "hua",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "common saying；proverb",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3367",
+    "hskLevel": 7,
+    "hanzi": "俗语",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "俗",
+        "base": "su",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "语",
+        "base": "yu",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "common saying；proverb；colloquial speech",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3368",
+    "hskLevel": 7,
+    "hanzi": "素",
+    "partOfSpeech": "Other / Noun / Adjective",
+    "syllables": [
+      {
+        "hanzi": "素",
+        "base": "su",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "raw silk；white；plain, unadorned；vegetarian (food)；essence；nature；element；constituent；usually；always；ever",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3369",
+    "hskLevel": 7,
+    "hanzi": "素不相识",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "素",
+        "base": "su",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "相",
+        "base": "xiang",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "识",
+        "base": "shi",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to be total strangers (idiom)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3370",
+    "hskLevel": 7,
+    "hanzi": "素材",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "素",
+        "base": "su",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "材",
+        "base": "cai",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "source material (in literature and art)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3371",
+    "hskLevel": 7,
+    "hanzi": "素食",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "素",
+        "base": "su",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "食",
+        "base": "shi",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "vegetarian food；to eat a vegetarian diet",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3372",
+    "hskLevel": 7,
+    "hanzi": "素养",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "素",
+        "base": "su",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "养",
+        "base": "yang",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "(personal) accomplishment；attainment in self-cultivation",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3373",
+    "hskLevel": 7,
+    "hanzi": "诉苦",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "诉",
+        "base": "su",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "苦",
+        "base": "ku",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to grumble；to complain；grievance",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3374",
+    "hskLevel": 7,
+    "hanzi": "诉说",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "诉",
+        "base": "su",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "说",
+        "base": "shuo",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to recount；to tell of；to relate；(fig.) (of a thing) to stand as testament to (some past history)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3375",
+    "hskLevel": 7,
+    "hanzi": "诉讼",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "诉",
+        "base": "su",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "讼",
+        "base": "song",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "lawsuit",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3376",
+    "hskLevel": 7,
+    "hanzi": "蒜",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "蒜",
+        "base": "suan",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "garlic",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "头"
+  },
+  {
+    "id": "hsk7_3377",
+    "hskLevel": 7,
+    "hanzi": "算计",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "算",
+        "base": "suan",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "计",
+        "base": "ji",
+        "tone": 0,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to reckon；to calculate；to plan；to expect；to scheme",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3378",
+    "hskLevel": 7,
+    "hanzi": "算盘",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "算",
+        "base": "suan",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "盘",
+        "base": "pan",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "abacus；plan；scheme",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "把"
+  },
+  {
+    "id": "hsk7_3379",
+    "hskLevel": 7,
+    "hanzi": "算数",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "算",
+        "base": "suan",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "数",
+        "base": "shu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to count numbers；to keep to one's word；to hold (i.e. to remain valid)；to count (i.e. to be important)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3380",
+    "hskLevel": 7,
+    "hanzi": "算账",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "算",
+        "base": "suan",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "账",
+        "base": "zhang",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "(accounting) to balance the books; to do the accounts；(fig.) to settle an account; to get one's revenge",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3381",
+    "hskLevel": 7,
+    "hanzi": "虽说",
+    "partOfSpeech": "Conjunction",
+    "syllables": [
+      {
+        "hanzi": "虽",
+        "base": "sui",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "说",
+        "base": "shuo",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "though；although",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3382",
+    "hskLevel": 7,
+    "hanzi": "随处可见",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "随",
+        "base": "sui",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "处",
+        "base": "chu",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "可",
+        "base": "ke",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "见",
+        "base": "jian",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "can be seen everywhere",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3383",
+    "hskLevel": 7,
+    "hanzi": "随机",
+    "partOfSpeech": "Adverb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "随",
+        "base": "sui",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "机",
+        "base": "ji",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "according to the situation；pragmatic；random",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3384",
+    "hskLevel": 7,
+    "hanzi": "随即",
+    "partOfSpeech": "Adverb",
+    "syllables": [
+      {
+        "hanzi": "随",
+        "base": "sui",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "即",
+        "base": "ji",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "immediately；presently；following which",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3385",
+    "hskLevel": 7,
+    "hanzi": "随身",
+    "partOfSpeech": "Adverb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "随",
+        "base": "sui",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "身",
+        "base": "shen",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to (carry) on one's person；to (take) with one",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3386",
+    "hskLevel": 7,
+    "hanzi": "随时随地",
+    "partOfSpeech": "Phrase",
+    "syllables": [
+      {
+        "hanzi": "随",
+        "base": "sui",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "时",
+        "base": "shi",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "随",
+        "base": "sui",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "地",
+        "base": "di",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "anytime and anywhere",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3387",
+    "hskLevel": 7,
+    "hanzi": "随心所欲",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "随",
+        "base": "sui",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "心",
+        "base": "xin",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "所",
+        "base": "suo",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "欲",
+        "base": "yu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to follow one's heart's desires；to do as one pleases (idiom)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3388",
+    "hskLevel": 7,
+    "hanzi": "隧道",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "隧",
+        "base": "sui",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "道",
+        "base": "dao",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "tunnel",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3389",
+    "hskLevel": 7,
+    "hanzi": "损人利己",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "损",
+        "base": "sun",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "人",
+        "base": "ren",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "利",
+        "base": "li",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "己",
+        "base": "ji",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "harming others for one's personal benefit (idiom); personal gain to the detriment of others",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3390",
+    "hskLevel": 7,
+    "hanzi": "缩",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "缩",
+        "base": "suo",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to withdraw；to pull back；to contract；to shrink；to reduce；abbreviation；also pr. [sù]",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3391",
+    "hskLevel": 7,
+    "hanzi": "缩水",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "缩",
+        "base": "suo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "水",
+        "base": "shui",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to shrink (in the wash)；fig. to shrink (of profits etc)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3392",
+    "hskLevel": 7,
+    "hanzi": "缩影",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "缩",
+        "base": "suo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "影",
+        "base": "ying",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "miniature version of sth；microcosm；epitome；(Tw) to microfilm",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3393",
+    "hskLevel": 7,
+    "hanzi": "所属",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "所",
+        "base": "suo",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "属",
+        "base": "shu",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "one's affiliation (i.e. the organization one is affiliated with)；subordinate (i.e. those subordinate to oneself)；belonging to；affiliated；under one's command",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3394",
+    "hskLevel": 7,
+    "hanzi": "所谓",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "所",
+        "base": "suo",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "谓",
+        "base": "wei",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "so-called；what is called",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3395",
+    "hskLevel": 7,
+    "hanzi": "所在",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "所",
+        "base": "suo",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "在",
+        "base": "zai",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "place；location；(after a noun) place where it is located",
+    "meaningKo": "위치；장소；(명사 뒤) 위치한 곳",
+    "sentences": [
+      {
+        "hanzi": "那家公司在地图上标出总部所在街区位置。",
+        "pinyin": "na4 gong1 si1 zai4 di4 tu2 shang4 biao1 chu1 zong3 bu4 suo3 zai4 jie4 qu1 wei4 zhi4",
+        "meaningKo": "그 회사는 지도에 본사가 위치한 구역의 위치를 표시했다.",
+        "meaningEn": "That company marked on the map the location of the district where the headquarters is located."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3396",
+    "hskLevel": 7,
+    "hanzi": "所作所为",
+    "partOfSpeech": "Phrase",
+    "syllables": [
+      {
+        "hanzi": "所",
+        "base": "suo",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "作",
+        "base": "zuo",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "所",
+        "base": "suo",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "为",
+        "base": "wei",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "one's conduct and deeds",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3397",
+    "hskLevel": 7,
+    "hanzi": "索赔",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "索",
+        "base": "suo",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "赔",
+        "base": "pei",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to ask for compensation；to claim damages；claim for damages",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3398",
+    "hskLevel": 7,
+    "hanzi": "索取",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "索",
+        "base": "suo",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "取",
+        "base": "qu",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to ask；to demand",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3399",
+    "hskLevel": 7,
+    "hanzi": "索性",
+    "partOfSpeech": "Adverb",
+    "syllables": [
+      {
+        "hanzi": "索",
+        "base": "suo",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "性",
+        "base": "xing",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "you might as well (do it)；simply；just",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3400",
+    "hskLevel": 7,
+    "hanzi": "锁定",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "锁",
+        "base": "suo",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "定",
+        "base": "ding",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to lock (a door)；to close with a latch；to lock into place；a lock；a latch；to lock a computer file (to prevent it being overwritten)；to lock (denying access to a computer system or device or files, e.g. by password-protection)；to focus attention on；to target",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3401",
+    "hskLevel": 7,
+    "hanzi": "塌",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "塌",
+        "base": "ta",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to collapse;to droop;to settle down",
+    "meaningKo": "collapse; droop; 해결하다 아래로",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力塌眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 ta1 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 塌 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 塌 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3402",
+    "hskLevel": 7,
+    "hanzi": "拓宽",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "拓",
+        "base": "tuo",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "宽",
+        "base": "kuan",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to broaden",
+    "meaningKo": "broaden",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力拓宽眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tuo4 kuan1 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 拓宽 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 拓宽 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3403",
+    "hskLevel": 7,
+    "hanzi": "拓展",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "拓",
+        "base": "tuo",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "展",
+        "base": "zhan",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to expand (one's client base, outlook etc)",
+    "meaningKo": "expand (자신의 client base, outlook 등)",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力拓展眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tuo4 zhan3 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 拓展 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 拓展 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3404",
+    "hskLevel": 7,
+    "hanzi": "踏",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "踏",
+        "base": "ta",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "see 踏实",
+    "meaningKo": "see 踏实",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力踏眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 ta4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 踏 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 踏 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3405",
+    "hskLevel": 7,
+    "hanzi": "胎",
+    "partOfSpeech": "Other / qv",
+    "syllables": [
+      {
+        "hanzi": "胎",
+        "base": "tai",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "fetus;classifier for litters (of puppies etc);padding (in clothing or bedding);womb carrying a fetus;(fig.) origin;source;(loanword) tire",
+    "meaningKo": "fetus; 반; 학급ifier ~을 위한 litters ( puppies 등); padding ( clo얇다g; bedding); womb carrying fetus; (비유.) origin; source; 외래어: tire",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力胎眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tai1 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 胎 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 胎 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3406",
+    "hskLevel": 7,
+    "hanzi": "胎儿",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "胎",
+        "base": "tai",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "儿",
+        "base": "er",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "unborn child;fetus;embryo",
+    "meaningKo": "unborn child; fetus; embryo",
+    "sentences": [
+      {
+        "hanzi": "这个胎儿虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tai1 er2 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 胎儿는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 胎儿 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3407",
+    "hskLevel": 7,
+    "hanzi": "太极",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "太",
+        "base": "tai",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "极",
+        "base": "ji",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "the Absolute or Supreme Ultimate, the source of all things according to some interpretations of Chinese mythology",
+    "meaningKo": "absolute; supreme ultimate, source 모든 얇다gs ~에 따라 some interpretations chinese mythology",
+    "sentences": [
+      {
+        "hanzi": "这个太极虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tai4 ji2 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 太极는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 太极 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3408",
+    "hskLevel": 7,
+    "hanzi": "太平",
+    "partOfSpeech": "Adjective / Noun",
+    "syllables": [
+      {
+        "hanzi": "太",
+        "base": "tai",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "平",
+        "base": "ping",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "place name",
+    "meaningKo": "place name",
+    "sentences": [
+      {
+        "hanzi": "这个太平虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tai4 ping2 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 太平는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 太平 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3409",
+    "hskLevel": 7,
+    "hanzi": "泰斗",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "泰",
+        "base": "tai",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "斗",
+        "base": "dou",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "(abbr. for 斗) distinguished figure;doyen;revered authority",
+    "meaningKo": "(斗의 약자) distinguished figure; doyen; revered authority",
+    "sentences": [
+      {
+        "hanzi": "这个泰斗虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tai4 dou4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 泰斗는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 泰斗 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3410",
+    "hskLevel": 7,
+    "hanzi": "贪",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "贪",
+        "base": "tan",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to have a voracious desire for;to covet;greedy;corrupt",
+    "meaningKo": "have voracious desire ~을 위한; covet; greedy; corrupt",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力贪眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tan1 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 贪 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 贪 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3411",
+    "hskLevel": 7,
+    "hanzi": "贪婪",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "贪",
+        "base": "tan",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "婪",
+        "base": "lan",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "avaricious;greedy;rapacious;insatiable;avid",
+    "meaningKo": "avaricious; greedy; rapacious; insatiable; avid",
+    "sentences": [
+      {
+        "hanzi": "他的态度过于贪婪，让周围的人都觉得不太舒服。",
+        "pinyin": "ta1 de5 tai4 du4 guo4 yu2 tan1 lan2， rang4 zhou1 wei2 de5 ren2 dou1 jue2 de2 bu4 tai4 shu1 fu2。",
+        "meaningKo": "그의 태도가 너무 贪婪해서 주변 사람들이 모두 불편함을 느꼈다.",
+        "meaningEn": "His attitude was too 贪婪, which made the people around him uncomfortable."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3412",
+    "hskLevel": 7,
+    "hanzi": "贪污",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "贪",
+        "base": "tan",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "污",
+        "base": "wu",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to be corrupt;corruption;to embezzle",
+    "meaningKo": "be corrupt; corruption; embezzle",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力贪污眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tan1 wu1 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 贪污 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 贪污 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3413",
+    "hskLevel": 7,
+    "hanzi": "摊",
+    "partOfSpeech": "Other / Noun / Classifier",
+    "syllables": [
+      {
+        "hanzi": "摊",
+        "base": "tan",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to spread out;vendor's stand",
+    "meaningKo": "spread 밖으로; vendor's stand",
+    "sentences": [
+      {
+        "hanzi": "这个摊虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tan1 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 摊는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 摊 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3414",
+    "hskLevel": 7,
+    "hanzi": "瘫",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "瘫",
+        "base": "tan",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "paralyzed",
+    "meaningKo": "paralyzed",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力瘫眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tan1 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 瘫 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 瘫 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3415",
+    "hskLevel": 7,
+    "hanzi": "瘫痪",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "瘫",
+        "base": "tan",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "痪",
+        "base": "huan",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "paralysis;be paralyzed (body, transportation, etc)",
+    "meaningKo": "paralysis; ~이다 paralyzed (body, transportation, 등)",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力瘫痪眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tan1 huan4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 瘫痪 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 瘫痪 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3416",
+    "hskLevel": 7,
+    "hanzi": "坛",
+    "partOfSpeech": "Other / Classifier",
+    "syllables": [
+      {
+        "hanzi": "坛",
+        "base": "tan",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "platform;rostrum;altar",
+    "meaningKo": "platform; rostrum; altar",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力坛眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tan2 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 坛 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 坛 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3417",
+    "hskLevel": 7,
+    "hanzi": "痰",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "痰",
+        "base": "tan",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "phlegm;spittle",
+    "meaningKo": "phlegm; spittle",
+    "sentences": [
+      {
+        "hanzi": "这个痰虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tan2 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 痰는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 痰 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3418",
+    "hskLevel": 7,
+    "hanzi": "坦白",
+    "partOfSpeech": "Verb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "坦",
+        "base": "tan",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "白",
+        "base": "bai",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "honest;forthcoming;to confess",
+    "meaningKo": "honest; forthcoming; confess",
+    "sentences": [
+      {
+        "hanzi": "他的态度过于坦白，让周围的人都觉得不太舒服。",
+        "pinyin": "ta1 de5 tai4 du4 guo4 yu2 tan3 bai2， rang4 zhou1 wei2 de5 ren2 dou1 jue2 de2 bu4 tai4 shu1 fu2。",
+        "meaningKo": "그의 태도가 너무 坦白해서 주변 사람들이 모두 불편함을 느꼈다.",
+        "meaningEn": "His attitude was too 坦白, which made the people around him uncomfortable."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3419",
+    "hskLevel": 7,
+    "hanzi": "坦诚",
+    "partOfSpeech": "Adjective / Adverb",
+    "syllables": [
+      {
+        "hanzi": "坦",
+        "base": "tan",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "诚",
+        "base": "cheng",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "candid;frank;plain dealing",
+    "meaningKo": "candid; frank; plain dealing",
+    "sentences": [
+      {
+        "hanzi": "他的态度过于坦诚，让周围的人都觉得不太舒服。",
+        "pinyin": "ta1 de5 tai4 du4 guo4 yu2 tan3 cheng2， rang4 zhou1 wei2 de5 ren2 dou1 jue2 de2 bu4 tai4 shu1 fu2。",
+        "meaningKo": "그의 태도가 너무 坦诚해서 주변 사람들이 모두 불편함을 느꼈다.",
+        "meaningEn": "His attitude was too 坦诚, which made the people around him uncomfortable."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3420",
+    "hskLevel": 7,
+    "hanzi": "坦克",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "坦",
+        "base": "tan",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "克",
+        "base": "ke",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "tank (military vehicle) (loanword)",
+    "meaningKo": "탱크 (military vehicle) 외래어:",
+    "sentences": [
+      {
+        "hanzi": "这个坦克虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tan3 ke4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 坦克는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 坦克 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3421",
+    "hskLevel": 7,
+    "hanzi": "坦率",
+    "partOfSpeech": "Adjective / Adverb",
+    "syllables": [
+      {
+        "hanzi": "坦",
+        "base": "tan",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "率",
+        "base": "shuai",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "frank (discussion);blunt;open",
+    "meaningKo": "frank (discussion); blunt; o펜",
+    "sentences": [
+      {
+        "hanzi": "他的态度过于坦率，让周围的人都觉得不太舒服。",
+        "pinyin": "ta1 de5 tai4 du4 guo4 yu2 tan3 lv4， rang4 zhou1 wei2 de5 ren2 dou1 jue2 de2 bu4 tai4 shu1 fu2。",
+        "meaningKo": "그의 태도가 너무 坦率해서 주변 사람들이 모두 불편함을 느꼈다.",
+        "meaningEn": "His attitude was too 坦率, which made the people around him uncomfortable."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3422",
+    "hskLevel": 7,
+    "hanzi": "坦然",
+    "partOfSpeech": "Adverb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "坦",
+        "base": "tan",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "然",
+        "base": "ran",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "calm;undisturbed",
+    "meaningKo": "calm; undisturbed",
+    "sentences": [
+      {
+        "hanzi": "他的态度过于坦然，让周围的人都觉得不太舒服。",
+        "pinyin": "ta1 de5 tai4 du4 guo4 yu2 tan3 ran2， rang4 zhou1 wei2 de5 ren2 dou1 jue2 de2 bu4 tai4 shu1 fu2。",
+        "meaningKo": "그의 태도가 너무 坦然해서 주변 사람들이 모두 불편함을 느꼈다.",
+        "meaningEn": "His attitude was too 坦然, which made the people around him uncomfortable."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3423",
+    "hskLevel": 7,
+    "hanzi": "毯子",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "毯",
+        "base": "tan",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "子",
+        "base": "zi",
+        "tone": 0,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "blanket",
+    "meaningKo": "blanket",
+    "sentences": [
+      {
+        "hanzi": "这个毯子虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tan3 zi5 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 毯子는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 毯子 is not large, but it played an important role at a crucial moment."
+      }
+    ],
+    "measureWord": "条"
+  },
+  {
+    "id": "hsk7_3424",
+    "hskLevel": 7,
+    "hanzi": "叹气",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "叹",
+        "base": "tan",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "气",
+        "base": "qi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to sigh;to heave a sigh",
+    "meaningKo": "sigh; heave sigh",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力叹气眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tan4 qi4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 叹气 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 叹气 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3425",
+    "hskLevel": 7,
+    "hanzi": "炭",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "炭",
+        "base": "tan",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "wood charcoal;coal",
+    "meaningKo": "wood charcoal; coal",
+    "sentences": [
+      {
+        "hanzi": "这个炭虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tan4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 炭는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 炭 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3426",
+    "hskLevel": 7,
+    "hanzi": "探",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "探",
+        "base": "tan",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to explore;to search out;to scout;to visit;to stretch forward",
+    "meaningKo": "explore; search 밖으로; scout; visit; stretch forward",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力探眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tan4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 探 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 探 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3427",
+    "hskLevel": 7,
+    "hanzi": "探测",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "探",
+        "base": "tan",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "测",
+        "base": "ce",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to probe; to survey",
+    "meaningKo": "probe; survey",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力探测眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tan4 ce4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 探测 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 探测 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3428",
+    "hskLevel": 7,
+    "hanzi": "探亲",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "探",
+        "base": "tan",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "亲",
+        "base": "qin",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to go home to visit one's family",
+    "meaningKo": "go home visit 자신의 family",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力探亲眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tan4 qin1 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 探亲 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 探亲 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3429",
+    "hskLevel": 7,
+    "hanzi": "探求",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "探",
+        "base": "tan",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "求",
+        "base": "qiu",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to seek;to pursue;to investigate",
+    "meaningKo": "seek; pursue; investigate",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力探求眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tan4 qiu2 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 探求 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 探求 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3430",
+    "hskLevel": 7,
+    "hanzi": "探望",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "探",
+        "base": "tan",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "望",
+        "base": "wang",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to visit;to call on sb;to look around",
+    "meaningKo": "visit; 방문하다 누군가; look 주위에",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力探望眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tan4 wang4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 探望 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 探望 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3431",
+    "hskLevel": 7,
+    "hanzi": "探险",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "探",
+        "base": "tan",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "险",
+        "base": "xian",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to explore;to go on an expedition;adventure",
+    "meaningKo": "explore; go on an exp판; adventure",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力探险眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tan4 xian3 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 探险 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 探险 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3432",
+    "hskLevel": 7,
+    "hanzi": "堂",
+    "partOfSpeech": "Classifier / Other",
+    "syllables": [
+      {
+        "hanzi": "堂",
+        "base": "tang",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "(main) hall;large room for a specific purpose;relationship between cousins etc on the paternal side of a family;of the same clan;classifier for classes, lectures etc;classifier for sets of furniture",
+    "meaningKo": "(main) hall; large room ~을 위한 specific purpose; relationship between cousins 등 ~에 paternal side family; same clan; 반; 학급ifier ~을 위한 반; 학급es, lectures 등; 반; 학급ifier ~을 위한 sets furniture",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力堂眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tang2 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 堂 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 堂 the problem before him and refused to give up easily."
+      }
+    ],
+    "measureWord": "间"
+  },
+  {
+    "id": "hsk7_3433",
+    "hskLevel": 7,
+    "hanzi": "糖尿病",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "糖",
+        "base": "tang",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "尿",
+        "base": "niao",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "病",
+        "base": "bing",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "diabetes;diabetes mellitus",
+    "meaningKo": "diabetes; diabetes mellitus",
+    "sentences": [
+      {
+        "hanzi": "这个糖尿病虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tang2 niao4 bing4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 糖尿病는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 糖尿病 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3434",
+    "hskLevel": 7,
+    "hanzi": "倘若",
+    "partOfSpeech": "Conjunction",
+    "syllables": [
+      {
+        "hanzi": "倘",
+        "base": "tang",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "若",
+        "base": "ruo",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "if; supposing; in case",
+    "meaningKo": "if; supposing; 사례; 사건",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力倘若眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tang3 ruo4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 倘若 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 倘若 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3435",
+    "hskLevel": 7,
+    "hanzi": "淌",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "淌",
+        "base": "tang",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to drip;to trickle;to shed (tears)",
+    "meaningKo": "drip; trickle; shed (tears)",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力淌眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tang3 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 淌 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 淌 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3436",
+    "hskLevel": 7,
+    "hanzi": "滔滔不绝",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "滔",
+        "base": "tao",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "滔",
+        "base": "tao",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "绝",
+        "base": "jue",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "unceasing torrent (idiom);talking non-stop;gabbling forty to the dozen",
+    "meaningKo": "unceasing torrent (관용구); talking non-막다; 멈추다; gabbling forty 다스",
+    "sentences": [
+      {
+        "hanzi": "这个词语“滔滔不绝”在文章里用得很准确，让整段话更有表现力。",
+        "pinyin": "zhe4 ge4 ci2 yu3“tao1 tao1 bu4 jue2” zai4 wen2 zhang1 li3 yong4 de2 hen3 zhun3 que4， rang4 zheng3 duan4 hua4 geng4 you3 biao3 xian4 li4。",
+        "meaningKo": "'滔滔不绝'라는 표현이 글에서 매우 정확하게 쓰여 문단 전체의 표현력이 살아났다.",
+        "meaningEn": "The expression '滔滔不绝' is used very accurately in the passage, making the whole paragraph more expressive."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3437",
+    "hskLevel": 7,
+    "hanzi": "逃避",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "逃",
+        "base": "tao",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "避",
+        "base": "bi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to escape;to evade;to avoid;to shirk",
+    "meaningKo": "escape; evade; avoid; shirk",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力逃避眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tao2 bi4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 逃避 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 逃避 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3438",
+    "hskLevel": 7,
+    "hanzi": "逃生",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "逃",
+        "base": "tao",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "生",
+        "base": "sheng",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to flee for one's life",
+    "meaningKo": "flee for 자신의 life",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力逃生眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tao2 sheng1 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 逃生 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 逃生 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3439",
+    "hskLevel": 7,
+    "hanzi": "逃亡",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "逃",
+        "base": "tao",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "亡",
+        "base": "wang",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to flee;flight (from danger);fugitive",
+    "meaningKo": "flee; flight (~에서 danger); fugitive",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力逃亡眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tao2 wang2 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 逃亡 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 逃亡 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3440",
+    "hskLevel": 7,
+    "hanzi": "陶瓷",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "陶",
+        "base": "tao",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "瓷",
+        "base": "ci",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "pottery and porcelain;ceramics",
+    "meaningKo": "pottery; porcelain; ceramics",
+    "sentences": [
+      {
+        "hanzi": "这个陶瓷虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tao2 ci2 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 陶瓷는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 陶瓷 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3441",
+    "hskLevel": 7,
+    "hanzi": "陶冶",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "陶",
+        "base": "tao",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "冶",
+        "base": "ye",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "lit. to fire pots and smelt metal;fig. to educate",
+    "meaningKo": "lit. fire pots 및 smelt metal; fig. educate",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力陶冶眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tao2 ye3 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 陶冶 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 陶冶 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3442",
+    "hskLevel": 7,
+    "hanzi": "陶醉",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "陶",
+        "base": "tao",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "醉",
+        "base": "zui",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to be infatuated with; to be drunk with; to be enchanted with; to revel in",
+    "meaningKo": "be infatuated with; be drunk with; be enchanted with; revel in",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力陶醉眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tao2 zui4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 陶醉 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 陶醉 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3443",
+    "hskLevel": 7,
+    "hanzi": "淘",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "淘",
+        "base": "tao",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to wash;to clean out;to cleanse;to eliminate;to dredge",
+    "meaningKo": "wash; clean 밖으로; cleanse; eliminate; dredge",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力淘眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tao2 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 淘 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 淘 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3444",
+    "hskLevel": 7,
+    "hanzi": "讨",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "讨",
+        "base": "tao",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to invite;to provoke;to demand or ask for;to send armed forces to suppress;to denounce or condemn;to marry (a woman);to discuss or study",
+    "meaningKo": "invite; provoke; demand; ask ~을 위한; send armed forces suppress; denounce; condemn; marry ( woman); discuss; study",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力讨眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tao3 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 讨 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 讨 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3445",
+    "hskLevel": 7,
+    "hanzi": "讨好",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "讨",
+        "base": "tao",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "好",
+        "base": "hao",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to get the desired outcome;to win favor by fawning on sb;to curry favor with;a fruitful outcome to reward one's labor",
+    "meaningKo": "get the desired outcome; win favor by fawning on 누군가; 비위를 맞추다; a fruitful outcome reward 자신의 labor",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力讨好眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tao3 hao3 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 讨好 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 讨好 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3446",
+    "hskLevel": 7,
+    "hanzi": "讨价还价",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "讨",
+        "base": "tao",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "价",
+        "base": "jia",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "还",
+        "base": "huan",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "价",
+        "base": "jia",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to haggle over price;to bargain",
+    "meaningKo": "haggle 넘어 price; bargain",
+    "sentences": [
+      {
+        "hanzi": "这个词语“讨价还价”在文章里用得很准确，让整段话更有表现力。",
+        "pinyin": "zhe4 ge4 ci2 yu3“tao3 jia4 hai2 jia4” zai4 wen2 zhang1 li3 yong4 de2 hen3 zhun3 que4， rang4 zheng3 duan4 hua4 geng4 you3 biao3 xian4 li4。",
+        "meaningKo": "'讨价还价'라는 표현이 글에서 매우 정확하게 쓰여 문단 전체의 표현력이 살아났다.",
+        "meaningEn": "The expression '讨价还价' is used very accurately in the passage, making the whole paragraph more expressive."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3447",
+    "hskLevel": 7,
+    "hanzi": "特例",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "特",
+        "base": "te",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "例",
+        "base": "li",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "special case;isolated example",
+    "meaningKo": "special case; isolated 본보기",
+    "sentences": [
+      {
+        "hanzi": "这个特例虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 te4 li4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 特例는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 特例 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3448",
+    "hskLevel": 7,
+    "hanzi": "特权",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "特",
+        "base": "te",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "权",
+        "base": "quan",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "prerogative;privilege;privileged",
+    "meaningKo": "prerogative; privilege; privileged",
+    "sentences": [
+      {
+        "hanzi": "这个特权虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 te4 quan2 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 特权는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 特权 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3449",
+    "hskLevel": 7,
+    "hanzi": "特邀",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "特",
+        "base": "te",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "邀",
+        "base": "yao",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "special invitation",
+    "meaningKo": "special invitation",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力特邀眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 te4 yao1 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 特邀 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 特邀 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3450",
+    "hskLevel": 7,
+    "hanzi": "特制",
+    "partOfSpeech": "Adjective / Verb",
+    "syllables": [
+      {
+        "hanzi": "特",
+        "base": "te",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "制",
+        "base": "zhi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "special;unique",
+    "meaningKo": "special; unique",
+    "sentences": [
+      {
+        "hanzi": "他的态度过于特制，让周围的人都觉得不太舒服。",
+        "pinyin": "ta1 de5 tai4 du4 guo4 yu2 te4 zhi4， rang4 zhou1 wei2 de5 ren2 dou1 jue2 de2 bu4 tai4 shu1 fu2。",
+        "meaningKo": "그의 태도가 너무 特制해서 주변 사람들이 모두 불편함을 느꼈다.",
+        "meaningEn": "His attitude was too 特制, which made the people around him uncomfortable."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3451",
+    "hskLevel": 7,
+    "hanzi": "特质",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "特",
+        "base": "te",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "质",
+        "base": "zhi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "characteristic;special quality",
+    "meaningKo": "characteristic; special quality",
+    "sentences": [
+      {
+        "hanzi": "这个特质虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 te4 zhi4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 特质는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 特质 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3452",
+    "hskLevel": 7,
+    "hanzi": "疼爱",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "疼",
+        "base": "teng",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "爱",
+        "base": "ai",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to love dearly",
+    "meaningKo": "사랑 dearly",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力疼爱眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 teng2 ai4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 疼爱 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 疼爱 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3453",
+    "hskLevel": 7,
+    "hanzi": "腾",
+    "partOfSpeech": "Verb / Other",
+    "syllables": [
+      {
+        "hanzi": "腾",
+        "base": "teng",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "(bound form) to gallop; to prance;(bound form) to soar; to hover;to make room; to clear out; to vacate;(verb suffix indicating repeated action)",
+    "meaningKo": "(bound form) gallop; prance; (bound form) soar; hover; make room; 분명한 out; vacate; (verb suffix indicating repeated action)",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力腾眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 teng2 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 腾 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 腾 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3454",
+    "hskLevel": 7,
+    "hanzi": "剔除",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "剔",
+        "base": "ti",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "除",
+        "base": "chu",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to reject;to discard;to get rid of",
+    "meaningKo": "reject; di흉터d; 없애다",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力剔除眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 ti1 chu2 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 剔除 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 剔除 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3455",
+    "hskLevel": 7,
+    "hanzi": "梯子",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "梯",
+        "base": "ti",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "子",
+        "base": "zi",
+        "tone": 0,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "ladder;stepladder",
+    "meaningKo": "ladder; stepladder",
+    "sentences": [
+      {
+        "hanzi": "这个梯子虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 ti1 zi5 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 梯子는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 梯子 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3456",
+    "hskLevel": 7,
+    "hanzi": "提拔",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "提",
+        "base": "ti",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "拔",
+        "base": "ba",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to promote to a higher job;to select for promotion",
+    "meaningKo": "promote higher job; select ~을 위한 promotion",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力提拔眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 ti2 ba2 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 提拔 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 提拔 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3457",
+    "hskLevel": 7,
+    "hanzi": "提防",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "提",
+        "base": "di",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "防",
+        "base": "fang",
+        "tone": 0,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to guard against;to be vigilant;watch you don't (slip);Taiwan pr. [tí fáng]",
+    "meaningKo": "guard 맞서; 반대하여; ~이다 vigilant; watch you don't (slip); 대만식 발음 [tí fáng]",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力提防眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 ti2 fang2 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 提防 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 提防 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3458",
+    "hskLevel": 7,
+    "hanzi": "提纲",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "提",
+        "base": "ti",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "纲",
+        "base": "gang",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "outline;synopsis;notes",
+    "meaningKo": "outline; synopsis; notes",
+    "sentences": [
+      {
+        "hanzi": "这个提纲虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 ti2 gang1 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 提纲는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 提纲 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3459",
+    "hskLevel": 7,
+    "hanzi": "提炼",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "提",
+        "base": "ti",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "炼",
+        "base": "lian",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to extract (ore, minerals etc);to refine;to purify;to process",
+    "meaningKo": "extract (ore, minerals 등); refine; purify; process",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力提炼眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 ti2 lian4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 提炼 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 提炼 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3460",
+    "hskLevel": 7,
+    "hanzi": "提名",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "提",
+        "base": "ti",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "名",
+        "base": "ming",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to nominate",
+    "meaningKo": "nominate",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力提名眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 ti2 ming2 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 提名 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 提名 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3461",
+    "hskLevel": 7,
+    "hanzi": "提速",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "提",
+        "base": "ti",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "速",
+        "base": "su",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to increase the specified cruising speed;to pick up speed;to speed up",
+    "meaningKo": "increase specified cruising speed; pick 위로 speed; speed 위로",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力提速眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 ti2 su4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 提速 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 提速 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3462",
+    "hskLevel": 7,
+    "hanzi": "提心吊胆",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "提",
+        "base": "ti",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "心",
+        "base": "xin",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "吊",
+        "base": "diao",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "胆",
+        "base": "dan",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "(saying) to be very scared and on edge",
+    "meaningKo": "(saying) ~이다 very 흉터ed; ~에 edge",
+    "sentences": [
+      {
+        "hanzi": "这个词语“提心吊胆”在文章里用得很准确，让整段话更有表现力。",
+        "pinyin": "zhe4 ge4 ci2 yu3“ti2 xin1 diao4 dan3” zai4 wen2 zhang1 li3 yong4 de2 hen3 zhun3 que4， rang4 zheng3 duan4 hua4 geng4 you3 biao3 xian4 li4。",
+        "meaningKo": "'提心吊胆'라는 표현이 글에서 매우 정확하게 쓰여 문단 전체의 표현력이 살아났다.",
+        "meaningEn": "The expression '提心吊胆' is used very accurately in the passage, making the whole paragraph more expressive."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3463",
+    "hskLevel": 7,
+    "hanzi": "提议",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "提",
+        "base": "ti",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "议",
+        "base": "yi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "proposal;suggestion;to propose;to suggest",
+    "meaningKo": "proposal; 시사; 제안; propose; 암시하다; 시사하다",
+    "sentences": [
+      {
+        "hanzi": "这个提议虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 ti2 yi4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 提议는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 提议 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3464",
+    "hskLevel": 7,
+    "hanzi": "体谅",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "体",
+        "base": "ti",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "谅",
+        "base": "liang",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to empathize;to allow (for sth);to show understanding;to appreciate",
+    "meaningKo": "empathize; allow (for 무언가); show understanding; appreciate",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力体谅眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 ti3 liang4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 体谅 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 体谅 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3465",
+    "hskLevel": 7,
+    "hanzi": "体面",
+    "partOfSpeech": "Adjective / Adverb",
+    "syllables": [
+      {
+        "hanzi": "体",
+        "base": "ti",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "面",
+        "base": "mian",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "dignity; prestige; face;honorable; creditable;(of sb's appearance) presentable; respectable",
+    "meaningKo": "dignity; prestige; face; honorable; creditable; ( 누군가's appearance) presentable; respectable",
+    "sentences": [
+      {
+        "hanzi": "他的态度过于体面，让周围的人都觉得不太舒服。",
+        "pinyin": "ta1 de5 tai4 du4 guo4 yu2 ti3 mian4， rang4 zhou1 wei2 de5 ren2 dou1 jue2 de2 bu4 tai4 shu1 fu2。",
+        "meaningKo": "그의 태도가 너무 体面해서 주변 사람들이 모두 불편함을 느꼈다.",
+        "meaningEn": "His attitude was too 体面, which made the people around him uncomfortable."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3466",
+    "hskLevel": 7,
+    "hanzi": "体能",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "体",
+        "base": "ti",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "能",
+        "base": "neng",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "physical capability;stamina",
+    "meaningKo": "physical capability; stamina",
+    "sentences": [
+      {
+        "hanzi": "这个体能虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 ti3 neng2 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 体能는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 体能 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3467",
+    "hskLevel": 7,
+    "hanzi": "体贴",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "体",
+        "base": "ti",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "贴",
+        "base": "tie",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "considerate (of other people's needs)",
+    "meaningKo": "considerate ( other people's needs)",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力体贴眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 ti3 tie1 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 体贴 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 体贴 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3468",
+    "hskLevel": 7,
+    "hanzi": "体制",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "体",
+        "base": "ti",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "制",
+        "base": "zhi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "system;organization",
+    "meaningKo": "system; organization",
+    "sentences": [
+      {
+        "hanzi": "这个体制虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 ti3 zhi4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 体制는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 体制 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3469",
+    "hskLevel": 7,
+    "hanzi": "体质",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "体",
+        "base": "ti",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "质",
+        "base": "zhi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "constitution",
+    "meaningKo": "constitution",
+    "sentences": [
+      {
+        "hanzi": "这个体质虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 ti3 zhi4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 体质는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 体质 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3470",
+    "hskLevel": 7,
+    "hanzi": "剃",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "剃",
+        "base": "ti",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to shave",
+    "meaningKo": "shave",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力剃眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 ti4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 剃 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 剃 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3471",
+    "hskLevel": 7,
+    "hanzi": "替换",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "替",
+        "base": "ti",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "换",
+        "base": "huan",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to exchange;to replace;to substitute for;to switch",
+    "meaningKo": "exchange; replace; substitute for; switch",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力替换眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 ti4 huan4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 替换 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 替换 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3472",
+    "hskLevel": 7,
+    "hanzi": "天地",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "地",
+        "base": "di",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "heaven and earth;world;scope;field of activity",
+    "meaningKo": "heaven; earth; world; scope; field activity",
+    "sentences": [
+      {
+        "hanzi": "这个天地虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tian1 di4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 天地는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 天地 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3473",
+    "hskLevel": 7,
+    "hanzi": "天鹅",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "鹅",
+        "base": "e",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "swan",
+    "meaningKo": "swan",
+    "sentences": [
+      {
+        "hanzi": "这个天鹅虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tian1 e2 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 天鹅는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 天鹅 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3474",
+    "hskLevel": 7,
+    "hanzi": "天分",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "分",
+        "base": "fen",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "natural gift;talent",
+    "meaningKo": "natural gift; talent",
+    "sentences": [
+      {
+        "hanzi": "这个天分虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tian1 fen1 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 天分는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 天分 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3475",
+    "hskLevel": 7,
+    "hanzi": "天赋",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "赋",
+        "base": "fu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "gift;innate skill",
+    "meaningKo": "gift; innate skill",
+    "sentences": [
+      {
+        "hanzi": "这个天赋虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tian1 fu4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 天赋는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 天赋 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3476",
+    "hskLevel": 7,
+    "hanzi": "天经地义",
+    "partOfSpeech": "Phrase",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "经",
+        "base": "jing",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "地",
+        "base": "di",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "义",
+        "base": "yi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "lit. heaven's law and earth's principle (idiom); fig. right and proper;right and unalterable;a matter of course",
+    "meaningKo": "문자 그대로. heaven's 법칙; 법; earth's principle (관용구); 비유. right; proper; right; unalterable; matter course",
+    "sentences": [
+      {
+        "hanzi": "这个词语“天经地义”在文章里用得很准确，让整段话更有表现力。",
+        "pinyin": "zhe4 ge4 ci2 yu3“tian1 jing1 di4 yi4” zai4 wen2 zhang1 li3 yong4 de2 hen3 zhun3 que4， rang4 zheng3 duan4 hua4 geng4 you3 biao3 xian4 li4。",
+        "meaningKo": "'天经地义'라는 표현이 글에서 매우 정확하게 쓰여 문단 전체의 표현력이 살아났다.",
+        "meaningEn": "The expression '天经地义' is used very accurately in the passage, making the whole paragraph more expressive."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3477",
+    "hskLevel": 7,
+    "hanzi": "天伦之乐",
+    "partOfSpeech": "Phrase",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "伦",
+        "base": "lun",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "之",
+        "base": "zhi",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "乐",
+        "base": "le",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "family love and joy;domestic bliss",
+    "meaningKo": "family 사랑; joy; domestic bliss",
+    "sentences": [
+      {
+        "hanzi": "这个词语“天伦之乐”在文章里用得很准确，让整段话更有表现力。",
+        "pinyin": "zhe4 ge4 ci2 yu3“tian1 lun2 zhi1 le4” zai4 wen2 zhang1 li3 yong4 de2 hen3 zhun3 que4， rang4 zheng3 duan4 hua4 geng4 you3 biao3 xian4 li4。",
+        "meaningKo": "'天伦之乐'라는 표현이 글에서 매우 정확하게 쓰여 문단 전체의 표현력이 살아났다.",
+        "meaningEn": "The expression '天伦之乐' is used very accurately in the passage, making the whole paragraph more expressive."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3478",
+    "hskLevel": 7,
+    "hanzi": "天平",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "平",
+        "base": "ping",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "scales (to weigh things)",
+    "meaningKo": "scales (weigh 얇은gs)",
+    "sentences": [
+      {
+        "hanzi": "这个天平虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tian1 ping2 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 天平는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 天平 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3479",
+    "hskLevel": 7,
+    "hanzi": "天桥",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "桥",
+        "base": "qiao",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "Tianqiao district of Jinan city 济南市, Shandong;Tianqiao district in Beijing, formerly a center of folk culture",
+    "meaningKo": "tianqiao district jinan city 济南市, shandong; tianqiao district beijing, formerly center folk culture",
+    "sentences": [
+      {
+        "hanzi": "这个天桥虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tian1 qiao2 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 天桥는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 天桥 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3480",
+    "hskLevel": 7,
+    "hanzi": "天生",
+    "partOfSpeech": "Adverb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "生",
+        "base": "sheng",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "nature;disposition;innate;natural",
+    "meaningKo": "nature; disposition; innate; natural",
+    "sentences": [
+      {
+        "hanzi": "他的态度过于天生，让周围的人都觉得不太舒服。",
+        "pinyin": "ta1 de5 tai4 du4 guo4 yu2 tian1 sheng1， rang4 zhou1 wei2 de5 ren2 dou1 jue2 de2 bu4 tai4 shu1 fu2。",
+        "meaningKo": "그의 태도가 너무 天生해서 주변 사람들이 모두 불편함을 느꼈다.",
+        "meaningEn": "His attitude was too 天生, which made the people around him uncomfortable."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3481",
+    "hskLevel": 7,
+    "hanzi": "天使",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "使",
+        "base": "shi",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "angel",
+    "meaningKo": "angel",
+    "sentences": [
+      {
+        "hanzi": "这个天使虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tian1 shi3 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 天使는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 天使 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3482",
+    "hskLevel": 7,
+    "hanzi": "天堂",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "堂",
+        "base": "tang",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "paradise;heaven",
+    "meaningKo": "paradise; heaven",
+    "sentences": [
+      {
+        "hanzi": "这个天堂虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tian1 tang2 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 天堂는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 天堂 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3483",
+    "hskLevel": 7,
+    "hanzi": "天线",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "线",
+        "base": "xian",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "antenna;mast;connection with high-ranking officials",
+    "meaningKo": "antenna; mast; connection와/과 high-ranking officials",
+    "sentences": [
+      {
+        "hanzi": "这个天线虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tian1 xian4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 天线는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 天线 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3484",
+    "hskLevel": 7,
+    "hanzi": "天性",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "性",
+        "base": "xing",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "nature;innate tendency",
+    "meaningKo": "nature; innate tendency",
+    "sentences": [
+      {
+        "hanzi": "这个天性虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tian1 xing4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 天性는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 天性 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3485",
+    "hskLevel": 7,
+    "hanzi": "天长地久",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "天",
+        "base": "tian",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "长",
+        "base": "chang",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "地",
+        "base": "di",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "久",
+        "base": "jiu",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "enduring while the world lasts (idiom);eternal",
+    "meaningKo": "enduring while world lasts (관용구); eternal",
+    "sentences": [
+      {
+        "hanzi": "这个词语“天长地久”在文章里用得很准确，让整段话更有表现力。",
+        "pinyin": "zhe4 ge4 ci2 yu3“tian1 zhang3 di4 jiu3” zai4 wen2 zhang1 li3 yong4 de2 hen3 zhun3 que4， rang4 zheng3 duan4 hua4 geng4 you3 biao3 xian4 li4。",
+        "meaningKo": "'天长地久'라는 표현이 글에서 매우 정확하게 쓰여 문단 전체의 표현력이 살아났다.",
+        "meaningEn": "The expression '天长地久' is used very accurately in the passage, making the whole paragraph more expressive."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3486",
+    "hskLevel": 7,
+    "hanzi": "田野",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "田",
+        "base": "tian",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "野",
+        "base": "ye",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "field;open land",
+    "meaningKo": "field; o펜 land",
+    "sentences": [
+      {
+        "hanzi": "这个田野虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tian2 ye3 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 田野는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 田野 is not large, but it played an important role at a crucial moment."
+      }
+    ],
+    "measureWord": "片"
+  },
+  {
+    "id": "hsk7_3487",
+    "hskLevel": 7,
+    "hanzi": "甜美",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "甜",
+        "base": "tian",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "美",
+        "base": "mei",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "sweet;pleasant;happy",
+    "meaningKo": "sweet; pleasant; happy",
+    "sentences": [
+      {
+        "hanzi": "他的态度过于甜美，让周围的人都觉得不太舒服。",
+        "pinyin": "ta1 de5 tai4 du4 guo4 yu2 tian2 mei3， rang4 zhou1 wei2 de5 ren2 dou1 jue2 de2 bu4 tai4 shu1 fu2。",
+        "meaningKo": "그의 태도가 너무 甜美해서 주변 사람들이 모두 불편함을 느꼈다.",
+        "meaningEn": "His attitude was too 甜美, which made the people around him uncomfortable."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3488",
+    "hskLevel": 7,
+    "hanzi": "甜蜜",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "甜",
+        "base": "tian",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "蜜",
+        "base": "mi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "sweet;happy",
+    "meaningKo": "sweet; happy",
+    "sentences": [
+      {
+        "hanzi": "他的态度过于甜蜜，让周围的人都觉得不太舒服。",
+        "pinyin": "ta1 de5 tai4 du4 guo4 yu2 tian2 mi4， rang4 zhou1 wei2 de5 ren2 dou1 jue2 de2 bu4 tai4 shu1 fu2。",
+        "meaningKo": "그의 태도가 너무 甜蜜해서 주변 사람들이 모두 불편함을 느꼈다.",
+        "meaningEn": "His attitude was too 甜蜜, which made the people around him uncomfortable."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3489",
+    "hskLevel": 7,
+    "hanzi": "填补",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "填",
+        "base": "tian",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "补",
+        "base": "bu",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to fill a gap;to fill in a blank (on a form);to overcome a deficiency",
+    "meaningKo": "fill gap; fill blank (~에 form); overcome deficiency",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力填补眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tian2 bu3 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 填补 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 填补 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3490",
+    "hskLevel": 7,
+    "hanzi": "填充",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "填",
+        "base": "tian",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "充",
+        "base": "chong",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to fill up; to stuff;to fill in a blank space",
+    "meaningKo": "fill 위로; stuff; fill blank space",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力填充眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tian2 chong1 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 填充 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 填充 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3491",
+    "hskLevel": 7,
+    "hanzi": "舔",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "舔",
+        "base": "tian",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to lick;to lap",
+    "meaningKo": "lick; lap",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力舔眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tian3 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 舔 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 舔 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3492",
+    "hskLevel": 7,
+    "hanzi": "挑拨",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "挑",
+        "base": "tiao",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "拨",
+        "base": "bo",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to incite disharmony;to instigate",
+    "meaningKo": "incite disharmony; instigate",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力挑拨眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tiao1 bo1 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 挑拨 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 挑拨 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3493",
+    "hskLevel": 7,
+    "hanzi": "挑剔",
+    "partOfSpeech": "Verb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "挑",
+        "base": "tiao",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "剔",
+        "base": "ti",
+        "tone": 0,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "picky;fussy",
+    "meaningKo": "picky; fussy",
+    "sentences": [
+      {
+        "hanzi": "他的态度过于挑剔，让周围的人都觉得不太舒服。",
+        "pinyin": "ta1 de5 tai4 du4 guo4 yu2 tiao1 ti1， rang4 zhou1 wei2 de5 ren2 dou1 jue2 de2 bu4 tai4 shu1 fu2。",
+        "meaningKo": "그의 태도가 너무 挑剔해서 주변 사람들이 모두 불편함을 느꼈다.",
+        "meaningEn": "His attitude was too 挑剔, which made the people around him uncomfortable."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3494",
+    "hskLevel": 7,
+    "hanzi": "挑衅",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "挑",
+        "base": "tiao",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "衅",
+        "base": "xin",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to provoke;provocation",
+    "meaningKo": "provoke; provocation",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力挑衅眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tiao1 xin4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 挑衅 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 挑衅 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3495",
+    "hskLevel": 7,
+    "hanzi": "条款",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "条",
+        "base": "tiao",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "款",
+        "base": "kuan",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "clause (of contract or law)",
+    "meaningKo": "clause ( contract; 법칙; 법)",
+    "sentences": [
+      {
+        "hanzi": "这个条款虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tiao2 kuan3 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 条款는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 条款 is not large, but it played an important role at a crucial moment."
+      }
+    ],
+    "measureWord": "项"
+  },
+  {
+    "id": "hsk7_3496",
+    "hskLevel": 7,
+    "hanzi": "条理",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "条",
+        "base": "tiao",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "理",
+        "base": "li",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "arrangement;order;tidiness",
+    "meaningKo": "arrangement; order; tidiness",
+    "sentences": [
+      {
+        "hanzi": "这个条理虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tiao2 li3 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 条理는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 条理 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3497",
+    "hskLevel": 7,
+    "hanzi": "条例",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "条",
+        "base": "tiao",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "例",
+        "base": "li",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "regulations; rules; code of conduct; ordinances; statutes",
+    "meaningKo": "regulations; rules; 코드 conduct; ordinances; statutes",
+    "sentences": [
+      {
+        "hanzi": "这个条例虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tiao2 li4 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 条例는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 条例 is not large, but it played an important role at a crucial moment."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3498",
+    "hskLevel": 7,
+    "hanzi": "条约",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "条",
+        "base": "tiao",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "约",
+        "base": "yue",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "treaty;pact",
+    "meaningKo": "treaty; pact",
+    "sentences": [
+      {
+        "hanzi": "这个条约虽然不大，却在关键时刻发挥了重要作用。",
+        "pinyin": "zhe4 ge4 tiao2 yue1 sui1 ran2 bu4 da4， que4 zai4 guan1 jian4 shi2 ke4 fa1 hui1 le5 zhong4 yao4 zuo4 yong4。",
+        "meaningKo": "이 条约는 크지 않지만 중요한 순간에 큰 역할을 했다.",
+        "meaningEn": "This 条约 is not large, but it played an important role at a crucial moment."
+      }
+    ],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk7_3499",
+    "hskLevel": 7,
+    "hanzi": "跳槽",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "跳",
+        "base": "tiao",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "槽",
+        "base": "cao",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to change jobs;job-hopping",
+    "meaningKo": "change jobs; job-hopping",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力跳槽眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tiao4 cao2 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 跳槽 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 跳槽 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3500",
+    "hskLevel": 7,
+    "hanzi": "跳动",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "跳",
+        "base": "tiao",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "动",
+        "base": "dong",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to throb;to pulse;to bounce;to jiggle;to jump about",
+    "meaningKo": "throb; pulse; bounce; jiggle; jump ~에 관해",
+    "sentences": [
+      {
+        "hanzi": "面对困难，他努力跳动眼前的问题，不愿轻易放弃。",
+        "pinyin": "mian4 dui4 kun4 nan2， ta1 nu3 li4 tiao4 dong4 yan3 qian2 de5 wen4 ti2， bu4 yuan4 qing1 yi4 fang4 qi4。",
+        "meaningKo": "어려움 앞에서도 그는 눈앞의 문제를 跳动 하려고 애쓰며 쉽게 포기하지 않았다.",
+        "meaningEn": "Even in the face of difficulties, he tried to 跳动 the problem before him and refused to give up easily."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3501",
+    "hskLevel": 7,
+    "hanzi": "跳伞",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "跳",
+        "base": "tiao",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "伞",
+        "base": "san",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to parachute; to bail out; parachute jumping",
+    "meaningKo": "parachute; bail 밖으로; parachute jumping",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3502",
+    "hskLevel": 7,
+    "hanzi": "跳跃",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "跳",
+        "base": "tiao",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "跃",
+        "base": "yue",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to jump; to leap; to bound; to skip",
+    "meaningKo": "jump; leap; bound; skip",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3503",
+    "hskLevel": 7,
+    "hanzi": "帖子",
+    "partOfSpeech": "Other",
+    "syllables": [
+      {
+        "hanzi": "帖",
+        "base": "tie",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "子",
+        "base": "zi",
+        "tone": 0,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "card; invitation; message; (forum) post",
+    "meaningKo": "card; invitation; message; (forum) post",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3504",
+    "hskLevel": 7,
+    "hanzi": "贴切",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "贴",
+        "base": "tie",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "切",
+        "base": "qie",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "close-fitting; closest (translation)",
+    "meaningKo": "닫다-fitting; closest (translation)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3505",
+    "hskLevel": 7,
+    "hanzi": "铁",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "铁",
+        "base": "tie",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "surname Tie",
+    "meaningKo": "성씨 Tie",
+    "sentences": [
+      {
+        "hanzi": "在族谱里，铁这个姓氏不常见，但铁家族的人们都以勤劳著称，传承了许多铁匠手艺。",
+        "pinyin": "zai4 zu2 pu3 li3 tie3 zhe4 ge4 xing4 shi4 bu4 chang2 jian4, tie3 jia1 zu2 de5 ren2 men5 dou1 yi3 qin2 lao2 zhu4 cheng1, chuan2 cheng2 le5 xu3 duo1 tie3 jiang4 shou3 yi4",
+        "meaningKo": "족보에는 Tie라는 성씨가 흔하지 않지만 Tie 가문의 사람들은 근면함으로 유명하고 많은 철공 기술을 전수한다.",
+        "meaningEn": "In the clan genealogy, the surname Tie is not common, but people of the Tie family are known for their diligence and have inherited many ironworking techniques."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3506",
+    "hskLevel": 7,
+    "hanzi": "听从",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "听",
+        "base": "ting",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "从",
+        "base": "cong",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to listen and obey; to comply with; to heed; to hearken",
+    "meaningKo": "listen; obey; comply ~와 함께; heed; hearken",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3507",
+    "hskLevel": 7,
+    "hanzi": "亭子",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "亭",
+        "base": "ting",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "子",
+        "base": "zi",
+        "tone": 0,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "pavilion",
+    "meaningKo": "pavilion",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3508",
+    "hskLevel": 7,
+    "hanzi": "停顿",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "停",
+        "base": "ting",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "顿",
+        "base": "dun",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to halt; to break off; pause (in speech)",
+    "meaningKo": "halt; break 떨어져; 꺼져; pause ( 말; 연설)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3509",
+    "hskLevel": 7,
+    "hanzi": "停放",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "停",
+        "base": "ting",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "放",
+        "base": "fang",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to park (a car etc); to moor (a boat etc); to leave sth (in a place)",
+    "meaningKo": "park ( car 등); moor ( boat 등); leave 무언가 ( place)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3510",
+    "hskLevel": 7,
+    "hanzi": "停泊",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "停",
+        "base": "ting",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "泊",
+        "base": "bo",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to anchor; anchorage; mooring (of a ship)",
+    "meaningKo": "anchor; anchorage; mooring ( ship)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3511",
+    "hskLevel": 7,
+    "hanzi": "停业",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "停",
+        "base": "ting",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "业",
+        "base": "ye",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to cease trading (temporarily or permanently); to close down",
+    "meaningKo": "cease trading (temporarily; permanently); 닫다 아래로",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3512",
+    "hskLevel": 7,
+    "hanzi": "停滞",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "停",
+        "base": "ting",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "滞",
+        "base": "zhi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "stagnation; at a standstill; bogged down",
+    "meaningKo": "stagnation; ~에 standstill; bogged 아래로",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3513",
+    "hskLevel": 7,
+    "hanzi": "挺拔",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "挺",
+        "base": "ting",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "拔",
+        "base": "ba",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "tall and straight",
+    "meaningKo": "tall; straight",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3514",
+    "hskLevel": 7,
+    "hanzi": "通报",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "通",
+        "base": "tong",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "报",
+        "base": "bao",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to inform; to notify; to announce; circular; bulletin; (scientific) journal",
+    "meaningKo": "inform; notify; announce; circular; bulletin; (scientific) journal",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3515",
+    "hskLevel": 7,
+    "hanzi": "通畅",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "通",
+        "base": "tong",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "畅",
+        "base": "chang",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "unobstructed; clear; (of writing or thinking) coherent; fluent",
+    "meaningKo": "unobstructed; 분명하다; ( writing; 얇다king) c오erent; fluent",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3516",
+    "hskLevel": 7,
+    "hanzi": "通车",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "通",
+        "base": "tong",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "车",
+        "base": "che",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to open to traffic (e.g. new bridge, rail line etc); (of a locality) to have a transportation service; (Tw) to commute",
+    "meaningKo": "o펜 traffic (예: new bridge, rail line 등); ( locality) have transportation service; 대만 commute",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3517",
+    "hskLevel": 7,
+    "hanzi": "通告",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "通",
+        "base": "tong",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "告",
+        "base": "gao",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to announce; to give notice; announcement",
+    "meaningKo": "announce; give notice; announcement",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3518",
+    "hskLevel": 7,
+    "hanzi": "通红",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "通",
+        "base": "tong",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "红",
+        "base": "hong",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "very red; red through and through; to blush (deep red)",
+    "meaningKo": "very red; red 통해; 통해; blush (deep red)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3519",
+    "hskLevel": 7,
+    "hanzi": "通缉",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "通",
+        "base": "tong",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "缉",
+        "base": "ji",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to order the arrest of sb as criminal; to list as wanted",
+    "meaningKo": "order arrest 누군가 ~로서 criminal; list ~로서 wanted",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3520",
+    "hskLevel": 7,
+    "hanzi": "通顺",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "通",
+        "base": "tong",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "顺",
+        "base": "shun",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "smooth; clear and coherent",
+    "meaningKo": "smooth; 분명하다; c오erent",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3521",
+    "hskLevel": 7,
+    "hanzi": "通俗",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "通",
+        "base": "tong",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "俗",
+        "base": "su",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "common; everyday; average",
+    "meaningKo": "일반적인; every낮; 하루; average",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3522",
+    "hskLevel": 7,
+    "hanzi": "通通",
+    "partOfSpeech": "Adverb / Verb",
+    "syllables": [
+      {
+        "hanzi": "通",
+        "base": "tong",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "通",
+        "base": "tong",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "all; entire; complete",
+    "meaningKo": "모든; entire; complete",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3523",
+    "hskLevel": 7,
+    "hanzi": "通宵",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "通",
+        "base": "tong",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "宵",
+        "base": "xiao",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "all night; throughout the night",
+    "meaningKo": "모든 night; throughout night",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3524",
+    "hskLevel": 7,
+    "hanzi": "同胞",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "同",
+        "base": "tong",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "胞",
+        "base": "bao",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "born of the same parents; sibling; fellow citizen; compatriot",
+    "meaningKo": "born same parents; sibling; fellow citizen; compatriot",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3525",
+    "hskLevel": 7,
+    "hanzi": "同步",
+    "partOfSpeech": "Verb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "同",
+        "base": "tong",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "步",
+        "base": "bu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "synchronous; to synchronize; to keep step with",
+    "meaningKo": "synchronous; synchronize; keep step ~와 함께",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3526",
+    "hskLevel": 7,
+    "hanzi": "同等",
+    "partOfSpeech": "Adjective / Adverb",
+    "syllables": [
+      {
+        "hanzi": "同",
+        "base": "tong",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "等",
+        "base": "deng",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "equal to; having the same social class or status",
+    "meaningKo": "equal; having same social 반; 학급; status",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3527",
+    "hskLevel": 7,
+    "hanzi": "同感",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "同",
+        "base": "tong",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "感",
+        "base": "gan",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "(have the) same feeling; similar impression; common feeling",
+    "meaningKo": "(have ) same feeling; similar impression; 일반적인 feeling",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3528",
+    "hskLevel": 7,
+    "hanzi": "同伙",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "同",
+        "base": "tong",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "伙",
+        "base": "huo",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "colleague; co-conspirator; accomplice",
+    "meaningKo": "colleague; co-conspirator; accomplice",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3529",
+    "hskLevel": 7,
+    "hanzi": "同盟",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "同",
+        "base": "tong",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "盟",
+        "base": "meng",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "alliance",
+    "meaningKo": "alliance",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3530",
+    "hskLevel": 7,
+    "hanzi": "同期",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "同",
+        "base": "tong",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "期",
+        "base": "qi",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "the corresponding time period (in a different year etc); concurrent; synchronous",
+    "meaningKo": "corresponding time period ( different year 등); concurrent; synchronous",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3531",
+    "hskLevel": 7,
+    "hanzi": "同志",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "同",
+        "base": "tong",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "志",
+        "base": "zhi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "comrade; (slang) homosexual",
+    "meaningKo": "comrade; (slang) homosexual",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk7_3532",
+    "hskLevel": 7,
+    "hanzi": "同舟共济",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "同",
+        "base": "tong",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "舟",
+        "base": "zhou",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "共",
+        "base": "gong",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "济",
+        "base": "ji",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "cross a river in the same boat (idiom); fig. having common interests; obliged to collaborate towards common goals",
+    "meaningKo": "cross river same boat (관용구); 비유. having 일반적인 interests; obliged collaborate towards 일반적인 goals",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3533",
+    "hskLevel": 7,
+    "hanzi": "统筹",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "统",
+        "base": "tong",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "筹",
+        "base": "chou",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "an overall plan; to plan an entire project as a whole",
+    "meaningKo": "overall plan; plan entire project ~로서 whole",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3534",
+    "hskLevel": 7,
+    "hanzi": "统统",
+    "partOfSpeech": "Adverb",
+    "syllables": [
+      {
+        "hanzi": "统",
+        "base": "tong",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "统",
+        "base": "tong",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "totally",
+    "meaningKo": "totally",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3535",
+    "hskLevel": 7,
+    "hanzi": "统治",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "统",
+        "base": "tong",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "治",
+        "base": "zhi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to rule (a country); to govern; rule; regime",
+    "meaningKo": "규칙; 지배 ( country); govern; 규칙; 지배; regime",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3536",
+    "hskLevel": 7,
+    "hanzi": "捅",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "捅",
+        "base": "tong",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to stab; to poke; to prod; to nudge; to disclose",
+    "meaningKo": "stab; poke; prod; nudge; disclose",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3537",
+    "hskLevel": 7,
+    "hanzi": "筒",
+    "partOfSpeech": "Other / Classifier",
+    "syllables": [
+      {
+        "hanzi": "筒",
+        "base": "tong",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "tube; cylinder; to encase in sth cylindrical (such as hands in sleeves etc)",
+    "meaningKo": "tube; cylinder; en사례; 사건 무언가 cylindrical (such ~로서 hands sleeves 등)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3538",
+    "hskLevel": 7,
+    "hanzi": "痛心",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "痛",
+        "base": "tong",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "心",
+        "base": "xin",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "grieved; pained",
+    "meaningKo": "grieved; pained",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3539",
+    "hskLevel": 7,
+    "hanzi": "偷窥",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "偷",
+        "base": "tou",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "窥",
+        "base": "kui",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to peep; to peek; to act as voyeur",
+    "meaningKo": "peep; peek; 연기하다 ~로서 voyeur",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3540",
+    "hskLevel": 7,
+    "hanzi": "偷懒",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "偷",
+        "base": "tou",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "懒",
+        "base": "lan",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to goof off; to be lazy",
+    "meaningKo": "goof 떨어져; 꺼져; ~이다 lazy",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3541",
+    "hskLevel": 7,
+    "hanzi": "头号",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "头",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "号",
+        "base": "hao",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "first rate; top rank; number one",
+    "meaningKo": "first rate; 상의 rank; number one",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3542",
+    "hskLevel": 7,
+    "hanzi": "头条",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "头",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "条",
+        "base": "tiao",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "Toutiao, personalized content recommendation app (abbr. for 今日头条)",
+    "meaningKo": "toutiao, personalized 만족 recommendation app (今日头条의 약자)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3543",
+    "hskLevel": 7,
+    "hanzi": "头头是道",
+    "partOfSpeech": "Phrase",
+    "syllables": [
+      {
+        "hanzi": "头",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "头",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "是",
+        "base": "shi",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "道",
+        "base": "dao",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "clear and logical",
+    "meaningKo": "분명하다; logical",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3544",
+    "hskLevel": 7,
+    "hanzi": "头衔",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "头",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "衔",
+        "base": "xian",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "title; rank; appellation",
+    "meaningKo": "title; rank; appellation",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3545",
+    "hskLevel": 7,
+    "hanzi": "投奔",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "投",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "奔",
+        "base": "ben",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to seek shelter; to seek asylum",
+    "meaningKo": "seek shelter; seek asylum",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3546",
+    "hskLevel": 7,
+    "hanzi": "投稿",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "投",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "稿",
+        "base": "gao",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to submit articles for publication; to contribute (writing)",
+    "meaningKo": "submit articles ~을 위한 publication; contri하지만e (writing)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3547",
+    "hskLevel": 7,
+    "hanzi": "投机",
+    "partOfSpeech": "Verb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "投",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "机",
+        "base": "ji",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to speculate (on financial markets); opportunistic; congenial; agreeable",
+    "meaningKo": "speculate (~에 financial markets); opportunistic; congenial; agreeable",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3548",
+    "hskLevel": 7,
+    "hanzi": "投降",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "投",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "降",
+        "base": "xiang",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to surrender; surrender",
+    "meaningKo": "surrender; surrender",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3549",
+    "hskLevel": 7,
+    "hanzi": "投射",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "投",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "射",
+        "base": "she",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to throw (a projectile); to cast (light)",
+    "meaningKo": "throw ( projectile); cast (light)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3550",
+    "hskLevel": 7,
+    "hanzi": "投身",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "投",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "身",
+        "base": "shen",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to throw oneself into sth",
+    "meaningKo": "throw 자기 자신 ~로 무언가",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3551",
+    "hskLevel": 7,
+    "hanzi": "投掷",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "投",
+        "base": "tou",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "掷",
+        "base": "zhi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to throw sth a long distance; to hurl; to throw at; to throw (dice etc); to flip (a coin)",
+    "meaningKo": "throw 무언가 long distance; hurl; throw ~에; throw (dice 등); flip ( coin)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3552",
+    "hskLevel": 7,
+    "hanzi": "透彻",
+    "partOfSpeech": "Adjective / Adverb",
+    "syllables": [
+      {
+        "hanzi": "透",
+        "base": "tou",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "彻",
+        "base": "che",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "penetrating; thorough; incisive",
+    "meaningKo": "펜etrating; thorough; incisive",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3553",
+    "hskLevel": 7,
+    "hanzi": "透气",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "透",
+        "base": "tou",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "气",
+        "base": "qi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to flow freely (of air); to ventilate; to breathe (of fabric etc); to take a breath of fresh air; to divulge",
+    "meaningKo": "flow freely ( air); ventilate; breathe ( fabric 등); take breath fresh air; divulge",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3554",
+    "hskLevel": 7,
+    "hanzi": "透支",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "透",
+        "base": "tou",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "支",
+        "base": "zhi",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "(banking) to overdraw; to take out an overdraft; an overdraft; to overspend (i.e. expenditure in excess of revenue); (old) to draw one's wage in advance; (fig.) to exhaust (one's enthusiasm, energy etc); to damage a natural resource through overuse",
+    "meaningKo": "(강가ing) overdraw; take 밖으로 overdraft; overdraft; overs펜d (즉 ex펜diture excess revenue); (옛) draw 자신의 wage advance; (비유.) exhaust (자신의 enthusiasm, energy 등); 손상시키다 natural resource 통해 overuse",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3555",
+    "hskLevel": 7,
+    "hanzi": "凸",
+    "partOfSpeech": "Other",
+    "syllables": [
+      {
+        "hanzi": "凸",
+        "base": "tu",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to stick out; protruding; convex; male (connector etc); Taiwan pr. [tú]",
+    "meaningKo": "막대기 밖으로; protruding; convex; male (connector 등); 대만식 발음 [tú]",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3556",
+    "hskLevel": 7,
+    "hanzi": "凸显",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "凸",
+        "base": "tu",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "显",
+        "base": "xian",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to present clearly; to give prominence to; to magnify; clear and obvious",
+    "meaningKo": "present 분명하다ly; give prominence; magnify; 분명하다; obvious",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3557",
+    "hskLevel": 7,
+    "hanzi": "秃",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "秃",
+        "base": "tu",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "bald; blunt",
+    "meaningKo": "bald; blunt",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3558",
+    "hskLevel": 7,
+    "hanzi": "突击",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "突",
+        "base": "tu",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "击",
+        "base": "ji",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "sudden and violent attack; assault; fig. rushed job; concentrated effort to finish a job quickly",
+    "meaningKo": "sudden; violent attack; assault; 비유. rushed job; concentrated effort finish job quickly",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3559",
+    "hskLevel": 7,
+    "hanzi": "突破口",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "突",
+        "base": "tu",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "破",
+        "base": "po",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "口",
+        "base": "kou",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "breach; gap; breakthrough point",
+    "meaningKo": "breach; gap; breakthrough 점",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3560",
+    "hskLevel": 7,
+    "hanzi": "突如其来",
+    "partOfSpeech": "Phrase",
+    "syllables": [
+      {
+        "hanzi": "突",
+        "base": "tu",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "如",
+        "base": "ru",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "其",
+        "base": "qi",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "来",
+        "base": "lai",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to arise abruptly; to arrive suddenly; happening suddenly",
+    "meaningKo": "arise abruptly; arrive suddenly; hap펜ing suddenly",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3561",
+    "hskLevel": 7,
+    "hanzi": "图形",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "图",
+        "base": "tu",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "形",
+        "base": "xing",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "picture; figure; diagram; graph; depiction; graphical",
+    "meaningKo": "picture; figure; diagram; graph; depiction; graphical",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3562",
+    "hskLevel": 7,
+    "hanzi": "图纸",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "图",
+        "base": "tu",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "纸",
+        "base": "zhi",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "blueprint; drawing; design plans; graph paper",
+    "meaningKo": "blueprint; drawing; design plans; graph paper",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3563",
+    "hskLevel": 7,
+    "hanzi": "徒步",
+    "partOfSpeech": "Adverb / Verb",
+    "syllables": [
+      {
+        "hanzi": "徒",
+        "base": "tu",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "步",
+        "base": "bu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to be on foot",
+    "meaningKo": "~이다 ~에 foot",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3564",
+    "hskLevel": 7,
+    "hanzi": "屠杀",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "屠",
+        "base": "tu",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "杀",
+        "base": "sha",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to massacre; to slaughter",
+    "meaningKo": "massacre; slaughter",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3565",
+    "hskLevel": 7,
+    "hanzi": "土生土长",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "土",
+        "base": "tu",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "生",
+        "base": "sheng",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "土",
+        "base": "tu",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "长",
+        "base": "zhang",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "locally born and bred; indigenous; home-grown",
+    "meaningKo": "locally born; bred; indigenous; home-grown",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3566",
+    "hskLevel": 7,
+    "hanzi": "涂",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "涂",
+        "base": "tu",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to apply (paint etc); to smear; to daub; to blot out; to scribble; to scrawl; (literary) mud; street",
+    "meaningKo": "신청하다 (paint 등); smear; daub; blot 밖으로; scribble; scrawl; (literary) mud; street",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3567",
+    "hskLevel": 7,
+    "hanzi": "团伙",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "团",
+        "base": "tuan",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "伙",
+        "base": "huo",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "(criminal) gang; gang member; accomplice; crony",
+    "meaningKo": "(criminal) gang; gang member; accomplice; crony",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3568",
+    "hskLevel": 7,
+    "hanzi": "团聚",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "团",
+        "base": "tuan",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "聚",
+        "base": "ju",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to reunite; to have a reunion",
+    "meaningKo": "reunite; have reunion",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3569",
+    "hskLevel": 7,
+    "hanzi": "团员",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "团",
+        "base": "tuan",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "员",
+        "base": "yuan",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "member; group member",
+    "meaningKo": "member; group member",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3570",
+    "hskLevel": 7,
+    "hanzi": "推辞",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "推",
+        "base": "tui",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "辞",
+        "base": "ci",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to decline (an appointment, invitation etc)",
+    "meaningKo": "decline ( appointment, invitation 등)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3571",
+    "hskLevel": 7,
+    "hanzi": "推断",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "推",
+        "base": "tui",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "断",
+        "base": "duan",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to infer; to deduce; to predict; to extrapolate",
+    "meaningKo": "infer; deduce; predict; extrapolate",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3572",
+    "hskLevel": 7,
+    "hanzi": "推翻",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "推",
+        "base": "tui",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "翻",
+        "base": "fan",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to overthrow",
+    "meaningKo": "overthrow",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3573",
+    "hskLevel": 7,
+    "hanzi": "推理",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "推",
+        "base": "tui",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "理",
+        "base": "li",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "reasoning; inference; to infer; to deduce",
+    "meaningKo": "reasoning; inference; infer; deduce",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3574",
+    "hskLevel": 7,
+    "hanzi": "推论",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "推",
+        "base": "tui",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "论",
+        "base": "lun",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to infer; inference; corollary; reasoned conclusion",
+    "meaningKo": "infer; inference; corollary; reasoned conclusion",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3575",
+    "hskLevel": 7,
+    "hanzi": "推敲",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "推",
+        "base": "tui",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "敲",
+        "base": "qiao",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to think over",
+    "meaningKo": "얇다k 넘어",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3576",
+    "hskLevel": 7,
+    "hanzi": "推算",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "推",
+        "base": "tui",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "算",
+        "base": "suan",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to calculate; to reckon; to extrapolate (in calculation)",
+    "meaningKo": "calculate; reckon; extrapolate ( calculation)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3577",
+    "hskLevel": 7,
+    "hanzi": "推卸",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "推",
+        "base": "tui",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "卸",
+        "base": "xie",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to avoid (esp. responsibility); to shift (the blame); to pass the buck",
+    "meaningKo": "avoid (esp. responsibility); 교대 ( blame); 관문; 지나가다 buck",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3578",
+    "hskLevel": 7,
+    "hanzi": "推选",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "推",
+        "base": "tui",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "选",
+        "base": "xuan",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to elect; to choose",
+    "meaningKo": "elect; choose",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3579",
+    "hskLevel": 7,
+    "hanzi": "推移",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "推",
+        "base": "tui",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "移",
+        "base": "yi",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "(of time) to elapse or pass; (of a situation) to develop or evolve",
+    "meaningKo": "( time) elapse; 관문; 지나가다; ( 상황) develop; evolve",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3580",
+    "hskLevel": 7,
+    "hanzi": "颓废",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "颓",
+        "base": "tui",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "废",
+        "base": "fei",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "decadent; dispirited; depressed; dejected",
+    "meaningKo": "decadent; dispirited; depressed; dejected",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3581",
+    "hskLevel": 7,
+    "hanzi": "退步",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "退",
+        "base": "tui",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "步",
+        "base": "bu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to do less well than before; to make a concession; setback; backward step; leeway; room to maneuver; fallback",
+    "meaningKo": "do less well ~보다 before; make concession; setback; backward step; leeway; room maneuver; fallback",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3582",
+    "hskLevel": 7,
+    "hanzi": "退回",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "退",
+        "base": "tui",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "回",
+        "base": "hui",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to return (an item); to send back; to go back",
+    "meaningKo": "return ( item); send 뒤로; 되돌아; go 뒤로; 되돌아",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3583",
+    "hskLevel": 7,
+    "hanzi": "退却",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "退",
+        "base": "tui",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "却",
+        "base": "que",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to retreat; to shrink back",
+    "meaningKo": "retreat; shrink 뒤로; 되돌아",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3584",
+    "hskLevel": 7,
+    "hanzi": "退让",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "退",
+        "base": "tui",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "让",
+        "base": "rang",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to move aside; to get out of the way; to back down; to concede",
+    "meaningKo": "move aside; get 밖으로 way; 뒤로; 되돌아 아래로; concede",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3585",
+    "hskLevel": 7,
+    "hanzi": "退缩",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "退",
+        "base": "tui",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "缩",
+        "base": "suo",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to shrink back; to cower",
+    "meaningKo": "shrink 뒤로; 되돌아; cower",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3586",
+    "hskLevel": 7,
+    "hanzi": "退役",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "退",
+        "base": "tui",
+        "tone": 4,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "役",
+        "base": "yi",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "(of military personnel or athletes) to retire; (of outdated equipment) to be decommissioned",
+    "meaningKo": "( military personnel; athletes) retire; ( outdated equipment) ~이다 decommissioned",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3587",
+    "hskLevel": 7,
+    "hanzi": "托",
+    "partOfSpeech": "Verb / Other",
+    "syllables": [
+      {
+        "hanzi": "托",
+        "base": "tuo",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "prop; support (for weight); rest (e.g. arm rest); thanks to; to hold in one's hand; to support in one's palm; to give; to base; to commit; to set; torr (unit of pressure)",
+    "meaningKo": "prop; support (~을 위한 w여덟); rest (예: arm rest); ~보다ks; hold 자신의 hand; support 자신의 palm; give; base; commit; set; torr (unit 압박하다; 압력)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3588",
+    "hskLevel": 7,
+    "hanzi": "托付",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "托",
+        "base": "tuo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "付",
+        "base": "fu",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to entrust",
+    "meaningKo": "entrust",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3589",
+    "hskLevel": 7,
+    "hanzi": "拖累",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "拖",
+        "base": "tuo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "累",
+        "base": "lei",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to encumber; to be a burden on; to implicate",
+    "meaningKo": "encumber; ~이다 burden ~에; implicate",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3590",
+    "hskLevel": 7,
+    "hanzi": "拖欠",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "拖",
+        "base": "tuo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "欠",
+        "base": "qian",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "in arrears; behind in payments; to default on one's debts",
+    "meaningKo": "arrears; behind payments; default ~에 자신의 debts",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3591",
+    "hskLevel": 7,
+    "hanzi": "脱节",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "脱",
+        "base": "tuo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "节",
+        "base": "jie",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to come apart",
+    "meaningKo": "come apart",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3592",
+    "hskLevel": 7,
+    "hanzi": "脱口而出",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "脱",
+        "base": "tuo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "口",
+        "base": "kou",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "而",
+        "base": "er",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "出",
+        "base": "chu",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to blurt out; to let slip (an indiscreet remark)",
+    "meaningKo": "blurt 밖으로; let slip ( indiscreet remark)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3593",
+    "hskLevel": 7,
+    "hanzi": "脱离",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "脱",
+        "base": "tuo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "离",
+        "base": "li",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to separate oneself from; to break away from; diastasis (medicine); abscission; abjunction (botany)",
+    "meaningKo": "자신이 속한 상태나 관계에서 벗어나 분리되다; 의학적 이완·분리; 식물학의 접합부 분리",
+    "sentences": [
+      {
+        "hanzi": "他决定脱离旧的圈子，追求独立与自我成长。",
+        "pinyin": "ta1 jue2 ding4 tuo1 li2 jiu4 de quan1 zi3 zhui1 qiu2 du2 li4 yu3 zi4 wo3 cheng2 zhang3",
+        "meaningKo": "그는 예전의 무리에서 벗어나 독립과 자기 성장을 추구하기로 결심한다.",
+        "meaningEn": "He decides to detach himself from his old circle to pursue independence and personal growth."
+      }
+    ]
+  },
+  {
+    "id": "hsk7_3594",
+    "hskLevel": 7,
+    "hanzi": "脱落",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "脱",
+        "base": "tuo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "落",
+        "base": "luo",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to drop off; to come off; to lose (hair etc); to omit (a character when writing)",
+    "meaningKo": "drop 떨어져; 꺼져; come 떨어져; 꺼져; 지다 (hair 등); omit ( 성격; 품성 when writing)",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3595",
+    "hskLevel": 7,
+    "hanzi": "脱身",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "脱",
+        "base": "tuo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "身",
+        "base": "shen",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to get away; to escape (from obligations); to free oneself; to disengage",
+    "meaningKo": "get away; escape (~에서 obligations); free 자기 자신; disengage",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3596",
+    "hskLevel": 7,
+    "hanzi": "脱颖而出",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "脱",
+        "base": "tuo",
+        "tone": 1,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "颖",
+        "base": "ying",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "而",
+        "base": "er",
+        "tone": 2,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "出",
+        "base": "chu",
+        "tone": 1,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "to reveal one's talent (idiom); to rise above others; to distinguish oneself",
+    "meaningKo": "reveal 자신의 talent (관용구); rise above others; distinguish 자기 자신",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3597",
+    "hskLevel": 7,
+    "hanzi": "驮",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "驮",
+        "base": "tuo",
+        "tone": 2,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "variant of 驮",
+    "meaningKo": "驮의 변형",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3598",
+    "hskLevel": 7,
+    "hanzi": "妥",
+    "partOfSpeech": "Adjective / Adverb",
+    "syllables": [
+      {
+        "hanzi": "妥",
+        "base": "tuo",
+        "tone": 3,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "suitable; adequate; ready; settled",
+    "meaningKo": "suitable; adequate; ready; settled",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3599",
+    "hskLevel": 7,
+    "hanzi": "妥当",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "妥",
+        "base": "tuo",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "当",
+        "base": "dang",
+        "tone": 0,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "appropriate; proper; ready",
+    "meaningKo": "appropriate; proper; ready",
+    "sentences": []
+  },
+  {
+    "id": "hsk7_3600",
+    "hskLevel": 7,
+    "hanzi": "妥善",
+    "partOfSpeech": "Adverb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "妥",
+        "base": "tuo",
+        "tone": 3,
+        "strokeCount": 0
+      },
+      {
+        "hanzi": "善",
+        "base": "shan",
+        "tone": 4,
+        "strokeCount": 0
+      }
+    ],
+    "meaningEn": "appropriate; proper",
+    "meaningKo": "appropriate; proper",
+    "sentences": []
+  }
+]

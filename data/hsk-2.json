@@ -1,0 +1,3832 @@
+[
+  {
+    "id": "hsk2_1",
+    "hskLevel": 2,
+    "hanzi": "啊",
+    "partOfSpeech": "Particle / Interjection",
+    "syllables": [
+      {
+        "hanzi": "啊",
+        "base": "a",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "interjection of surprise；Ah!；Oh!",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_2",
+    "hskLevel": 2,
+    "hanzi": "爱好",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "爱",
+        "base": "ai",
+        "tone": 4
+      },
+      {
+        "hanzi": "好",
+        "base": "hao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to like; to be fond of; to take pleasure in; to be keen on；interest; hobby",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_3",
+    "hskLevel": 2,
+    "hanzi": "白色",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "白",
+        "base": "bai",
+        "tone": 2
+      },
+      {
+        "hanzi": "色",
+        "base": "se",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "white；fig. reactionary；anti-communist",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_4",
+    "hskLevel": 2,
+    "hanzi": "班",
+    "partOfSpeech": "Noun / Classifier",
+    "syllables": [
+      {
+        "hanzi": "班",
+        "base": "ban",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "surname Ban",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_5",
+    "hskLevel": 2,
+    "hanzi": "帮",
+    "partOfSpeech": "Verb / Classifier",
+    "syllables": [
+      {
+        "hanzi": "帮",
+        "base": "bang",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "old variant of 帮",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_6",
+    "hskLevel": 2,
+    "hanzi": "帮忙",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "帮",
+        "base": "bang",
+        "tone": 1
+      },
+      {
+        "hanzi": "忙",
+        "base": "mang",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to help；to lend a hand；to do a favor；to do a good turn",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_7",
+    "hskLevel": 2,
+    "hanzi": "包",
+    "partOfSpeech": "Verb / Noun / Classifier",
+    "syllables": [
+      {
+        "hanzi": "包",
+        "base": "bao",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "surname Bao",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_8",
+    "hskLevel": 2,
+    "hanzi": "本子",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "本",
+        "base": "ben",
+        "tone": 3
+      },
+      {
+        "hanzi": "子",
+        "base": "zi",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "book；notebook；Japanese-style self-published comic (esp. an erotic one), aka \"dōjinshi\"；edition",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "本"
+  },
+  {
+    "id": "hsk2_9",
+    "hskLevel": 2,
+    "hanzi": "比",
+    "partOfSpeech": "Preposition / Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "比",
+        "base": "bi",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "Belgium；Belgian；abbr. for 比利时",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_10",
+    "hskLevel": 2,
+    "hanzi": "笔",
+    "partOfSpeech": "Classifier / Noun",
+    "syllables": [
+      {
+        "hanzi": "笔",
+        "base": "bi",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "pen；pencil；writing brush；to write or compose；the strokes of Chinese characters；classifier for sums of money, deals",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "支"
+  },
+  {
+    "id": "hsk2_11",
+    "hskLevel": 2,
+    "hanzi": "别",
+    "partOfSpeech": "Adverb / Verb / Pronoun",
+    "syllables": [
+      {
+        "hanzi": "别",
+        "base": "bie",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "surname Bie",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_12",
+    "hskLevel": 2,
+    "hanzi": "不错",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "错",
+        "base": "cuo",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "correct；right；not bad；pretty good",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_13",
+    "hskLevel": 2,
+    "hanzi": "不好意思",
+    "partOfSpeech": "Verb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "不",
+        "base": "bu",
+        "tone": 4
+      },
+      {
+        "hanzi": "好",
+        "base": "hao",
+        "tone": 3
+      },
+      {
+        "hanzi": "意",
+        "base": "yi",
+        "tone": 4
+      },
+      {
+        "hanzi": "思",
+        "base": "si",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "to feel embarrassed；to find it embarrassing；to be sorry (for inconveniencing sb)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_14",
+    "hskLevel": 2,
+    "hanzi": "车站",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "车",
+        "base": "che",
+        "tone": 1
+      },
+      {
+        "hanzi": "站",
+        "base": "zhan",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "rail station；bus stop",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "处"
+  },
+  {
+    "id": "hsk2_15",
+    "hskLevel": 2,
+    "hanzi": "出",
+    "partOfSpeech": "Verb / Classifier",
+    "syllables": [
+      {
+        "hanzi": "出",
+        "base": "chu",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to go out；to come out；to occur；to produce；to go beyond；to rise；to put forth；to happen；(used after a verb to indicate an outward direction or a positive result)；classifier for dramas, plays, operas etc",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_16",
+    "hskLevel": 2,
+    "hanzi": "出国",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "出",
+        "base": "chu",
+        "tone": 1
+      },
+      {
+        "hanzi": "国",
+        "base": "guo",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to go abroad; to leave the country",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_17",
+    "hskLevel": 2,
+    "hanzi": "出来",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "出",
+        "base": "chu",
+        "tone": 1
+      },
+      {
+        "hanzi": "来",
+        "base": "lai",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to come out；to appear；to arise",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_18",
+    "hskLevel": 2,
+    "hanzi": "出门",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "出",
+        "base": "chu",
+        "tone": 1
+      },
+      {
+        "hanzi": "门",
+        "base": "men",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to go out；to leave home；to go on a journey；away from home；(of a woman) to get married",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_19",
+    "hskLevel": 2,
+    "hanzi": "出去",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "出",
+        "base": "chu",
+        "tone": 1
+      },
+      {
+        "hanzi": "去",
+        "base": "qu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to go out",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_20",
+    "hskLevel": 2,
+    "hanzi": "床",
+    "partOfSpeech": "Noun / Classifier",
+    "syllables": [
+      {
+        "hanzi": "床",
+        "base": "chuang",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "bed；couch；classifier for beds",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "张"
+  },
+  {
+    "id": "hsk2_21",
+    "hskLevel": 2,
+    "hanzi": "词",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "词",
+        "base": "ci",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "old variant of 词",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_22",
+    "hskLevel": 2,
+    "hanzi": "次",
+    "partOfSpeech": "qv / Adjective / Other",
+    "syllables": [
+      {
+        "hanzi": "次",
+        "base": "ci",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "next in sequence；second；the second (day, time etc)；secondary；vice-；sub-；infra-；inferior quality；substandard；order；sequence；hypo- (chemistry)；classifier for enumerated events: time",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_23",
+    "hskLevel": 2,
+    "hanzi": "从",
+    "partOfSpeech": "Preposition / Other",
+    "syllables": [
+      {
+        "hanzi": "从",
+        "base": "cong",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "variant of 从",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_24",
+    "hskLevel": 2,
+    "hanzi": "从小",
+    "partOfSpeech": "Adverb",
+    "syllables": [
+      {
+        "hanzi": "从",
+        "base": "cong",
+        "tone": 2
+      },
+      {
+        "hanzi": "小",
+        "base": "xiao",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "from childhood；from a young age",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_25",
+    "hskLevel": 2,
+    "hanzi": "错",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "错",
+        "base": "cuo",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "surname Cuo",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_26",
+    "hskLevel": 2,
+    "hanzi": "打",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "打",
+        "base": "da",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "dozen (loanword)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_27",
+    "hskLevel": 2,
+    "hanzi": "打车",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "打",
+        "base": "da",
+        "tone": 3
+      },
+      {
+        "hanzi": "车",
+        "base": "che",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to take a taxi (in town)；to hitch a lift",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_28",
+    "hskLevel": 2,
+    "hanzi": "打开",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "打",
+        "base": "da",
+        "tone": 3
+      },
+      {
+        "hanzi": "开",
+        "base": "kai",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to open；to show (a ticket)；to turn on；to switch on",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_29",
+    "hskLevel": 2,
+    "hanzi": "但",
+    "partOfSpeech": "Conjunction / Adverb",
+    "syllables": [
+      {
+        "hanzi": "但",
+        "base": "dan",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "but; yet; however; still；merely; only; just",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_30",
+    "hskLevel": 2,
+    "hanzi": "但是",
+    "partOfSpeech": "Conjunction",
+    "syllables": [
+      {
+        "hanzi": "但",
+        "base": "dan",
+        "tone": 4
+      },
+      {
+        "hanzi": "是",
+        "base": "shi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "but; however",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_31",
+    "hskLevel": 2,
+    "hanzi": "地",
+    "partOfSpeech": "Particle / Noun",
+    "syllables": [
+      {
+        "hanzi": "地",
+        "base": "de",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "-ly；structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_32",
+    "hskLevel": 2,
+    "hanzi": "地铁",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "地",
+        "base": "di",
+        "tone": 4
+      },
+      {
+        "hanzi": "铁",
+        "base": "tie",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "underground railway; subway；subway train",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_33",
+    "hskLevel": 2,
+    "hanzi": "得",
+    "partOfSpeech": "Particle / Verb",
+    "syllables": [
+      {
+        "hanzi": "得",
+        "base": "de",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to obtain；to get；to gain；to catch (a disease)；proper；suitable；proud；contented；to allow；to permit；ready；finished",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_34",
+    "hskLevel": 2,
+    "hanzi": "等",
+    "partOfSpeech": "Verb / Particle",
+    "syllables": [
+      {
+        "hanzi": "等",
+        "base": "deng",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "class；rank；grade；equal to；same as；to wait for；to await；et cetera；and so on；et al. (and other authors)；after；as soon as；once",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_35",
+    "hskLevel": 2,
+    "hanzi": "懂",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "懂",
+        "base": "dong",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to understand；to comprehend",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_36",
+    "hskLevel": 2,
+    "hanzi": "动",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "动",
+        "base": "dong",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "(of sth) to move；to set in movement；to displace；to touch；to make use of；to stir (emotions)；to alter；abbr. for 动词, verb",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_37",
+    "hskLevel": 2,
+    "hanzi": "饭馆",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "饭",
+        "base": "fan",
+        "tone": 4
+      },
+      {
+        "hanzi": "馆",
+        "base": "guan",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "restaurant",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "家"
+  },
+  {
+    "id": "hsk2_38",
+    "hskLevel": 2,
+    "hanzi": "飞",
+    "partOfSpeech": "Verb / Other",
+    "syllables": [
+      {
+        "hanzi": "飞",
+        "base": "fei",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to fly",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_39",
+    "hskLevel": 2,
+    "hanzi": "高",
+    "partOfSpeech": "Adjective / Adverb / Verb",
+    "syllables": [
+      {
+        "hanzi": "高",
+        "base": "gao",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "surname Gao",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_40",
+    "hskLevel": 2,
+    "hanzi": "高中",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "高",
+        "base": "gao",
+        "tone": 1
+      },
+      {
+        "hanzi": "中",
+        "base": "zhong",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "senior high school；abbr. for 高级中学",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_41",
+    "hskLevel": 2,
+    "hanzi": "告诉",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "告",
+        "base": "gao",
+        "tone": 4
+      },
+      {
+        "hanzi": "诉",
+        "base": "su",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to press charges; to file a complaint",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_42",
+    "hskLevel": 2,
+    "hanzi": "个子",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "个",
+        "base": "ge",
+        "tone": 4
+      },
+      {
+        "hanzi": "子",
+        "base": "zi",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "height；stature；build；size",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_43",
+    "hskLevel": 2,
+    "hanzi": "跟",
+    "partOfSpeech": "Preposition / Verb",
+    "syllables": [
+      {
+        "hanzi": "跟",
+        "base": "gen",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "heel；to follow closely；to go with；(of a woman) to marry sb；with；compared with；to；towards；and (joining two nouns)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_44",
+    "hskLevel": 2,
+    "hanzi": "公交车",
+    "partOfSpeech": "Other",
+    "syllables": [
+      {
+        "hanzi": "公",
+        "base": "gong",
+        "tone": 1
+      },
+      {
+        "hanzi": "交",
+        "base": "jiao",
+        "tone": 1
+      },
+      {
+        "hanzi": "车",
+        "base": "che",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "public transport vehicle；town bus",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "辆"
+  },
+  {
+    "id": "hsk2_45",
+    "hskLevel": 2,
+    "hanzi": "过",
+    "partOfSpeech": "Particle / Verb / Adverb",
+    "syllables": [
+      {
+        "hanzi": "过",
+        "base": "guo",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "surname Guo",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_46",
+    "hskLevel": 2,
+    "hanzi": "过来",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "过",
+        "base": "guo",
+        "tone": 4
+      },
+      {
+        "hanzi": "来",
+        "base": "lai",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to come over；to manage；to handle；to be able to take care of",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_47",
+    "hskLevel": 2,
+    "hanzi": "过年",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "过",
+        "base": "guo",
+        "tone": 4
+      },
+      {
+        "hanzi": "年",
+        "base": "nian",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to celebrate the Chinese New Year",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_48",
+    "hskLevel": 2,
+    "hanzi": "过去",
+    "partOfSpeech": "Verb / Time Word",
+    "syllables": [
+      {
+        "hanzi": "过",
+        "base": "guo",
+        "tone": 4
+      },
+      {
+        "hanzi": "去",
+        "base": "qu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "(in the) past；former；previous；to go over；to pass by",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_49",
+    "hskLevel": 2,
+    "hanzi": "还是",
+    "partOfSpeech": "Conjunction / Adverb / Verb",
+    "syllables": [
+      {
+        "hanzi": "还",
+        "base": "hai",
+        "tone": 2
+      },
+      {
+        "hanzi": "是",
+        "base": "shi",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "still (as before)；had better；unexpectedly；or",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_50",
+    "hskLevel": 2,
+    "hanzi": "黑色",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "黑",
+        "base": "hei",
+        "tone": 1
+      },
+      {
+        "hanzi": "色",
+        "base": "se",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "black",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_51",
+    "hskLevel": 2,
+    "hanzi": "红茶",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "红",
+        "base": "hong",
+        "tone": 2
+      },
+      {
+        "hanzi": "茶",
+        "base": "cha",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "black tea",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "杯"
+  },
+  {
+    "id": "hsk2_52",
+    "hskLevel": 2,
+    "hanzi": "红色",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "红",
+        "base": "hong",
+        "tone": 2
+      },
+      {
+        "hanzi": "色",
+        "base": "se",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "red (color)；revolutionary",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_53",
+    "hskLevel": 2,
+    "hanzi": "后面",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "后",
+        "base": "hou",
+        "tone": 4
+      },
+      {
+        "hanzi": "面",
+        "base": "mian",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "the back; the rear; the last bit；behind; near the end; at the back；later; afterwards",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_54",
+    "hskLevel": 2,
+    "hanzi": "花",
+    "partOfSpeech": "Verb / Noun / Adjective",
+    "syllables": [
+      {
+        "hanzi": "花",
+        "base": "hua",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "surname Hua",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_55",
+    "hskLevel": 2,
+    "hanzi": "画",
+    "partOfSpeech": "Noun / Verb / Classifier",
+    "syllables": [
+      {
+        "hanzi": "画",
+        "base": "hua",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to draw; to paint；picture; painting；to draw (a line) (variant of 划)；stroke of a Chinese character (variant of 划)；(calligraphy) horizontal stroke (variant of 划)",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "幅"
+  },
+  {
+    "id": "hsk2_56",
+    "hskLevel": 2,
+    "hanzi": "坏",
+    "partOfSpeech": "Adjective / Verb",
+    "syllables": [
+      {
+        "hanzi": "坏",
+        "base": "huai",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "bad；spoiled；broken；to break down；(suffix) to the utmost",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_57",
+    "hskLevel": 2,
+    "hanzi": "回来",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "回",
+        "base": "hui",
+        "tone": 2
+      },
+      {
+        "hanzi": "来",
+        "base": "lai",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "to return; to come back",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_58",
+    "hskLevel": 2,
+    "hanzi": "回去",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "回",
+        "base": "hui",
+        "tone": 2
+      },
+      {
+        "hanzi": "去",
+        "base": "qu",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "to return；to go back",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_59",
+    "hskLevel": 2,
+    "hanzi": "机场",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "机",
+        "base": "ji",
+        "tone": 1
+      },
+      {
+        "hanzi": "场",
+        "base": "chang",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "airport; airfield；(slang) service provider for Shadowsocks or similar software for circumventing Internet censorship",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "家"
+  },
+  {
+    "id": "hsk2_60",
+    "hskLevel": 2,
+    "hanzi": "机票",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "机",
+        "base": "ji",
+        "tone": 1
+      },
+      {
+        "hanzi": "票",
+        "base": "piao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "air ticket；passenger ticket",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "张"
+  },
+  {
+    "id": "hsk2_61",
+    "hskLevel": 2,
+    "hanzi": "记得",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "记",
+        "base": "ji",
+        "tone": 4
+      },
+      {
+        "hanzi": "得",
+        "base": "de",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "to remember",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_62",
+    "hskLevel": 2,
+    "hanzi": "间",
+    "partOfSpeech": "Classifier / Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "间",
+        "base": "jian",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "between；among；within a definite time or space；room；section of a room or lateral space between two pairs of pillars；classifier for rooms",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_63",
+    "hskLevel": 2,
+    "hanzi": "教",
+    "partOfSpeech": "Verb / Other",
+    "syllables": [
+      {
+        "hanzi": "教",
+        "base": "jiao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "surname Jiao",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_64",
+    "hskLevel": 2,
+    "hanzi": "教室",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "教",
+        "base": "jiao",
+        "tone": 4
+      },
+      {
+        "hanzi": "室",
+        "base": "shi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "classroom",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "间"
+  },
+  {
+    "id": "hsk2_65",
+    "hskLevel": 2,
+    "hanzi": "介绍",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "介",
+        "base": "jie",
+        "tone": 4
+      },
+      {
+        "hanzi": "绍",
+        "base": "shao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to introduce (sb to sb)；to give a presentation；to present (sb for a job etc)；introduction",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_66",
+    "hskLevel": 2,
+    "hanzi": "近",
+    "partOfSpeech": "Adjective / Verb",
+    "syllables": [
+      {
+        "hanzi": "近",
+        "base": "jin",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "near；close to；approximately",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_67",
+    "hskLevel": 2,
+    "hanzi": "进",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "进",
+        "base": "jin",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to go forward；to advance；to go in；to enter；to put in；to submit；to take in；to admit；(math.) base of a number system；classifier for sections in a building or residential compound",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_68",
+    "hskLevel": 2,
+    "hanzi": "进来",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "进",
+        "base": "jin",
+        "tone": 4
+      },
+      {
+        "hanzi": "来",
+        "base": "lai",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to come in",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_69",
+    "hskLevel": 2,
+    "hanzi": "进去",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "进",
+        "base": "jin",
+        "tone": 4
+      },
+      {
+        "hanzi": "去",
+        "base": "qu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to go in",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_70",
+    "hskLevel": 2,
+    "hanzi": "经常",
+    "partOfSpeech": "Adverb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "经",
+        "base": "jing",
+        "tone": 1
+      },
+      {
+        "hanzi": "常",
+        "base": "chang",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "frequently; constantly; regularly; often；day-to-day; everyday; daily",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_71",
+    "hskLevel": 2,
+    "hanzi": "酒店",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "酒",
+        "base": "jiu",
+        "tone": 3
+      },
+      {
+        "hanzi": "店",
+        "base": "dian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "wine shop；pub (public house)；hotel；restaurant；(Tw) hostess club",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_72",
+    "hskLevel": 2,
+    "hanzi": "就",
+    "partOfSpeech": "Adverb / Preposition / Conjunction",
+    "syllables": [
+      {
+        "hanzi": "就",
+        "base": "jiu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "(after a suppositional clause) in that case; then；(after a clause of action) as soon as; immediately after；(same as 是) merely; nothing else but; simply; just; precisely; exactly；only; as little as；as much as; as many as；to approach; to move towards；to undertake; to engage in；(often followed by 着) taking advantage of；(of food) to go with；with regard to; concerning；(pattern: 就 ... 也 ...) even if ... still ...；(pattern: 不 ... 就 ...) if not ... then must be ...",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_73",
+    "hskLevel": 2,
+    "hanzi": "咖啡",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "咖",
+        "base": "ka",
+        "tone": 1
+      },
+      {
+        "hanzi": "啡",
+        "base": "fei",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "coffee (loanword)",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "杯"
+  },
+  {
+    "id": "hsk2_74",
+    "hskLevel": 2,
+    "hanzi": "开始",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "开",
+        "base": "kai",
+        "tone": 1
+      },
+      {
+        "hanzi": "始",
+        "base": "shi",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to begin；beginning；to start；initial",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_75",
+    "hskLevel": 2,
+    "hanzi": "开学",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "开",
+        "base": "kai",
+        "tone": 1
+      },
+      {
+        "hanzi": "学",
+        "base": "xue",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "foundation of a University or College；school opening；the start of a new term",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_76",
+    "hskLevel": 2,
+    "hanzi": "考",
+    "partOfSpeech": "Verb / Other",
+    "syllables": [
+      {
+        "hanzi": "考",
+        "base": "kao",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to beat；to hit；variant of 考；to inspect；to test；to take an exam",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_77",
+    "hskLevel": 2,
+    "hanzi": "考试",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "考",
+        "base": "kao",
+        "tone": 3
+      },
+      {
+        "hanzi": "试",
+        "base": "shi",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to take an exam；exam",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "次"
+  },
+  {
+    "id": "hsk2_78",
+    "hskLevel": 2,
+    "hanzi": "可能",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "可",
+        "base": "ke",
+        "tone": 3
+      },
+      {
+        "hanzi": "能",
+        "base": "neng",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "might (happen)；possible；probable；possibility；probability；maybe；perhaps",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_79",
+    "hskLevel": 2,
+    "hanzi": "裤子",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "裤",
+        "base": "ku",
+        "tone": 4
+      },
+      {
+        "hanzi": "子",
+        "base": "zi",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "variant of 裤子, trousers；pants",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_80",
+    "hskLevel": 2,
+    "hanzi": "快",
+    "partOfSpeech": "Adjective / Adverb / Other",
+    "syllables": [
+      {
+        "hanzi": "快",
+        "base": "kuai",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "rapid；quick；speed；rate；soon；almost；to make haste；clever；sharp (of knives or wits)；forthright；plainspoken；gratified；pleased；pleasant",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_81",
+    "hskLevel": 2,
+    "hanzi": "快乐",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "快",
+        "base": "kuai",
+        "tone": 4
+      },
+      {
+        "hanzi": "乐",
+        "base": "le",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "happy; joyful",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_82",
+    "hskLevel": 2,
+    "hanzi": "快要",
+    "partOfSpeech": "Adverb",
+    "syllables": [
+      {
+        "hanzi": "快",
+        "base": "kuai",
+        "tone": 4
+      },
+      {
+        "hanzi": "要",
+        "base": "yao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "nearly at the point of (doing sth); about to (do sth)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_83",
+    "hskLevel": 2,
+    "hanzi": "篮球",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "篮",
+        "base": "lan",
+        "tone": 2
+      },
+      {
+        "hanzi": "球",
+        "base": "qiu",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "basketball",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_84",
+    "hskLevel": 2,
+    "hanzi": "累",
+    "partOfSpeech": "Adjective / Verb",
+    "syllables": [
+      {
+        "hanzi": "累",
+        "base": "lei",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to accumulate；to involve or implicate (Taiwan pr. [lèi])；continuous；repeated",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_85",
+    "hskLevel": 2,
+    "hanzi": "离",
+    "partOfSpeech": "Verb / Preposition",
+    "syllables": [
+      {
+        "hanzi": "离",
+        "base": "chi",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "mythical beast (archaic)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_86",
+    "hskLevel": 2,
+    "hanzi": "里面",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "里",
+        "base": "li",
+        "tone": 3
+      },
+      {
+        "hanzi": "面",
+        "base": "mian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "inside；interior；also pr. [lǐ mian]",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_87",
+    "hskLevel": 2,
+    "hanzi": "楼",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "楼",
+        "base": "lou",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "surname Lou",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_88",
+    "hskLevel": 2,
+    "hanzi": "路",
+    "partOfSpeech": "Noun / qv",
+    "syllables": [
+      {
+        "hanzi": "路",
+        "base": "lu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "surname Lu",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_89",
+    "hskLevel": 2,
+    "hanzi": "路上",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "路",
+        "base": "lu",
+        "tone": 4
+      },
+      {
+        "hanzi": "上",
+        "base": "shang",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "on the road；on a journey；road surface",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_90",
+    "hskLevel": 2,
+    "hanzi": "旅游",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "旅",
+        "base": "lü",
+        "tone": 3
+      },
+      {
+        "hanzi": "游",
+        "base": "you",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "trip；journey；tourism；travel；tour；to travel",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_91",
+    "hskLevel": 2,
+    "hanzi": "绿茶",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "绿",
+        "base": "lü",
+        "tone": 4
+      },
+      {
+        "hanzi": "茶",
+        "base": "cha",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "green tea；(slang) (of a girl) seemingly innocent and charming but actually calculating and manipulative；a girl who has these qualities",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_92",
+    "hskLevel": 2,
+    "hanzi": "绿色",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "绿",
+        "base": "lü",
+        "tone": 4
+      },
+      {
+        "hanzi": "色",
+        "base": "se",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "green",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_93",
+    "hskLevel": 2,
+    "hanzi": "慢",
+    "partOfSpeech": "Adjective / Adverb",
+    "syllables": [
+      {
+        "hanzi": "慢",
+        "base": "man",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "slow",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_94",
+    "hskLevel": 2,
+    "hanzi": "没意思",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "没",
+        "base": "mei",
+        "tone": 2
+      },
+      {
+        "hanzi": "意",
+        "base": "yi",
+        "tone": 4
+      },
+      {
+        "hanzi": "思",
+        "base": "si",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "boring；of no interest",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_95",
+    "hskLevel": 2,
+    "hanzi": "每",
+    "partOfSpeech": "Pronoun",
+    "syllables": [
+      {
+        "hanzi": "每",
+        "base": "mei",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "each；every",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_96",
+    "hskLevel": 2,
+    "hanzi": "门",
+    "partOfSpeech": "Noun / Classifier",
+    "syllables": [
+      {
+        "hanzi": "门",
+        "base": "men",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "surname Men",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_97",
+    "hskLevel": 2,
+    "hanzi": "门口",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "门",
+        "base": "men",
+        "tone": 2
+      },
+      {
+        "hanzi": "口",
+        "base": "kou",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "doorway；gate",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_98",
+    "hskLevel": 2,
+    "hanzi": "门票",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "门",
+        "base": "men",
+        "tone": 2
+      },
+      {
+        "hanzi": "票",
+        "base": "piao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "ticket (for theater, cinema etc)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_99",
+    "hskLevel": 2,
+    "hanzi": "面",
+    "partOfSpeech": "Noun / Classifier / Verb",
+    "syllables": [
+      {
+        "hanzi": "面",
+        "base": "mian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "face；side；surface；aspect；top；classifier for objects with flat surfaces such as drums, mirrors, flags etc",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_100",
+    "hskLevel": 2,
+    "hanzi": "名",
+    "partOfSpeech": "Classifier / Other",
+    "syllables": [
+      {
+        "hanzi": "名",
+        "base": "ming",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "name；noun (part of speech)；place (e.g. among winners)；famous；classifier for people",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_101",
+    "hskLevel": 2,
+    "hanzi": "拿",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "拿",
+        "base": "na",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "old variant of 拿",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_102",
+    "hskLevel": 2,
+    "hanzi": "那么",
+    "partOfSpeech": "Pronoun / Conjunction",
+    "syllables": [
+      {
+        "hanzi": "那",
+        "base": "na",
+        "tone": 4
+      },
+      {
+        "hanzi": "么",
+        "base": "me",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "like that；in that way；or so；so；so very much；about；in that case",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_103",
+    "hskLevel": 2,
+    "hanzi": "那样",
+    "partOfSpeech": "Pronoun",
+    "syllables": [
+      {
+        "hanzi": "那",
+        "base": "na",
+        "tone": 4
+      },
+      {
+        "hanzi": "样",
+        "base": "yang",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "that kind；that sort",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_104",
+    "hskLevel": 2,
+    "hanzi": "奶茶",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "奶",
+        "base": "nai",
+        "tone": 3
+      },
+      {
+        "hanzi": "茶",
+        "base": "cha",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "milk tea",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_105",
+    "hskLevel": 2,
+    "hanzi": "奶奶",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "奶",
+        "base": "nai",
+        "tone": 3
+      },
+      {
+        "hanzi": "奶",
+        "base": "nai",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "(informal) grandma (paternal grandmother)；(respectful) mistress of the house；(coll.) boobies；breasts",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "位"
+  },
+  {
+    "id": "hsk2_106",
+    "hskLevel": 2,
+    "hanzi": "男孩儿",
+    "partOfSpeech": "Other",
+    "syllables": [
+      {
+        "hanzi": "男",
+        "base": "nan",
+        "tone": 2
+      },
+      {
+        "hanzi": "孩",
+        "base": "hai",
+        "tone": 2
+      },
+      {
+        "hanzi": "儿",
+        "base": "r",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "erhua variant of 男孩；boy",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_107",
+    "hskLevel": 2,
+    "hanzi": "鸟",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "鸟",
+        "base": "diao",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "variant of 屌；penis",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_108",
+    "hskLevel": 2,
+    "hanzi": "女孩儿",
+    "partOfSpeech": "Other",
+    "syllables": [
+      {
+        "hanzi": "女",
+        "base": "nü",
+        "tone": 3
+      },
+      {
+        "hanzi": "孩",
+        "base": "hai",
+        "tone": 2
+      },
+      {
+        "hanzi": "儿",
+        "base": "r",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "erhua variant of 女孩；girl",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_109",
+    "hskLevel": 2,
+    "hanzi": "旁边",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "旁",
+        "base": "pang",
+        "tone": 2
+      },
+      {
+        "hanzi": "边",
+        "base": "bian",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "side; adjacent place",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_110",
+    "hskLevel": 2,
+    "hanzi": "跑",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "跑",
+        "base": "pao",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "(of an animal) to paw (the ground)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_111",
+    "hskLevel": 2,
+    "hanzi": "跑步",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "跑",
+        "base": "pao",
+        "tone": 3
+      },
+      {
+        "hanzi": "步",
+        "base": "bu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to run；to jog；(military) to march at the double",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_112",
+    "hskLevel": 2,
+    "hanzi": "票",
+    "partOfSpeech": "Noun / Classifier",
+    "syllables": [
+      {
+        "hanzi": "票",
+        "base": "piao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "ticket；ballot；banknote；person held for ransom；amateur performance of Chinese opera；classifier for groups, batches, business transactions",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "张"
+  },
+  {
+    "id": "hsk2_113",
+    "hskLevel": 2,
+    "hanzi": "妻子",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "妻",
+        "base": "qi",
+        "tone": 1
+      },
+      {
+        "hanzi": "子",
+        "base": "zi",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "wife and children",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_114",
+    "hskLevel": 2,
+    "hanzi": "起来",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "起",
+        "base": "qi",
+        "tone": 3
+      },
+      {
+        "hanzi": "来",
+        "base": "lai",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "to stand up；to get up；also pr. [qǐ lái]",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_115",
+    "hskLevel": 2,
+    "hanzi": "前面",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "前",
+        "base": "qian",
+        "tone": 2
+      },
+      {
+        "hanzi": "面",
+        "base": "mian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "ahead；in front；preceding；above；also pr. [qián mian]",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_116",
+    "hskLevel": 2,
+    "hanzi": "晴",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "晴",
+        "base": "qing",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "clear；fine (weather)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_117",
+    "hskLevel": 2,
+    "hanzi": "球",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "球",
+        "base": "qiu",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "ball；sphere；globe；ball game；match",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_118",
+    "hskLevel": 2,
+    "hanzi": "让",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "让",
+        "base": "rang",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to yield；to permit；to let sb do sth；to have sb do sth；to make sb (feel sad etc)；by (indicates the agent in a passive clause, like 被)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_119",
+    "hskLevel": 2,
+    "hanzi": "肉",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "肉",
+        "base": "rou",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "meat；flesh；pulp (of a fruit)；(coll.) (of a fruit) squashy；(of a person) flabby；irresolute；Kangxi radical 130",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_120",
+    "hskLevel": 2,
+    "hanzi": "商场",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "商",
+        "base": "shang",
+        "tone": 1
+      },
+      {
+        "hanzi": "场",
+        "base": "chang",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "shopping mall；shopping center；department store；emporium；the business world",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "家"
+  },
+  {
+    "id": "hsk2_121",
+    "hskLevel": 2,
+    "hanzi": "上来",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "上",
+        "base": "shang",
+        "tone": 4
+      },
+      {
+        "hanzi": "来",
+        "base": "lai",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to come up；to approach；(verb complement indicating success)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_122",
+    "hskLevel": 2,
+    "hanzi": "上面",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "上",
+        "base": "shang",
+        "tone": 4
+      },
+      {
+        "hanzi": "面",
+        "base": "mian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "on top of；above-mentioned；also pr. [shàng mian]",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_123",
+    "hskLevel": 2,
+    "hanzi": "上去",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "上",
+        "base": "shang",
+        "tone": 4
+      },
+      {
+        "hanzi": "去",
+        "base": "qu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to go up",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_124",
+    "hskLevel": 2,
+    "hanzi": "上网",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "上",
+        "base": "shang",
+        "tone": 4
+      },
+      {
+        "hanzi": "网",
+        "base": "wang",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to go online；to connect to the Internet；(of a document etc) to be uploaded to the Internet；(tennis, volleyball etc) to move in close to the net",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_125",
+    "hskLevel": 2,
+    "hanzi": "身体",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "身",
+        "base": "shen",
+        "tone": 1
+      },
+      {
+        "hanzi": "体",
+        "base": "ti",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "the body；one's health；in person",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "具"
+  },
+  {
+    "id": "hsk2_126",
+    "hskLevel": 2,
+    "hanzi": "生日",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "生",
+        "base": "sheng",
+        "tone": 1
+      },
+      {
+        "hanzi": "日",
+        "base": "ri",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "birthday",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_127",
+    "hskLevel": 2,
+    "hanzi": "时",
+    "partOfSpeech": "Other / Time Word",
+    "syllables": [
+      {
+        "hanzi": "时",
+        "base": "shi",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "old variant of 时",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_128",
+    "hskLevel": 2,
+    "hanzi": "事情",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "事",
+        "base": "shi",
+        "tone": 4
+      },
+      {
+        "hanzi": "情",
+        "base": "qing",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "affair; matter; thing; business",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "件"
+  },
+  {
+    "id": "hsk2_129",
+    "hskLevel": 2,
+    "hanzi": "手",
+    "partOfSpeech": "Noun / Classifier",
+    "syllables": [
+      {
+        "hanzi": "手",
+        "base": "shou",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "hand；(formal) to hold；person engaged in certain types of work；person skilled in certain types of work；personal(ly)；convenient；classifier for skill",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "双"
+  },
+  {
+    "id": "hsk2_130",
+    "hskLevel": 2,
+    "hanzi": "手表",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "手",
+        "base": "shou",
+        "tone": 3
+      },
+      {
+        "hanzi": "表",
+        "base": "biao",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "wristwatch",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "块"
+  },
+  {
+    "id": "hsk2_131",
+    "hskLevel": 2,
+    "hanzi": "书包",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "书",
+        "base": "shu",
+        "tone": 1
+      },
+      {
+        "hanzi": "包",
+        "base": "bao",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "schoolbag；satchel；bookbag",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_132",
+    "hskLevel": 2,
+    "hanzi": "舒服",
+    "partOfSpeech": "Adjective",
+    "syllables": [
+      {
+        "hanzi": "舒",
+        "base": "shu",
+        "tone": 1
+      },
+      {
+        "hanzi": "服",
+        "base": "fu",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "comfortable；feeling well",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_133",
+    "hskLevel": 2,
+    "hanzi": "送",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "送",
+        "base": "song",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to send; to deliver; to transmit；to give (as a present)；to see (sb) off；to accompany; to go along with",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_134",
+    "hskLevel": 2,
+    "hanzi": "虽然",
+    "partOfSpeech": "Conjunction",
+    "syllables": [
+      {
+        "hanzi": "虽",
+        "base": "sui",
+        "tone": 1
+      },
+      {
+        "hanzi": "然",
+        "base": "ran",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "although; even though (often used correlatively with 是 or 是 etc)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_135",
+    "hskLevel": 2,
+    "hanzi": "所以",
+    "partOfSpeech": "Conjunction",
+    "syllables": [
+      {
+        "hanzi": "所",
+        "base": "suo",
+        "tone": 3
+      },
+      {
+        "hanzi": "以",
+        "base": "yi",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "therefore；as a result；so；the reason why",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_136",
+    "hskLevel": 2,
+    "hanzi": "疼",
+    "partOfSpeech": "Verb / Adjective",
+    "syllables": [
+      {
+        "hanzi": "疼",
+        "base": "teng",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "(it) hurts; sore；to love dearly",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_137",
+    "hskLevel": 2,
+    "hanzi": "踢",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "踢",
+        "base": "ti",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "to kick；to play (e.g. soccer)；(slang) butch (in a lesbian relationship)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_138",
+    "hskLevel": 2,
+    "hanzi": "题",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "题",
+        "base": "ti",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "surname Ti",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_139",
+    "hskLevel": 2,
+    "hanzi": "条",
+    "partOfSpeech": "Classifier",
+    "syllables": [
+      {
+        "hanzi": "条",
+        "base": "tiao",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "strip；item；article；clause (of law or treaty)；classifier for long thin things (ribbon, river, road, trousers etc)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_140",
+    "hskLevel": 2,
+    "hanzi": "跳舞",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "跳",
+        "base": "tiao",
+        "tone": 4
+      },
+      {
+        "hanzi": "舞",
+        "base": "wu",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to dance",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_141",
+    "hskLevel": 2,
+    "hanzi": "头",
+    "partOfSpeech": "Noun / Classifier / Numeral",
+    "syllables": [
+      {
+        "hanzi": "头",
+        "base": "tou",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "head；hair style；the top；end；beginning or end；a stub；remnant；chief；boss；side；aspect；first；leading；classifier for pigs or livestock",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_142",
+    "hskLevel": 2,
+    "hanzi": "外国",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "外",
+        "base": "wai",
+        "tone": 4
+      },
+      {
+        "hanzi": "国",
+        "base": "guo",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "foreign (country)",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_143",
+    "hskLevel": 2,
+    "hanzi": "外面",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "外",
+        "base": "wai",
+        "tone": 4
+      },
+      {
+        "hanzi": "面",
+        "base": "mian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "outside (also pr. [wài mian] for this sense)；surface；exterior；external appearance",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_144",
+    "hskLevel": 2,
+    "hanzi": "完",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "完",
+        "base": "wan",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "to finish；to be over；whole；complete；entire",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_145",
+    "hskLevel": 2,
+    "hanzi": "万",
+    "partOfSpeech": "Numeral / Time Word",
+    "syllables": [
+      {
+        "hanzi": "万",
+        "base": "mo",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "used in 俟",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_146",
+    "hskLevel": 2,
+    "hanzi": "网上",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "网",
+        "base": "wang",
+        "tone": 3
+      },
+      {
+        "hanzi": "上",
+        "base": "shang",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "online",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_147",
+    "hskLevel": 2,
+    "hanzi": "往",
+    "partOfSpeech": "Preposition / Verb",
+    "syllables": [
+      {
+        "hanzi": "往",
+        "base": "wang",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to go (in a direction)；to；towards；(of a train) bound for；past；previous",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_148",
+    "hskLevel": 2,
+    "hanzi": "忘",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "忘",
+        "base": "wang",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to forget；to overlook；to neglect",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_149",
+    "hskLevel": 2,
+    "hanzi": "为什么",
+    "partOfSpeech": "Pronoun",
+    "syllables": [
+      {
+        "hanzi": "为",
+        "base": "wei",
+        "tone": 4
+      },
+      {
+        "hanzi": "什",
+        "base": "shen",
+        "tone": 2
+      },
+      {
+        "hanzi": "么",
+        "base": "me",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "why?；for what reason?",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_150",
+    "hskLevel": 2,
+    "hanzi": "位",
+    "partOfSpeech": "Classifier / Other",
+    "syllables": [
+      {
+        "hanzi": "位",
+        "base": "wei",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "position；location；place；seat；classifier for people (honorific)；classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)；(physics) potential",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_151",
+    "hskLevel": 2,
+    "hanzi": "希望",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "希",
+        "base": "xi",
+        "tone": 1
+      },
+      {
+        "hanzi": "望",
+        "base": "wang",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to hope；a hope; a wish",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_152",
+    "hskLevel": 2,
+    "hanzi": "洗",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "洗",
+        "base": "xi",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to wash; to bathe；to develop (photographs)；to shuffle (cards etc)；to erase (a recording)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_153",
+    "hskLevel": 2,
+    "hanzi": "洗手间",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "洗",
+        "base": "xi",
+        "tone": 3
+      },
+      {
+        "hanzi": "手",
+        "base": "shou",
+        "tone": 3
+      },
+      {
+        "hanzi": "间",
+        "base": "jian",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "toilet；lavatory；washroom",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_154",
+    "hskLevel": 2,
+    "hanzi": "下来",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "下",
+        "base": "xia",
+        "tone": 4
+      },
+      {
+        "hanzi": "来",
+        "base": "lai",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "to come down；(completed action marker)；(after verb of motion, indicates motion down and towards us, also fig.)；(indicates continuation from the past towards us)；to be harvested (of crops)；to be over (of a period of time)；to go among the masses (said of leaders)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_155",
+    "hskLevel": 2,
+    "hanzi": "下面",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "下",
+        "base": "xia",
+        "tone": 4
+      },
+      {
+        "hanzi": "面",
+        "base": "mian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "below；under；next；the following；also pr. [xià mian]",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_156",
+    "hskLevel": 2,
+    "hanzi": "下去",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "下",
+        "base": "xia",
+        "tone": 4
+      },
+      {
+        "hanzi": "去",
+        "base": "qu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to go down；to descend；to go on；to continue；(of a servant) to withdraw",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_157",
+    "hskLevel": 2,
+    "hanzi": "小孩儿",
+    "partOfSpeech": "Other",
+    "syllables": [
+      {
+        "hanzi": "小",
+        "base": "xiao",
+        "tone": 3
+      },
+      {
+        "hanzi": "孩",
+        "base": "hai",
+        "tone": 2
+      },
+      {
+        "hanzi": "儿",
+        "base": "r",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "erhua variant of 小孩；child",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_158",
+    "hskLevel": 2,
+    "hanzi": "小时候",
+    "partOfSpeech": "Time Word / Noun",
+    "syllables": [
+      {
+        "hanzi": "小",
+        "base": "xiao",
+        "tone": 3
+      },
+      {
+        "hanzi": "时",
+        "base": "shi",
+        "tone": 2
+      },
+      {
+        "hanzi": "候",
+        "base": "hou",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "in one's childhood",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_159",
+    "hskLevel": 2,
+    "hanzi": "笑",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "笑",
+        "base": "xiao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "old variant of 笑",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_160",
+    "hskLevel": 2,
+    "hanzi": "姓",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "姓",
+        "base": "xing",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "family name；surname；to be surnamed",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_161",
+    "hskLevel": 2,
+    "hanzi": "姓名",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "姓",
+        "base": "xing",
+        "tone": 4
+      },
+      {
+        "hanzi": "名",
+        "base": "ming",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "surname and given name；full name",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_162",
+    "hskLevel": 2,
+    "hanzi": "颜色",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "颜",
+        "base": "yan",
+        "tone": 2
+      },
+      {
+        "hanzi": "色",
+        "base": "se",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "color；countenance；appearance；facial expression；pigment；dyestuff",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_163",
+    "hskLevel": 2,
+    "hanzi": "眼睛",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "眼",
+        "base": "yan",
+        "tone": 3
+      },
+      {
+        "hanzi": "睛",
+        "base": "jing",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "eye",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "只"
+  },
+  {
+    "id": "hsk2_164",
+    "hskLevel": 2,
+    "hanzi": "药",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "药",
+        "base": "yao",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "leaf of the iris；variant of 药",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_165",
+    "hskLevel": 2,
+    "hanzi": "药店",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "药",
+        "base": "yao",
+        "tone": 4
+      },
+      {
+        "hanzi": "店",
+        "base": "dian",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "pharmacy",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_166",
+    "hskLevel": 2,
+    "hanzi": "爷爷",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "爷",
+        "base": "ye",
+        "tone": 2
+      },
+      {
+        "hanzi": "爷",
+        "base": "ye",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "(coll.) father's father；paternal grandfather",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_167",
+    "hskLevel": 2,
+    "hanzi": "一会儿",
+    "partOfSpeech": "Classifier",
+    "syllables": [
+      {
+        "hanzi": "一",
+        "base": "yi",
+        "tone": 1
+      },
+      {
+        "hanzi": "会",
+        "base": "hui",
+        "tone": 4
+      },
+      {
+        "hanzi": "儿",
+        "base": "r",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "a moment；a while；in a moment；now...now...；also pr. [yī huǐ r]",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_168",
+    "hskLevel": 2,
+    "hanzi": "一起",
+    "partOfSpeech": "Noun / Adverb",
+    "syllables": [
+      {
+        "hanzi": "一",
+        "base": "yi",
+        "tone": 1
+      },
+      {
+        "hanzi": "起",
+        "base": "qi",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "in the same place；together；with；altogether (in total)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_169",
+    "hskLevel": 2,
+    "hanzi": "已经",
+    "partOfSpeech": "Adverb",
+    "syllables": [
+      {
+        "hanzi": "已",
+        "base": "yi",
+        "tone": 3
+      },
+      {
+        "hanzi": "经",
+        "base": "jing",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "already",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_170",
+    "hskLevel": 2,
+    "hanzi": "意思",
+    "partOfSpeech": "Noun / Verb",
+    "syllables": [
+      {
+        "hanzi": "意",
+        "base": "yi",
+        "tone": 4
+      },
+      {
+        "hanzi": "思",
+        "base": "si",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "idea；opinion；meaning；wish；desire；interest；fun；token of appreciation, affection etc；to give as a small token；to do sth as a gesture of goodwill etc",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_171",
+    "hskLevel": 2,
+    "hanzi": "因为",
+    "partOfSpeech": "Preposition / Conjunction",
+    "syllables": [
+      {
+        "hanzi": "因",
+        "base": "yin",
+        "tone": 1
+      },
+      {
+        "hanzi": "为",
+        "base": "wei",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "because；owing to；on account of",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_172",
+    "hskLevel": 2,
+    "hanzi": "阴",
+    "partOfSpeech": "Adjective / Other / Adverb",
+    "syllables": [
+      {
+        "hanzi": "阴",
+        "base": "yin",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "surname Yin",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_173",
+    "hskLevel": 2,
+    "hanzi": "游",
+    "partOfSpeech": "Verb / Other",
+    "syllables": [
+      {
+        "hanzi": "游",
+        "base": "you",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "surname You",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_174",
+    "hskLevel": 2,
+    "hanzi": "游泳",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "游",
+        "base": "you",
+        "tone": 2
+      },
+      {
+        "hanzi": "泳",
+        "base": "yong",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "swimming；to swim",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_175",
+    "hskLevel": 2,
+    "hanzi": "有时",
+    "partOfSpeech": "Adverb",
+    "syllables": [
+      {
+        "hanzi": "有",
+        "base": "you",
+        "tone": 3
+      },
+      {
+        "hanzi": "时",
+        "base": "shi",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "sometimes；now and then",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_176",
+    "hskLevel": 2,
+    "hanzi": "有意思",
+    "partOfSpeech": "Phrase",
+    "syllables": [
+      {
+        "hanzi": "有",
+        "base": "you",
+        "tone": 3
+      },
+      {
+        "hanzi": "意",
+        "base": "yi",
+        "tone": 4
+      },
+      {
+        "hanzi": "思",
+        "base": "si",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "interesting；meaningful；enjoyable；fun",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_177",
+    "hskLevel": 2,
+    "hanzi": "右",
+    "partOfSpeech": "Noun / Adjective",
+    "syllables": [
+      {
+        "hanzi": "右",
+        "base": "you",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "(bound form) right; right-hand side；(bound form) (politics) right of center；(bound form) (old) west；(literary) the right side as the side of precedence",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_178",
+    "hskLevel": 2,
+    "hanzi": "右边",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "右",
+        "base": "you",
+        "tone": 4
+      },
+      {
+        "hanzi": "边",
+        "base": "bian",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "right side；right, to the right",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_179",
+    "hskLevel": 2,
+    "hanzi": "鱼",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "鱼",
+        "base": "yu",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "surname Yu",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_180",
+    "hskLevel": 2,
+    "hanzi": "远",
+    "partOfSpeech": "Adjective / Adverb",
+    "syllables": [
+      {
+        "hanzi": "远",
+        "base": "yuan",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "far；distant；remote；(intensifier in a comparison) by far；much (lower etc)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_181",
+    "hskLevel": 2,
+    "hanzi": "运动",
+    "partOfSpeech": "Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "运",
+        "base": "yun",
+        "tone": 4
+      },
+      {
+        "hanzi": "动",
+        "base": "dong",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to move；to exercise；sports；exercise；motion；movement；campaign",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "场"
+  },
+  {
+    "id": "hsk2_182",
+    "hskLevel": 2,
+    "hanzi": "站",
+    "partOfSpeech": "Verb / Noun / Classifier",
+    "syllables": [
+      {
+        "hanzi": "站",
+        "base": "zhan",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "station；to stand；to halt；to stop；branch of a company or organization；website",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_183",
+    "hskLevel": 2,
+    "hanzi": "长",
+    "partOfSpeech": "Adjective / Verb / Adverb",
+    "syllables": [
+      {
+        "hanzi": "长",
+        "base": "chang",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "length；long；forever；always；constantly",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_184",
+    "hskLevel": 2,
+    "hanzi": "丈夫",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "丈",
+        "base": "zhang",
+        "tone": 4
+      },
+      {
+        "hanzi": "夫",
+        "base": "fu",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "husband",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_185",
+    "hskLevel": 2,
+    "hanzi": "这么",
+    "partOfSpeech": "Pronoun",
+    "syllables": [
+      {
+        "hanzi": "这",
+        "base": "zhe",
+        "tone": 4
+      },
+      {
+        "hanzi": "么",
+        "base": "me",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "so much；this much；how much?；this way；like this",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_186",
+    "hskLevel": 2,
+    "hanzi": "这样",
+    "partOfSpeech": "Pronoun",
+    "syllables": [
+      {
+        "hanzi": "这",
+        "base": "zhe",
+        "tone": 4
+      },
+      {
+        "hanzi": "样",
+        "base": "yang",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "this kind of；so；this way；like this；such",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_187",
+    "hskLevel": 2,
+    "hanzi": "着",
+    "partOfSpeech": "Particle / Verb / Noun",
+    "syllables": [
+      {
+        "hanzi": "着",
+        "base": "zhao",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "(chess) move；trick；all right!；(dialect) to add",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_188",
+    "hskLevel": 2,
+    "hanzi": "正",
+    "partOfSpeech": "Adverb / Adjective / Verb",
+    "syllables": [
+      {
+        "hanzi": "正",
+        "base": "zheng",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "first month of the lunar year",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_189",
+    "hskLevel": 2,
+    "hanzi": "周",
+    "partOfSpeech": "qt / Noun / Other",
+    "syllables": [
+      {
+        "hanzi": "周",
+        "base": "zhou",
+        "tone": 1
+      }
+    ],
+    "meaningEn": "surname Zhou；Zhou Dynasty (1046-256 BC)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_190",
+    "hskLevel": 2,
+    "hanzi": "准备",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "准",
+        "base": "zhun",
+        "tone": 3
+      },
+      {
+        "hanzi": "备",
+        "base": "bei",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "preparation；to prepare；to intend；to be about to；reserve (fund)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_191",
+    "hskLevel": 2,
+    "hanzi": "自己",
+    "partOfSpeech": "Pronoun / Verb",
+    "syllables": [
+      {
+        "hanzi": "自",
+        "base": "zi",
+        "tone": 4
+      },
+      {
+        "hanzi": "己",
+        "base": "ji",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "oneself；one's own",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_192",
+    "hskLevel": 2,
+    "hanzi": "走",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "走",
+        "base": "zou",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "to walk；to go；to run；to move (of vehicle)；to visit；to leave；to go away；to die (euph.)；from；through；away (in compound verbs, such as 走)；to change (shape, form, meaning)",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_193",
+    "hskLevel": 2,
+    "hanzi": "走路",
+    "partOfSpeech": "Verb",
+    "syllables": [
+      {
+        "hanzi": "走",
+        "base": "zou",
+        "tone": 3
+      },
+      {
+        "hanzi": "路",
+        "base": "lu",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "to walk；to go on foot",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_194",
+    "hskLevel": 2,
+    "hanzi": "足球",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "足",
+        "base": "zu",
+        "tone": 2
+      },
+      {
+        "hanzi": "球",
+        "base": "qiu",
+        "tone": 2
+      }
+    ],
+    "meaningEn": "soccer ball；a football；soccer；football",
+    "meaningKo": "",
+    "sentences": [],
+    "measureWord": "个"
+  },
+  {
+    "id": "hsk2_195",
+    "hskLevel": 2,
+    "hanzi": "最",
+    "partOfSpeech": "Adverb / Other",
+    "syllables": [
+      {
+        "hanzi": "最",
+        "base": "zui",
+        "tone": 4
+      }
+    ],
+    "meaningEn": "variant of 最",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_196",
+    "hskLevel": 2,
+    "hanzi": "左",
+    "partOfSpeech": "Noun / Adjective",
+    "syllables": [
+      {
+        "hanzi": "左",
+        "base": "zuo",
+        "tone": 3
+      }
+    ],
+    "meaningEn": "surname Zuo",
+    "meaningKo": "",
+    "sentences": []
+  },
+  {
+    "id": "hsk2_197",
+    "hskLevel": 2,
+    "hanzi": "左边",
+    "partOfSpeech": "Noun",
+    "syllables": [
+      {
+        "hanzi": "左",
+        "base": "zuo",
+        "tone": 3
+      },
+      {
+        "hanzi": "边",
+        "base": "bian",
+        "tone": 0
+      }
+    ],
+    "meaningEn": "left；the left side；to the left of",
+    "meaningKo": "",
+    "sentences": []
+  }
+]
